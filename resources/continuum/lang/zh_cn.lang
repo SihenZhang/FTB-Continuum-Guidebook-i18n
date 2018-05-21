@@ -1,0 +1,81 @@
+#PARSE_ESCAPES
+
+#Quest
+continuum.logs.name=我是个伐木工，我现在很好
+continuum.logs.desc=像几乎所有的整合包一样，你首先要砍树。现在，通过合成制作木板只会给你 2 块木板而不是 4 块，而且你只能制作原版的木板。要获得更多的木板或来自模组的木板，你必须使用锯木机。\n\n任何原木都可完成该任务。
+
+continuum.efab.name=极好的 EFab
+continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n点击“显示物品用途”按钮（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级插槽中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
+
+continuum.tinkering.name=修修补补
+continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
+
+continuum.smeltery.name=熔化器
+continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石、板和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的液体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 30 分钟的时间。
+
+continuum.lunch_box.name=多样化就是生活调味料
+continuum.lunch_box.desc=多亏了“生活调味料”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳2种食物，共计6种食物。当午餐盒关闭时，右键使用它来打开 GUI 并放入食物。潜行时右键使用来打开它。通过使用午餐盒，你可以直接在打开的午餐盒外用餐。The Lunch Box allows you to keep up to 6 different foods, up to 2 of each for a total of 6 foods, in a single item. Use it while it\u0027s closed to open the GUI and insert the foods. Use it while sneaking to open it. You can directly eat out of an open Lunch Box by using it.
+
+continuum.cooking.name=我是厨师
+continuum.cooking.desc=因为我们有“生活调味料”，所以我们需要大量不同的食物。“傻瓜式烹饪”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将Pam's Harvestcraft的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
+
+continuum.coke_oven.name=Baking Bad
+continuum.coke_oven.desc=The Coke Oven is a multiblock machine that turns 1 Coal into 1 Coal Coke and 500 mB of Creosote Oil. To make it, place a 3x3x3 of Coke Brick in the world and right-click an Engineer\u0027s Hammer on the middle of the face you want the front of the Coke Oven to be.\
+To make Treated Wood in the EFab, part of the multiblock must be a Tank. Tanks can store up to 10,000mB of a single fluid. You can have multiple Tanks within a single EFab structure and they can have separate fluids. Tanks stacked on top of each other will attatch and combine their storage space.
+
+continuum.forestry_machine.name=Not Really for Wood
+continuum.forestry_machine.desc=The Carpenter is a machine that uses RF to craft from recipes, which can also use fluids. In the crafting grid, set the recipe by clicking items in the proper slots. The items do not actually go in the crafting grid, they go in the 18 storage slots and get used up as the Carpenter crafts.\
+The Thermionic Fabricator is another machine that uses RF to melt Glass and use it to make Electron Tubes, among other things. Place Sand or Glass in the top left slot and it will melt it at the cost of RF. It is otherwise used similar to the Carpenter as far as crafting goes.
+
+continuum.atomic_reconstructor.name=Technological Transmutation
+continuum.atomic_reconstructor.desc=The Atomic Reconstructor §1§0§f§§§ruses CF (which is the same as RF and FE, just another name) to change certain things into certain other things.\
+Place the machine down facing the direction you want the laser to go to. The laser itself does not change items, it changes items in a small area around the block the laser hits. By default, it is set so that a Redstone signal will turn the Atomic Reconstructor off; it will fire the laser as often as it can so long as there is nothing turning it off and it has power. It is recommended to right-click the machine with a Redstone Torch, which turns it into Pulse Mode, and it will not fire unless given a Redstone signal.\
+Hit U while hovering over the Atomic Reconstructor to see its uses.
+
+continuum.yabba.name=YABBA Dabba Doo
+continuum.yabba.desc=Barrels store large amounts of a single item and keep their contents when broken. Right click on a barrel to store the item you\u0027re holding, or hold right click to store all of that item from your inventory. Punch to pull one item out, and sneak punch to pull out a stack. You can sneak right click on a Barrel to open it\u0027s GUI and modify its settings.\
+You can use the Barrel Hammer to change the model of the Barrel. The Barrel Painter allows you to change the texture of the Barrel. Sneak right click the tools to open their GUIs and select the model or texture you wish, then right click on the Barrel to apply it.\
+By default, a Barrel can store up to 4096 items. You can upgrade the tier, multiplying the storage capacity by 4 times the previous tier, up to 262,144 items with the Diamond Tier upgrade. After that you can install the Infinite Capacity upgrade which removes the maximum limit entirely.\
+There\u0027s also a Hopper Upgrade which allows you to automatically pull from the top face and push into the bottom face like a Hopper, and adds the option to pick up item entities on the top face. The Collect Pickups upgrade will make it work like a single item backpack, automatically moving items you pick up into the Barrel if there\u0027s room; it\u0027s very useful for keeping Cobblestone clutter down early game. The Void Items upgrade allows you to insert items while full, destroying the item in the process. This is useful for Barrels that hold Cobblestone, as you can still put Cobblestone in it when it\u0027s full instead of throwing it in a corner.\
+The Item Barrel Connector allows you to access all Barrels touching either the IBC or Barrels that §oare §rthrough pipes and other automation. Open its GUI and you can remotely open the settings for other Barrels.\
+The AntiBarrel works like the polar opposite of a Barrel. It holds infinite amounts of items that do not stack. You cannot store items that would normally stack.
+
+continuum.drawer.name=Stock Cupboards
+continuum.drawer.desc=Storage Drawers come in 3 varieties: they can hold either 1, 2, or 4 different items. They all store up to 32 stacks by default, which is split equally between the amount of slots it has. Half Drawers hold half as much. You can open the GUI by sneak right clicking the Storage Drawer to apply upgrades.\
+There are several upgrades Drawers can have. Storage Upgrades increase the storage capacity of a Drawer. They do not require the previous tier and you can have multiple of the same tier at once. The Drawer Key will lock or unlock a Drawer, so that only what is currently inside it can ever be inserted into it, even when emptied.\
+The Compacting Drawer is special in that it shows the higher and lower versions of the item you place inside it. For example, if you placed a Gold Ingot inside, it would show Gold Nuggets and Gold Blocks as well. You are also able to pull any of the 3 out if you have enough of that item inside.\
+The Drawer Controller allows you to interact with all connected Drawers through pipes or other automation. Drawers that are touching the Drawer Controller (or Drawers that are touching Drawers that are, etc) are connected. You can use Controller Slaves as extensions of the Drawer Controller if you run out of faces to interact with. You can manually insert items into connected Drawers through the Drawer Controller like you would normally, but you cannot manually extract items through it.
+
+continuum.clockwork_engine.name=Cranking Up the Heat
+continuum.clockwork_engine.desc=The only RF generator you can make so far is the Clockwork Engine. It uses no fuel, it needs to be manually wound. As you wind it by holding right click on it, it will increase in heat, as you can tell from the color change. If you let it go to the red, it will start damaging you, so don\u0027t get too overzealous with it. Once you let go, it will start generating RF while it cools down. The faster it is, the more RF/t it produces. You won\u0027t be able to pipe RF for a while, you have to place the Clockwork Engine next to the machines you want to use until you get better generators and Fluxducts.
+
+continuum.empowerer.name=A Certain Scientific Infusion Altar
+continuum.empowerer.desc=The Empowerer is a multiblock machine that uses RF to combine 5 items into 1. The Empowerer itself should be placed in the middle of a + shape of Display Stands, with 2 blocks in between the Display Stands and the Empowerer. Give the Display Stands RF and put the correct items in each of the Stands and the Empowerer, and it will start the crafting process.
+
+continuum.grindstone.name=Arm\u0027s Length, Please
+continuum.grindstone.desc=The Quartz Grindstone allows you to double your ores by using the Crank while ores are inside. Grinding an ore does not have a 100 percent chance to double ores, and is §overy§o §rslow and cannot be automated.
+
+continuum.te_sawmill.name=Really for Wood
+continuum.te_sawmill.name=Thermal Expansion\u0027s Sawmill allows you to get 4 Planks per log, as well as unlocking Planks from non-vanilla logs. Simply supply RF, stick some logs in there, and watch the Planks flow.
+
+continuum.update_quests.name=Update quests
+continuum.update_quests.name=This quest is for when the modpack updates, and will update the quests and rewards. Click the checbox to the right, then claim both command rewards.
+
+continuum.engineers_workbench.name=Engineer\u0027s Workbench
+continuum.engineers_workbench.desc=The Workshop Table has 4 slots for either Crafting Tables or Furnaces, which means you can use them all at the same time. In the \"Upgrades\" tab, you can set which quarter has the Furnaces or Crafting Tables. Items stay inside the Workshop Table when you close it.\
+You can apply a single Storage Upgrade to each Crafting Table slot, giving it 9 items for it to use. When crafting with a Storage Upgrade installed, items will be pulled out of the 9 slots instead of the crafting grid.
+
+continuum.coal_generator.name=Old King Coal
+continuum.coal_generator.desc=Now that we have the Carpenter, and thus Circuit Boards, there are some better RF generators you can make. These use Coal and other burnables rather than manual winding, so they can make RF while you\u0027re gone.\
+The Coal Generator makes less RF than the Survival Generator, but it has higher RF generation speed. The Survival Generator makes more than 1.5x as much RF, but it does so much slower.
+
+continuum.fluxduct.name=Flowing Power
+continuum.fluxduct.desc=Leadstone Fluxducts are the first way you will be able to transfer power from a source of RF to a machine. Place them in such a way that they connect the two, and RF will transfer through it.\
+The Leadstone Fluxduct can only transfer 1,000 RF/t per connection, while the Hardened Fluxduct can transfer 4,000 RF/t.
+
+continuum.engineers_manual.name=Lexica Technica
+continuum.engineers_manual.desc=The Engineer\u0027s Manual is the guidebook for Immersive Engineering. It has detailed instructions on what things do and how they work. Any recipes changed for this pack may not be reflected inside.
+
+continuum.blast_furnace.name=Harder, Better
+continuum.blast_furnace.desc=The Crude Blast Furnace allows you to create Steel. Create a 3x3x3 cube of Blast Brick and use an Engineer\u0027s Hammer on the middle block of the face you wish the front to be.\
+You cannot automatically pull from or push into a Crude Blast Furnace. You need to use Coal Coke as fuel to turn the Iron into Steel.
