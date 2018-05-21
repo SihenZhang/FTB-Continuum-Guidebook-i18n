@@ -4550,8 +4550,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "tr_continuum.rolling_machine.name",
-          "desc:8": "tr_continuum.rolling_machine.desc"
+          "name:8": "continuum.tr_rolling_machine.name",
+          "desc:8": "continuum.tr_rolling_machine.desc"
         }
       },
       "tasks:9": {
@@ -13859,7 +13859,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.connom_planet_dim.name",
+          "name:8": "Common planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 40,
@@ -13946,7 +13946,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.dustsngems_dim.name",
+          "name:8": "DustsnGems",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 41,
@@ -14033,7 +14033,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.precious_planet_dim.name",
+          "name:8": "Precious planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 42,
@@ -14120,7 +14120,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.hellish_dim.name",
+          "name:8": "Hellish",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 43,
@@ -19568,7 +19568,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.eye_of_storm_dim.name",
+          "name:8": "The Eye of the Storm",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 45,
@@ -19822,7 +19822,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.litherite_dim.name",
+          "name:8": "Litherite planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 30,
@@ -19885,7 +19885,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.erodium_dim.name",
+          "name:8": "Erodium planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 31,
@@ -19948,7 +19948,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.kyronite_dim.name",
+          "name:8": "Kyronite planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 32,
@@ -20011,7 +20011,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.pladium_dim.name",
+          "name:8": "Pladium planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 33,
@@ -20074,7 +20074,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.ionite_dim.name",
+          "name:8": "Ionite planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 34,
@@ -20137,7 +20137,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.aethium_dim.name",
+          "name:8": "Aethium planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 35,
@@ -20200,7 +20200,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.lonsdaleite_dim.name",
+          "name:8": "Lonsdleite planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 36,
@@ -20339,7 +20339,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.oil_planet_dim.name",
+          "name:8": "Black Gold planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 51,
@@ -20429,7 +20429,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.honey_planet_dim.name",
+          "name:8": "Honey planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 52,
@@ -20519,7 +20519,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.dna_planet_dim.name",
+          "name:8": "Liquid DNA planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 53,
@@ -20609,7 +20609,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.redstone_planet_dim.name",
+          "name:8": "Red Blood planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 54,
@@ -20699,7 +20699,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.cryotheum_planet_dim.name",
+          "name:8": "Gelid Cryotheum planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 55,
@@ -20789,7 +20789,7 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "continuum.ender_planet_dim.name",
+          "name:8": "Resonant Ender planet",
           "range:3": -1,
           "index:3": 1,
           "dimension:3": 56,
@@ -21631,7 +21631,7 @@
       "lineID:3": 0,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "It\u0027s Like a Whole New Game",
+          "name:8": "continuum.new_game.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -21789,7 +21789,7 @@
       "lineID:3": 1,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Factorio",
+          "name:8": "continuum.factorio.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -22061,7 +22061,7 @@
       "lineID:3": 2,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Industrial Rebirth",
+          "name:8": "continuum.industrial_rebirth.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -22291,7 +22291,7 @@
       "lineID:3": 3,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Thermal Foregoing",
+          "name:8": "continuum.thermal_foregoing.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -22521,7 +22521,7 @@
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Digital Style",
+          "name:8": "continuum.digital_style.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -22829,7 +22829,7 @@
       "lineID:3": 5,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "The Final Frontier",
+          "name:8": "continuum.final_frontier.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -23023,7 +23023,7 @@
       "lineID:3": 6,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "The Basis of All Alchemy",
+          "name:8": "continuum.alchemy.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
@@ -23349,7 +23349,7 @@
       "lineID:3": 7,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Obligatory Hoarding Quests",
+          "name:8": "continuum.hoarding.name",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": ""
