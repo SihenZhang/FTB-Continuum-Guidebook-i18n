@@ -8,16 +8,16 @@ continuum.efab.name=极好的 EFab
 continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n按下“显示物品用途”的按键（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级插槽中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
 
 continuum.tinkering.name=修修补补
-continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
+continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂（Tinkers' Construct）了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
 
 continuum.smeltery.name=熔化器
 continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石、板和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的液体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 30 分钟的时间。
 
 continuum.lunch_box.name=多样化就是生活调味料
-continuum.lunch_box.desc=多亏了“生活调味料”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n一个午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳 2 组，共计 6 组食物。当午餐盒关闭时，右键使用它来打开它的 GUI 并放入食物。潜行时右键使用来开启午餐盒。通过使用开启的午餐盒，你可以直接吃到里面的食物。
+continuum.lunch_box.desc=多亏了“生活调味料（The Spice of Life）”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n一个午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳 2 组，共计 6 组食物。当午餐盒关闭时，右键使用它来打开它的 GUI 并放入食物。潜行时右键使用来开启午餐盒。通过使用开启的午餐盒，你可以直接吃到里面的食物。
 
 continuum.cooking.name=我是厨师
-continuum.cooking.desc=因为我们有“生活调味料”，所以我们需要大量不同的食物。“傻瓜式烹饪”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将Pam's Harvestcraft的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
+continuum.cooking.desc=因为我们有“生活调味料（The Spice of Life）”，所以我们需要大量不同的食物。“傻瓜式烹饪（Cooking for Blockheads）”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将Pam's Harvestcraft的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
 
 continuum.coke_oven.name=烤焦了
 continuum.coke_oven.desc=焦炉是一种多方块机器，它可将 1 个煤炭转变为 1 个焦炭和 500mB 的杂酚油。要搭建一个焦炉，你需要将焦炉砖摆成 3x3x3 的形状，然后用工程师锤右键你所希望的焦炉正面所在的面的中间的焦炉砖。\n\n要想在 EFab 中制作防腐木板，储罐作为其多方块结构的一部分是必需的。储罐可以储存一种液体多达 10000mB。你可以在一个 EFab 结构内摆放多个储罐，并且可以分别存储不同的液体。在储罐顶部摆放的储罐将会连接并合并它们的存储空间。
@@ -26,70 +26,70 @@ continuum.forestry_machine.name=并不是真的用于木头
 continuum.forestry_machine.desc=木工机是一种使用 RF 来制作物品的机器，其配方也可以使用液体。在合成格中，使用物品点击相应的槽位中来设置配方。这些物品实际上并没有放入合成格，而是要放入 18 个存储槽中，并且随着木工机进行的合成而消耗物品。\n\n热电子加工台是另一台使用 RF 来熔化玻璃并用它制造电子管和其它物品的机器。将沙子或玻璃放入左上角的槽中，并消耗 RF 将其融化。就合成而言，它的使用方法类似于木工机。
 
 continuum.atomic_reconstructor.name=科技嬗变术
-continuum.atomic_reconstructor.desc=原子再构机§1§0§f§§§r使用 CF（与 RF 和 FE 相同，只是名字不同）来将一种特定物品转变成另一种特定物品。\n\n将机器朝向你想要发射激光的方向。激光本身不会改变物品，它会改变激光命中区域周围小范围内的物品。默认情况下，它被设置为接收到红石信号才会关闭；只要没有关闭它且它有能量，它就会经常性发射激光。建议用红石火把右键点击机器，将其变成脉冲模式，此时除非提供红石信号，否则它不会发射。\n\n鼠标悬停在原子再构机上的同时按下 U 键可以查看它的用途。
+continuum.atomic_reconstructor.desc=原子再构机§1§0§f§§§r使用 CF（与 RF 和 FE 相同，只是名字不同）来将某一种物品转变成另一种物品。\n\n将机器朝向你想要发射激光的方向。激光本身不会改变物品，它会改变激光命中区域周围小范围内的物品。默认情况下，它被设置为接收到红石信号才会关闭；只要没有关闭它且它有能量，它就会经常性发射激光。建议用红石火把右键点击机器，将其变成脉冲模式，此时除非提供红石信号，否则它不会发射。\n\n鼠标悬停在原子再构机上的同时按下 U 键可以查看它的用途。
 
 continuum.yabba.name=YABBA Dabba Doo
 continuum.yabba.desc=桶能够存储大量的一种物品，并且在被破坏时也能保留内部的物品。用鼠标右键点击一个桶来存储你手持的物品，或者按住右键点击以存储你背包中的所有同种物品。左键以取出一个物品，潜行时左键取出一组物品。你可以潜行时右键点击桶来打开它的 GUI 并修改它的设置。\n\n你可以使用桶锤改变桶的样式。桶刷则可以改变桶的材质。潜行时右键单击工具以打开其 GUI，然后选择你所想要的样式或材质，然后右键单击桶以应用它。\n\n默认情况下，一个桶可以存储多达 4096 个物品。你可以进行升级，新一级为前一级的 4 倍，钻石升级后最多可存储 262,144 个物品。之后，你可以安装无限容量升级，完全移除最大限制。\n\n此外还有一个漏斗升级，桶安装此升级后就与漏斗类似，可以从顶部自动抽取物品并在底部自动输出，还有了在顶部拾取物品的功能。自动拾取升级将使它能像单种物品背包一样工作，如果有空间，会自动将拾取的物品放入桶中；这在早期对于避免圆石过多导致混乱非常有用。虚空物品升级能在物品满时将放入桶中的物品销毁。这对装圆石的桶很有用，因为当圆石满了的时后，你仍然可以将圆石放入其中，而不是把它扔到角落里。\n\n储物桶连接器可以让你能够§o通过管道或其它自动化形式§r来访问所有与储物桶连接器相连或与桶相连的桶。打开它的 GUI，你可以远程打开其他桶的设置界面。\n\n奇异桶像是桶的另一个极端。它可以无限量地存储不能堆叠的物品。你不能存储堆叠的物品。
 
-continuum.drawer.name=Stock Cupboards
-continuum.drawer.desc=Storage Drawers come in 3 varieties: they can hold either 1, 2, or 4 different items. They all store up to 32 stacks by default, which is split equally between the amount of slots it has. Half Drawers hold half as much. You can open the GUI by sneak right clicking the Storage Drawer to apply upgrades.\n\nThere are several upgrades Drawers can have. Storage Upgrades increase the storage capacity of a Drawer. They do not require the previous tier and you can have multiple of the same tier at once. The Drawer Key will lock or unlock a Drawer, so that only what is currently inside it can ever be inserted into it, even when emptied.\n\nThe Compacting Drawer is special in that it shows the higher and lower versions of the item you place inside it. For example, if you placed a Gold Ingot inside, it would show Gold Nuggets and Gold Blocks as well. You are also able to pull any of the 3 out if you have enough of that item inside.\n\nThe Drawer Controller allows you to interact with all connected Drawers through pipes or other automation. Drawers that are touching the Drawer Controller (or Drawers that are touching Drawers that are, etc) are connected. You can use Controller Slaves as extensions of the Drawer Controller if you run out of faces to interact with. You can manually insert items into connected Drawers through the Drawer Controller like you would normally, but you cannot manually extract items through it.
+continuum.drawer.name=储物用橱柜
+continuum.drawer.desc=存储抽屉有三种：能分别存储 1 种、2 种、4 种不同的物品。默认情况下，它们最多可以存储 32 组物品，存储数量在其所拥有的存储位数量之间平均分配。小型抽屉则只有一半的容量。潜行时右键单击存储抽屉来打开 GUI 以安装升级。\n\n抽屉可以安装几个升级。存储升级可增加抽屉的存储容量。这些升级不需要上一级升级，并且可以同时拥有多个相同的升级。抽屉钥匙可以锁定或解锁抽屉，以便只有当前内部存有的物品才能放入抽屉，即使在其被清空时也是如此。\n\n压缩抽屉的特殊之处在于它可以显示了放置在其中的物品的压缩版本和拆解版本。例如，如果你在里面放入了金锭，它也会显示金粒和金块。如果其内部有足够的物品，你也可以将其中的任何一种取出。\n\n抽屉控制器可以让你通过管道或其他自动化方式与所有相连的抽屉交互。与抽屉控制器接触的抽屉（或接触相应抽屉的抽屉）都将被连接。如果你用完了抽屉管理器的可交互面，则可以使用管理器传动方块作为抽屉控制器的扩展。你可以像往常一样通过抽屉控制器手动将物品放入相连的抽屉中，但是无法通过它手动取出物品。
 
-continuum.clockwork_engine.name=Cranking Up the Heat
-continuum.clockwork_engine.desc=The only RF generator you can make so far is the Clockwork Engine. It uses no fuel, it needs to be manually wound. As you wind it by holding right click on it, it will increase in heat, as you can tell from the color change. If you let it go to the red, it will start damaging you, so don't get too overzealous with it. Once you let go, it will start generating RF while it cools down. The faster it is, the more RF/t it produces. You won't be able to pipe RF for a while, you have to place the Clockwork Engine next to the machines you want to use until you get better generators and Fluxducts.
+continuum.clockwork_engine.name=提高热量
+continuum.clockwork_engine.desc=目前唯一可以制作的 RF 发电机是发条引擎。它并不使用燃料，却需要手动去上发条。对它按住右键来上发条，它就会不断增加热量，你可以从颜色变化中看出来这点。如果它变成了红色，它就会开始对你造成伤害，所以不要对它太过于热情。一旦你放手，它会在冷却的同时开始产生 RF。它运动得越快，它所能产生的 RF/t 就越大。你在一段时间内无法用管道运输 RF，因此必须将发条引擎放置在要使用的机器旁边，直到你获得了更好的发电机和能量管道。
 
-continuum.empowerer.name=A Certain Scientific Infusion Altar
-continuum.empowerer.desc=The Empowerer is a multiblock machine that uses RF to combine 5 items into 1. The Empowerer itself should be placed in the middle of a + shape of Display Stands, with 2 blocks in between the Display Stands and the Empowerer. Give the Display Stands RF and put the correct items in each of the Stands and the Empowerer, and it will start the crafting process.
+continuum.empowerer.name=某种科学的注魔祭坛
+continuum.empowerer.desc=充能台是一个使用 RF 将 5 个物品合并为 1 个物品的多方块机器。充能台本体应放置在由物品展示台组成的“+”形状的中间，物品展示台和充能台之间间隔 2 个方块。给物品展示台提供 RF 并在每个物品展示台和充能台中放入正确的物品，即可开始合成过程。
 
-continuum.grindstone.name=Arm's Length, Please
-continuum.grindstone.desc=The Quartz Grindstone allows you to double your ores by using the Crank while ores are inside. Grinding an ore does not have a 100 percent chance to double ores, and is §overy§o §rslow and cannot be automated.
+continuum.grindstone.name=请保持一臂之远
+continuum.grindstone.desc=将矿石放入石英磨具中，使用曲柄，可以使矿物翻倍。磨矿不会 100％ 的翻倍，并且速度§o超级§o§r慢且不能自动化。
 
-continuum.te_sawmill.name=Really for Wood
-continuum.te_sawmill.desc=Thermal Expansion's Sawmill allows you to get 4 Planks per log, as well as unlocking Planks from non-vanilla logs. Simply supply RF, stick some logs in there, and watch the Planks flow.
+continuum.te_sawmill.name=真的用于木头
+continuum.te_sawmill.desc=热力膨胀（Thermal Expansion）的锯木机能让你每个木头获得 4 块木板，并使你能够获得非原版的木板。只需提供 RF，放入一些原木，然后坐等木板产出即可。
 
-continuum.update_quests.name=Update quests
-continuum.update_quests.desc=This quest is for when the modpack updates, and will update the quests and rewards. Click the checbox to the right, then claim both command rewards.
+continuum.update_quests.name=更新任务
+continuum.update_quests.desc=这个任务是用于整合包更新，且有更新任务和奖励的时候。点击右侧的复选框，然后领取两个命令奖励。
 
-continuum.engineers_workbench.name=Engineer's Workbench
-continuum.engineers_workbench.desc=The Workshop Table has 4 slots for either Crafting Tables or Furnaces, which means you can use them all at the same time. In the "Upgrades" tab, you can set which quarter has the Furnaces or Crafting Tables. Items stay inside the Workshop Table when you close it.\n\nYou can apply a single Storage Upgrade to each Crafting Table slot, giving it 9 items for it to use. When crafting with a Storage Upgrade installed, items will be pulled out of the 9 slots instead of the crafting grid.
+continuum.engineers_workbench.name=工程师工作台
+continuum.engineers_workbench.desc=Engineer's Workshop的工作台拥有 4 个槽位，可以放入工作台或熔炉，这意味着你可以同时使用它们。在“升级（Upgrades）”标签页中，你可以设置哪个区域为熔炉或工作台。当你关闭它时，物品会保留在工作台中。\n\n你可以将一个存储升级应用到每个工作台槽，并为其提供 9 种物品供其使用。在安装存储升级的工作台合成物品时，将消耗 9 个槽位中的物品，而不是合成格中的。
 
-continuum.coal_generator.name=Old King Coal
-continuum.coal_generator.desc=Now that we have the Carpenter, and thus Circuit Boards, there are some better RF generators you can make. These use Coal and other burnables rather than manual winding, so they can make RF while you're gone.\n\nThe Coal Generator makes less RF than the Survival Generator, but it has higher RF generation speed. The Survival Generator makes more than 1.5x as much RF, but it does so much slower.
+continuum.coal_generator.name=老国王煤炭
+continuum.coal_generator.desc=现在我们有了木工机，也就有了电路板，我们可以制作更好的 RF 发电机了。这些发电机能够使用煤炭和其他可燃物而不是手动上发条，所以他们可以在你离开时产生 RF。\n\n煤炭发电机所能产生的 RF 要比生存者发电机少，但它具有更高的 RF 产生速率。生存发电机产生的 RF 要比煤炭发电机多 1.5 倍，但速度要慢得多。
 
-continuum.fluxduct.name=Flowing Power
-continuum.fluxduct.desc=Leadstone Fluxducts are the first way you will be able to transfer power from a source of RF to a machine. Place them in such a way that they connect the two, and RF will transfer through it.\n\nThe Leadstone Fluxduct can only transfer 1,000 RF/t per connection, while the Hardened Fluxduct can transfer 4,000 RF/t.
+continuum.fluxduct.name=流动的能量
+continuum.fluxduct.desc=铅石能量管道是你能够将能量从 RF 的来源传输到机器的第一种方式。用管道将两者连接，RF 将通过管道进行传输。\n\n铅石能量管道每个连接的传输量只有 1,000 RF/t，而硬化能量管道能够达到 4,000 RF/t。
 
-continuum.engineers_manual.name=Lexica Technica
-continuum.engineers_manual.desc=The Engineer's Manual is the guidebook for Immersive Engineering. It has detailed instructions on what things do and how they work. Any recipes changed for this pack may not be reflected inside.
+continuum.engineers_manual.name=科技辞典
+continuum.engineers_manual.desc=工程师手册是沉浸工程（Immersive Engineering）的指导书。它详细的描述了物品的功能及其如何工作。本整合包所改动的配方可能不会在其中显示。
 
-continuum.crude_blast_furnace.name=Harder, Better
-continuum.crude_blast_furnace.desc=The Crude Blast Furnace allows you to create Steel. Create a 3x3x3 cube of Blast Brick and use an Engineer's Hammer on the middle block of the face you wish the front to be.\n\nYou cannot automatically pull from or push into a Crude Blast Furnace. You need to use Coal Coke as fuel to turn the Iron into Steel.
+continuum.crude_blast_furnace.name=更硬，更好
+continuum.crude_blast_furnace.desc=粗制高炉可以让你生产钢材。搭建一个 3x3x3 的高炉砖的立方体，然后用工程师锤右键你所希望的高炉正面所在的面的中间的高炉砖。\n\n粗制高炉不能进行自动化地输入和输出。你需要使用焦煤作为燃料将铁转化为钢。
 
-continuum.improved_blast_furnace.name=Faster
-continuum.improved_blast_furnace.desc=The Improved Blast Furnace allows you to automate the production of Steel. Coal Coke and Iron can be pushed in through the top face, Steel comes out through the front, and Slag comes out through the back. It is constructed similar to the Crude Blast Furnace, but using Reinforced Blast Brick instead and a Hopper on top.\n\nOn either side of the Improved Blast Furnace, you can have Blast Furnace Preheaters to speed up the process at the cost of RF. At the cost of 32 RF/t, they will each speed it up by 100 percent, at the maximum of 3 times fast with both Preheaters at the cost of 64 RF/t. RF is provided at the top of the Preheater.\n\nThe Improved Blast Furnace is 3x4x3 (3x4x5 with both Preheaters installed).
+continuum.improved_blast_furnace.name=更快
+continuum.improved_blast_furnace.desc=精致高炉可以让你自动化生产钢材。焦煤和铁可以从上方输入，钢可以从前面输出，而矿渣会从后方输出。其结构与粗制高炉相似，但却是使用了精致高炉砖代替了高炉砖且其顶部需要摆放一个漏斗。\n\n在精致高炉的每个侧面，你都可以摆放高炉鼓风机消耗 RF 来加快过程。当消耗 32 RF/t 时，每个高炉鼓风机都能 100% 地加速，当两个高炉鼓风机消耗 64 RF/t 时，其达到最大速度，为初始速度的 3 倍。RF 需要在鼓风机的顶部提供。\n\n精致高炉为 3x4x3（如果安装两个高炉鼓风机则为 3x4x5）。
 
-continuum.tree_fluid_extractor.name=Tree Juice
-continuum.tree_fluid_extractor.desc=The Tree Fluid Extractor extracts tree fluids. Namely, Latex. Place the Tree Fluid Extractor so that it faces a log, and it will slowly generate Latex with no RF cost. It has a chance to destroy the log, and that chance increases every time a bit of Latex is extracted from that log. It is a good idea to stock up on a lot of Latex.
+continuum.tree_fluid_extractor.name=树汁
+continuum.tree_fluid_extractor.desc=树液提取器能够提取树液。这种树液被称作胶乳。摆放一个树液提取器使其面向原木，它就会缓慢地生成胶乳且不消耗 RF。它有一定几率会破坏原木，并且这个几率会随着胶乳从原木中被提取而逐渐升高。存储大量胶乳是一个不错的主意。
 
-continuum.conveyor.name=Here to There
-continuum.conveyor.desc=Conveyor Belts are the earliest way you can move items automatically (aside from Hoppers). Place them in the world and they will move items that are on top of them in the direction they are facing. They will push into an inventory if they can, but you need a Hopper (or other automation) to pull from one.\n\nThere are several kinds of Conveyor Belt. The Dropping Conveyor Belt will drop items through it if there is no block under it, or insert items into an inventory under it if it can. The Vertical Conveyor Belt will move items straight up. The Splitting Conveyor Belt will make items turn left or right, alternating per item stack that passes through it. Covered Conveyor Belts will prevent items from being picked up off of it by the player.
+continuum.conveyor.name=从这儿到那儿
+continuum.conveyor.desc=传送带是你可以自动化传输物品的最早的方式（漏斗除外）。将传送带摆下来，它将朝着它面对的方向传输位于其上方的物品。如果可以的话，他们会将物品输出到物品缓存中，但是你需要一个漏斗（或其他自动化设备）从物品缓存中抽取。\n\n有这么几种传送带。卸货传送带下方如果没有任何方块则会将物品漏下，或者如果可能的话将物品放入其下方的物品缓存中。垂直传送带能直接向上传送物品。分流传送带将使每个通过它的物品组交替地向左或向右转。绝缘传送带将防止玩家从传送带上拾取物品。
 
-continuum.schematic.name=Hologramic
-continuum.schematic.desc=The Projector allows you to see multiblock blueprints in the world. Open your Engineer's Manual to the multiblock you want to see and then exit it. Crafting the Projector with the Engineer's Manual that's opened to a multiblock's page will set the Projector to that multiblock. \n\nWhile holding a Projector that's set to a multiblock, you can decide where you want it to go. Click the scroll wheel to rotate the blueprint, and right click to place the blueprint, which puts down "ghost" blocks that aren't really there and can be replaced with the real blocks by placing them normally. After the multiblock is finished, sneak right click the Projector to get the ghost blocks to disappear.
+continuum.schematic.name=全息投影
+continuum.schematic.desc=多方块结构投影仪可以让你在世界上看到多方块结构的蓝图。将你的工程师手册翻到你想要查看的多方块结构的页面然后退出。将已经翻到多方块结构页面的工程师手册与多方块结构投影仪进行合成会将相应的多方块结构设置到投影仪中。\n\n手持投影仪时即可看到你所设置的多方块结构，你可以决定你想要摆放的位置。点击滚轮可以旋转蓝图，右键可以放下蓝图，这会放下一些并不存在的“幽灵”方块且能在正常摆放的时候被真正的方块所替代。在多方块结构搭建完成后，潜行时右键投影仪使幽灵方块消失。
 
-continuum.metal_press.name=Pressing Matters
-continuum.metal_press.desc=The Metal Press is a multiblock machine that allows you to turn ingots into gears, plates, wires, and rods automatically. See the Engineer's Manual or a projector for instructions on how to construct the multiblock.\n\nRF is input through the top, and items can be pushed in and out from the appropriate Conveyor Belts. Place a Mold onto the Metal Press by right clicking it. \n\nItems are processed slowly, so it's recommended to use a Hopper to insert items rather than Conveyor Belts.\n\nThe Metal Press is 3x3x1.
+continuum.metal_press.name=世间万物压为先
+continuum.metal_press.desc=金属冲压机是一种能够让你自动将金属锭变成齿轮、板、线和杆的多方块机器。有关如何搭建该多方块结构的说明，请参阅工程师手册或投影仪。\n\n从其顶部输入 RF，从相应的传送带输入和输出物品。右键将模具放入金属冲压机中。\n\n物品处理过程十分缓慢，所以建议使用漏斗输入物品而不是传送带。\n\n金属冲压机为 3x3x1 的多方块结构。
 
-continuum.crusher.name=Crushinator
-continuum.crusher.desc=The Crusher is a multoblock machine that doubles ores and kill mobs. See the Engineer's Manual or the Projector for instructions on how to construct the multiblock.\n\nItems (and mobs) are input through the top, and must be thrown in as entities. It outputs from the bottom front block; if there is no inventory for it to go into, it gets thrown as an entity. Power is input on the right side on the top, and you can disable the machine on the left side.\n\nThe Crusher is 3x3x5.
+continuum.crusher.name=碾碎他们
+continuum.crusher.desc=粉碎机是一种能够双倍产出矿物且能杀死生物的多方块机器。有关如何搭建该多方块结构的说明，请参阅工程师手册或投影仪。\n\n从其顶部输入物品（和生物），且必须要以实体的形式将其投入其中。它会从其前面的底部的方块输出物品；如果没有物品缓存供其输出的话，它会将物品以实体的形式扔出。能量要从其右边的顶部输入，你也可以在机器的左边关闭掉机器。\n\n粉碎机为 3x3x5 的多方块结构。
 
-continuum.steam.name=Steampunk
-continuum.steam.desc=Certain EFab recipes require Steam. Getting a functioning EFab Steam setup requires a Boiler above a heat source (Lava, Fire, or Magma), a Steam Engine, and a Tank with water in it.
+continuum.steam.name=蒸汽朋克
+continuum.steam.desc=某些 EFab 的配方需要蒸汽。要想得到一个能够正常运行的安装了蒸汽装置的 EFab 结构，你需要一个摆放在热源（熔岩，火焰或岩浆块）上方的锅炉，蒸汽引擎以及装有水的储罐。
 
-continuum.cable.name=Covered Cable
-continuum.cable.desc=These Cables allow you to transfer a higher amount of RF/t. Each tier of cable is better than the last, transferring more RF/t as you go higher. Tiers do not affect machines at all, they only change the amount of RF/t that transfers.\n\nUninsulated Cables will damage you if you touch them while RF is passing through it, while Insulated Cables will not.\n\nThe tier order for the Cable is Tin \u003c Copper \u003c Gold \u003c HV \u003c Glass Fiber.
+continuum.cable.name=绝缘导线
+continuum.cable.desc=这些导线能够传输更高的 RF/t。每一级导线都比上一级更好，随着等级的升高，所能传输的 RF/t 更高。导线等级丝毫不影响机器，它们只会改变传输的 RF/t 的大小。\n\n未绝缘的导线会在有 RF 通过时对你造成伤害，而绝缘电缆不会。\n\n线缆的等级顺序为锡 < 铜 < 金 < 高压 < 玻璃纤维。
 
-continuum.water_wheel.name=Passive Power
-continuum.water_wheel.desc=The Water Wheel is a good way to passively generate power. That means it creates RF essentially for free, but they don't do it very quickly. They are created by placing a Kinetic Dynamo, then placing the Water Wheel on the side facing you. RF is pulled out of the Kinetic Dynamo.\n\nThe Water Wheel generates RF based on the amount of water flowing on it. The more blocks of flowing water touching it, the more RF/t it creates. The optimal water placement will generate 30 RF/t per Water Wheel. A single Kinetic Dynamo can have 3 Water Wheels placed next to each other.
+continuum.water_wheel.name=被动产能
+continuum.water_wheel.desc=水车是一种被动发电的好方法。这意味着它基本上能够免费产生 RF，但其速度不会很快。它是通过放置一个动能发电机，然后将水车放在面向你的一侧而搭建成的。动能发电机就能够产生 RF。\n\n水车根据其上流动的水的量产生 RF。接触它的流动水越多，它产生的 RF/t 就越大。最佳的水的流动方式能使每个水轮产生 30 RF/t。一个动能发电机可以有 3 个水轮相邻放置。
 
 continuum.tool_forge.name=Advanced Tinkering
 continuum.tool_forge.desc=The Tool Forge allows you to create more advanced Tinker's Construct tools, like the Hammer and Excavator. It otherwise functions identical to the Tool Station.
