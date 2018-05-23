@@ -5,7 +5,7 @@ continuum.logs.name=I'm a Lumberjack and I'm OK
 continuum.logs.desc=Like pretty much every modpack, you start with punching trees. Now, making planks through crafting only gives you 2 planks instead of 4, and you can only craft vanilla planks. To get more planks, or planks from modded trees, you have to use the Sawmill.\n\nThis quest will work with any wood type.
 
 continuum.efab.name=EFab-ulous
-continuum.efab.desc=The EFab is a new modular multiblock machine that works like an advanced crafting table. Several items are only craftable through the EFab. To start with, you only need the EFab Crafting Grid.\n\nHit the "Show item uses" button (U by default) while hovering over the EFab Crafting Grid to see what recipes require it. Notice how some of them require specific upgrades. To get Stone tools or better, you require the Armory Upgrade. Craft the Armory Upgrade then place it inside one of the 9 upgrade slots under the crafting grid in the EFab GUI. Other recipes may require blocks like the Gear Box added to the multiblock instead of of upgrades put into the machine GUI.\n\nAlso notice that some recipes require time as well as materials to craft. This time can be lowered by adding more Gear Boxes (maximum of 4, which lowers crafting speed to 25 percent of original).
+continuum.efab.desc=The EFab is a new modular multiblock machine that works like an advanced crafting table. Several items are only craftable through the EFab. To start with, you only need the EFab Crafting Grid.\n\nHit the "Show item uses" button (U by default) while hovering over the EFab Crafting Grid to see what recipes require it. Notice how some of them require specific upgrades. To get Stone tools or better, you require the Armory Upgrade. Craft the Armory Upgrade then place it inside one of the 9 upgrade slots under the crafting grid in the EFab GUI. Other recipes may require blocks like the Gear Box added to the multiblock instead of upgrades put into the machine GUI.\n\nAlso notice that some recipes require time as well as materials to craft. This time can be lowered by adding more Gear Boxes (maximum of 4, which lowers crafting speed to 25 percent of original).
 
 continuum.tinkering.name=Tinkering
 continuum.tinkering.desc=Now that the EFab is set up, we can get started with Tinkers' Construct. While you techically only need 6 Blank Patterns to make all the blocks and a functioning Pickaxe, you should make a few more.
@@ -50,7 +50,7 @@ continuum.update_quests.name=Update quests
 continuum.update_quests.desc=This quest is for when the modpack updates, and will update the quests and rewards. Click the checbox to the right, then claim both command rewards.
 
 continuum.engineers_workbench.name=Engineer's Workbench
-continuum.engineers_workbench.desc=The Workshop Table has 4 slots for either Crafting Tables or Furnaces, which means you can use them all at the same time. In the "Upgrades" tab, you can set which quarter has the Furnaces or Crafting Tables. Items stay inside the Workshop Table when you close it.\n\nYou can apply a single Storage Upgrade to each Crafting Table slot, giving it 9 items for it to use. When crafting with a Storage Upgrade installed, items will be pulled out of the 9 slots instead of the crafting grid.
+continuum.engineers_workbench.desc=The Workshop Table has 4 slots for either Crafting Tables or Furnaces, which means you can use them all at the same time. In the "Upgrades" tab, you can set which quarter has the Furnaces or Crafting Tables. Items stay inside the Workshop Table when you close it.\n\nYou can apply a single Storage Upgrade to each Crafting Table slot, giving it 6 items for it to use. When crafting with a Storage Upgrade installed, items will be pulled out of the 6 slots instead of the crafting grid.
 
 continuum.coal_generator.name=Old King Coal
 continuum.coal_generator.desc=Now that we have the Carpenter, and thus Circuit Boards, there are some better RF generators you can make. These use Coal and other burnables rather than manual winding, so they can make RF while you're gone.\n\nThe Coal Generator makes less RF than the Survival Generator, but it has higher RF generation speed. The Survival Generator makes more than 1.5x as much RF, but it does so much slower.
@@ -338,7 +338,7 @@ continuum.automated_engineers_workbench.name=Automated Engineer's Workbench
 continuum.automated_engineers_workbench.desc=The Automated Engineer's Workbench is a multiblock machine that crafts  Engineer's Workbench recipes automatically.\n\nInsert the Blueprint you wish to use into the bottom right slot of the GUI and select the item you wish to autocraft, then feed it items and RF.\n\nThe Automated Engineer's Workshop is 3x2x3.
 
 continuum.hemp_seed.name=Industrial Strength
-continuum.hemp_seed.desc=Hemp Seeds cannot be found by breaking Tall Grass, instead it is crafted in the Carpenter. Hemp grows two blocks tall, and you can harvest it by breaking the top half only.\n\nHemp Seeds also give much more Seed Oil than other Seeds.
+continuum.hemp_seed.desc=Hemp Seeds cannot be found by breaking Tall Grass, instead it is crafted in the Carpenter. Hemp grows two blocks tall, and you can harvest it by breaking the top half only.\n\nHemp Seeds also give much more Plant Oil than other Seeds.
 
 continuum.industrial_fermenter.name=Industrial Fermenter
 continuum.industrial_fermenter.desc=The Industrial Fermenter is a multiblock machine that makes Ethanol out of plant matter.\n\nThe Industrial Fermenter is 3x3x3.
@@ -483,8 +483,6 @@ continuum.first_rocket.desc=Now it's time to build your first rocket!\n\nBuild a
 
 continuum.moon.name=Fly Me To The Moon
 continuum.moon.desc=Luna, the Earth's only moon, is a barren wasteland. It's surface is made of Moon Turf, though a few blocks down it becomes Stone with normal ore generation.\n\nIf you explore enough, you might find the Apollo 11 landing site!
-continuum.luna.name=Luna
-continuum.landing_site.name=Apollo 11 Landing Site
 
 continuum.space_station.name=Space Base
 continuum.space_station.desc=Now that you have a means of getting into space, you can begin to construct your Space Station. Make another platform out of Landing Pads and construct what you want to send up into space on top. This won't be flown up like the rocket, it will be stored as an item and built later.\n\nOnce you are happy with your Space Station (you can make changes later once it's in orbit), place down a Space Station Assembler like you did with the Rocket Assembling Machine. Put a Satellite Bay and an unprogrammed Space Station ID Chip inside and hit Scan. If the Space Station was constructed correctly, you can Build the Station and the blocks will be removed and stored inside of a Space Station Container inside the Space Station Assembler along with the Space Station ID Chip that is programmed to the new Space Station. \n\nIt is extremely recommended to copy your Space Station ID Chip in a Satellite Builder by putting the programmed one in the center top slot and the unprogrammed one in the slot to the right, then hitting the "Write to Secondary Chip" button, which programs the second one with the data on the first. Store this second one somewhere so you don't lose the ability to fly to your Space Station.\n\nPlace a second Satellite Bay onto your Rocket and insert the Space Station Container, then in the Guidance Computer insert the programmed Space Station ID Chip. You can now ride the Rocket up into orbit and it will land on top of the built Space Station. Rockets that have a programmed Space Station ID Chip will always fly between the Space Station and whatever it is orbitting.
@@ -893,7 +891,6 @@ continuum.fire_mill.desc=The Fire Mill generates 4 GP while directly over Fire.
 
 continuum.dummy_quest.name=Rolling Machine / Implosion Compressor
 continuum.dummy_quest.desc=This is a dummy quest that completes when either the Implosion Compressor or the Rolling Machine are completed.
-continuum.literally_anywhere.name=Literally anywhere
 
 continuum.tr_sawmill.name=Woody
 continuum.tr_sawmill.desc=Tech Reborn's Sawmill is a multiblock machine that allows you to get 6 Planks per log.\n\nThe Sawmill block sits on the front middle of a 3x3x3 cube of Machine Casings.
