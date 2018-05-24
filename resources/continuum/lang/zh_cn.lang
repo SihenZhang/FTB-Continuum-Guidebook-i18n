@@ -7,11 +7,11 @@ continuum.logs.desc=像几乎所有的整合包一样，你首先要砍树。现
 continuum.efab.name=极好的 EFab
 continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n按下“显示物品用途”的按键（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级插槽中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
 
-continuum.tinkering.name=修修补补
+continuum.tinkering.name=工匠之路
 continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂（Tinkers' Construct）了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
 
 continuum.smeltery.name=熔化器
-continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石、板和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的液体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 30 分钟的时间。
+continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石、板和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的流体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 30 分钟的时间。
 
 continuum.lunch_box.name=多样化就是生活调味料
 continuum.lunch_box.desc=多亏了“生活调味料（The Spice of Life）”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n一个午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳 2 组，共计 6 组食物。当午餐盒关闭时，右键使用它来打开它的 GUI 并放入食物。潜行时右键使用来开启午餐盒。通过使用开启的午餐盒，你可以直接吃到里面的食物。
@@ -20,10 +20,10 @@ continuum.cooking.name=我是厨师
 continuum.cooking.desc=因为我们有“生活调味料（The Spice of Life）”，所以我们需要大量不同的食物。“傻瓜式烹饪（Cooking for Blockheads）”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将Pam's Harvestcraft的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
 
 continuum.coke_oven.name=烤焦了
-continuum.coke_oven.desc=焦炉是一种多方块机器，它可将 1 个煤炭转变为 1 个焦炭和 500mB 的杂酚油。要搭建一个焦炉，你需要将焦炉砖摆成 3x3x3 的形状，然后用工程师锤右键你所希望的焦炉正面所在的面的中间的焦炉砖。\n\n要想在 EFab 中制作防腐木板，储罐作为其多方块结构的一部分是必需的。储罐可以储存一种液体多达 10000mB。你可以在一个 EFab 结构内摆放多个储罐，并且可以分别存储不同的液体。在储罐顶部摆放的储罐将会连接并合并它们的存储空间。
+continuum.coke_oven.desc=焦炉是一种多方块机器，它可将 1 个煤炭转变为 1 个焦炭和 500mB 的杂酚油。要搭建一个焦炉，你需要将焦炉砖摆成 3x3x3 的形状，然后用工程师锤右键你所希望的正面所在的面的中间的焦炉砖。\n\n要想在 EFab 中制作防腐木板，储罐作为其多方块结构的一部分是必需的。储罐可以储存一种流体多达 10000mB。你可以在一个 EFab 结构内摆放多个储罐，并且可以分别存储不同的流体。在储罐顶部摆放的储罐将会连接并合并它们的存储空间。
 
 continuum.forestry_machine.name=并不是真的用于木头
-continuum.forestry_machine.desc=木工机是一种使用 RF 来制作物品的机器，其配方也可以使用液体。在合成格中，使用物品点击相应的槽位中来设置配方。这些物品实际上并没有放入合成格，而是要放入 18 个存储槽中，并且随着木工机进行的合成而消耗物品。\n\n热电子加工台是另一台使用 RF 来熔化玻璃并用它制造电子管和其它物品的机器。将沙子或玻璃放入左上角的槽中，并消耗 RF 将其融化。就合成而言，它的使用方法类似于木工机。
+continuum.forestry_machine.desc=木工机是一种使用 RF 来制作物品的机器，其配方也可以使用流体。在合成格中，使用物品点击相应的槽位中来设置配方。这些物品实际上并没有放入合成格，而是要放入 18 个存储槽中，并且随着木工机进行的合成而消耗物品。\n\n热电子加工台是另一台使用 RF 来熔化玻璃并用它制造电子管和其它物品的机器。将沙子或玻璃放入左上角的槽中，并消耗 RF 将其融化。就合成而言，它的使用方法类似于木工机。
 
 continuum.atomic_reconstructor.name=科技嬗变术
 continuum.atomic_reconstructor.desc=原子再构机§1§0§f§§§r使用 CF（与 RF 和 FE 相同，只是名字不同）来将某一种物品转变成另一种物品。\n\n将机器朝向你想要发射激光的方向。激光本身不会改变物品，它会改变激光命中区域周围小范围内的物品。默认情况下，它被设置为接收到红石信号才会关闭；只要没有关闭它且它有能量，它就会经常性发射激光。建议用红石火把右键点击机器，将其变成脉冲模式，此时除非提供红石信号，否则它不会发射。\n\n鼠标悬停在原子再构机上的同时按下 U 键可以查看它的用途。
@@ -40,7 +40,7 @@ continuum.clockwork_engine.desc=目前唯一可以制作的 RF 发电机是发�
 continuum.empowerer.name=某种科学的注魔祭坛
 continuum.empowerer.desc=充能台是一个使用 RF 将 5 个物品合并为 1 个物品的多方块机器。充能台本体应放置在由物品展示台组成的“+”形状的中间，物品展示台和充能台之间间隔 2 个方块。给物品展示台提供 RF 并在每个物品展示台和充能台中放入正确的物品，即可开始合成过程。
 
-continuum.grindstone.name=请保持一臂之远
+continuum.grindstone.name=请保持一臂远
 continuum.grindstone.desc=将矿石放入石英磨具中，使用曲柄，可以使矿物翻倍。磨矿不会 100％ 的翻倍，并且速度§o超级§o§r慢且不能自动化。
 
 continuum.te_sawmill.name=真的用于木头
@@ -50,7 +50,7 @@ continuum.update_quests.name=更新任务
 continuum.update_quests.desc=这个任务是用于整合包更新，且有更新任务和奖励的时候。点击右侧的复选框，然后领取两个命令奖励。
 
 continuum.engineers_workbench.name=工程师工作台
-continuum.engineers_workbench.desc=Engineer's Workshop的工作台拥有 4 个槽位，可以放入工作台或熔炉，这意味着你可以同时使用它们。在“升级（Upgrades）”标签页中，你可以设置哪个区域为熔炉或工作台。当你关闭它时，物品会保留在工作台中。\n\n你可以将一个存储升级应用到每个工作台槽，并为其提供 9 种物品供其使用。在安装存储升级的工作台合成物品时，将消耗 9 个槽位中的物品，而不是合成格中的。
+continuum.engineers_workbench.desc=Engineer's Workshop 的工作台拥有 4 个槽位，可以放入工作台或熔炉，这意味着你可以同时使用它们。在“升级（Upgrades）”标签页中，你可以设置哪个区域为熔炉或工作台。当你关闭它时，物品会保留在工作台中。\n\n你可以将一个存储升级应用到每个工作台槽，并为其提供 6 种物品供其使用。在安装存储升级的工作台合成物品时，将消耗 6 个槽位中的物品，而不是合成格中的。
 
 continuum.coal_generator.name=老国王煤炭
 continuum.coal_generator.desc=现在我们有了木工机，也就有了电路板，我们可以制作更好的 RF 发电机了。这些发电机能够使用煤炭和其他可燃物而不是手动上发条，所以他们可以在你离开时产生 RF。\n\n煤炭发电机所能产生的 RF 要比生存者发电机少，但它具有更高的 RF 产生速率。生存发电机产生的 RF 要比煤炭发电机多 1.5 倍，但速度要慢得多。
@@ -62,10 +62,10 @@ continuum.engineers_manual.name=科技辞典
 continuum.engineers_manual.desc=工程师手册是沉浸工程（Immersive Engineering）的指导书。它详细的描述了物品的功能及其如何工作。本整合包所改动的配方可能不会在其中显示。
 
 continuum.crude_blast_furnace.name=更硬，更好
-continuum.crude_blast_furnace.desc=粗制高炉可以让你生产钢材。搭建一个 3x3x3 的高炉砖的立方体，然后用工程师锤右键你所希望的高炉正面所在的面的中间的高炉砖。\n\n粗制高炉不能进行自动化地输入和输出。你需要使用焦煤作为燃料将铁转化为钢。
+continuum.crude_blast_furnace.desc=粗制高炉可以让你生产钢材。搭建一个 3x3x3 的高炉砖的立方体，然后用工程师锤右键你所希望的正面所在的面的中间的高炉砖。\n\n粗制高炉不能进行自动化地输入和输出。你需要使用焦煤作为燃料将铁转化为钢。
 
 continuum.improved_blast_furnace.name=更快
-continuum.improved_blast_furnace.desc=精致高炉可以让你自动化生产钢材。焦煤和铁可以从上方输入，钢可以从前面输出，而矿渣会从后方输出。其结构与粗制高炉相似，但却是使用了精致高炉砖代替了高炉砖且其顶部需要摆放一个漏斗。\n\n在精致高炉的每个侧面，你都可以摆放高炉鼓风机消耗 RF 来加快过程。当消耗 32 RF/t 时，每个高炉鼓风机都能 100% 地加速，当两个高炉鼓风机消耗 64 RF/t 时，其达到最大速度，为初始速度的 3 倍。RF 需要在鼓风机的顶部提供。\n\n精致高炉为 3x4x3（如果安装两个高炉鼓风机则为 3x4x5）。
+continuum.improved_blast_furnace.desc=精致高炉可以让你自动化生产钢材。焦煤和铁可以从上方输入，钢可以从前面输出，而矿渣会从后方输出。其结构与粗制高炉相似，但却是使用了精致高炉砖代替了高炉砖且其顶部需要摆放一个漏斗。\n\n在精致高炉的每个侧面，你都可以摆放高炉鼓风机消耗 RF 来加快过程。当消耗 32 RF/t 时，每个高炉鼓风机都能 100% 地加速，当两个高炉鼓风机消耗 64 RF/t 时，其达到最大速度，为初始速度的 3 倍。RF 需要在鼓风机的顶部提供。\n\n精致高炉为 3x4x3（如果安装两个高炉鼓风机则为 3x4x5）的多方块结构。
 
 continuum.tree_fluid_extractor.name=树汁
 continuum.tree_fluid_extractor.desc=树液提取器能够提取树液。这种树液被称作胶乳。摆放一个树液提取器使其面向原木，它就会缓慢地生成胶乳且不消耗 RF。它有一定几率会破坏原木，并且这个几率会随着胶乳从原木中被提取而逐渐升高。存储大量胶乳是一个不错的主意。
@@ -91,44 +91,44 @@ continuum.cable.desc=这些导线能够传输更高的 RF/t。每一级导线都
 continuum.water_wheel.name=被动产能
 continuum.water_wheel.desc=水车是一种被动发电的好方法。这意味着它基本上能够免费产生 RF，但其速度不会很快。它是通过放置一个动能发电机，然后将水车放在面向你的一侧而搭建成的。动能发电机就能够产生 RF。\n\n水车根据其上流动的水的量产生 RF。接触它的流动水越多，它产生的 RF/t 就越大。最佳的水的流动方式能使每个水轮产生 30 RF/t。一个动能发电机可以有 3 个水轮相邻放置。
 
-continuum.tool_forge.name=Advanced Tinkering
-continuum.tool_forge.desc=The Tool Forge allows you to create more advanced Tinker's Construct tools, like the Hammer and Excavator. It otherwise functions identical to the Tool Station.
+continuum.tool_forge.name=高级工匠
+continuum.tool_forge.desc=工具装配台能够让你制作诸如锤和开掘铲这样的更高级的匠魂（Tinkers' Construct）工具。除此之外它与工具装配台功能相同。
 
-continuum.alloy_kiln.name='Allo, Alloy!
-continuum.alloy_kiln.desc=The Alloy Kiln is a multiblock machine that allows you to make alloys using solid fuel instead of going through the Smeltery. \n\nCreate a 2x2x2 cube of Kiln Bricks and use an Engineer's Hammer on the face you wish to be the front.
+continuum.alloy_kiln.name=嘿，是合金！
+continuum.alloy_kiln.desc=合金窑是一种能够代替冶炼炉，使用固体燃料制作合金的多方块机器。\n\n将窑砖摆成 2x2x2 的形状，然后用工程师锤右键你所希望的正面所在的面。
 
 continuum.industrial_blast_furnace.name=Stronger
-continuum.industrial_blast_furnace.desc=The Industrial Blast Furnace is a multiblock machine that smelts the toughest metals, like Chrome, Titanium, and Tungsten.\n\nOnce you place the Industrial Blast Furnace, the GUI will have a button that will show you the blueprint for the rest of the multiblock. You can make the multiblock out of any combination of Machine Casing.\n\nThe temperature is based on the combination of Machine Casings. Starting at 0, each Standard Machine Casing adds 40, each Reinforced Machine Casing adds 68, and each Advanced Machine Casing adds 95.\n\nYou can fill the center two blocks with Lava source blocks to add another 500 heat.
+continuum.industrial_blast_furnace.desc=高炉是一个用来冶炼那些最坚韧的金属的多方块机器，例如铬，钛，钨\n\n当你放置好了工业高炉方块后，GUI将会有一个按钮可以显示多方块结构的其余部分。你可以用任意的机械外壳来组合成多方块结构。\n\n温度基于机械外壳的组合。从0开始，每个基础机械外壳提供40度，每个进阶机械外壳68度，每个高级机械外壳95度。\n\n你可以用岩浆来填充中心的两个方块来增加500度
 
 continuum.mega_torch.name=Safety Torch
-continuum.mega_torch.desc=The Mega Torch disables natural monster spawning within 64 blocks of itself. It does §n§o§r§onot §rdisable monster spawning from Spawners or Cursed Earth, or anything similar, it only stops mobs that would spawn due to low light level.
+continuum.mega_torch.desc=巨型火炬会阻止在它附近的64个方块内的敌对生物生成。它不会阻止刷怪笼、诅咒土或类似的东西产生的敌对生物，它只会阻止光照过低而产生的敌对生物。
 
 continuum.electronic_circuit.name=Monty Python's Flying Circuit
-continuum.electronic_circuit.desc=The Electronic Circuit is required for pretty much every Tech Reborn machine.\n\nAt this point in the progression you can only use the Infusion recipe. Later you can use the EFab instead.
+continuum.electronic_circuit.desc=电路板是几乎每一台Tech Reborn机器都需要的材料.\n\n在现在这个阶段，你还只能使用充能台进行合成。以后你可以改用EFab。
 
 continuum.fluid_manipulation.name=Fluid Manipulation
-continuum.fluid_manipulation.desc=The Magma Crucible melts items into fluids.\n\nThe Fluid Transposer can either empty items into its internal tank, or use the tank's contents to fill an item.\n\nRecipes that need a bucket of, say, Destabilized Redstone work using Cans or other similar items as well.
+continuum.fluid_manipulation.desc=熔岩炉可以将特定物品融化为液体\n\n流体转置机可以将液体注入到物品中，或者把空储罐填满。\n\n合成需要一桶的，比如不稳定红石也可以用罐子与其它类似的物品。
 
 continuum.transfer_nodes.name=Herer to Therer
 continuum.transfer_nodes.desc=Transfer Pipes and Nodes allow you to move items in a much easier and faster way than Conveyor Belts. Place the Node on the inventory/tank you wish to pull from and place a line of Transfer Pipes along the path you wish it to go, and connect it to the inventory/tank you wish to insert into. You can apply several upgrades and a Filter to Transfer Nodes by opening the Node's GUI and placing them inside.\n\nYou can also create Retrieval Nodes that function similarly, but pull from inventories instead of push into.\n\nItems do not go through Nodes like other pipes. Instead, the Node slowly searches for an inventory that it can send items to, and then teleports the items there.
 
 continuum.leadstone_jetpack.name=Onwards and Upwards
-continuum.leadstone_jetpack.desc=The Leadstone Jetpack is the first method of flight available. All the tiers of Jetpack have roughly the same flight speed, but higher tiers store much more than the previous tiers.\n\nYou can install Armor Plating on Jetpacks to give them protecetion as well as function. Higher tiers of Jetpack can have higher tiers of Armor Plating.
+continuum.leadstone_jetpack.desc=铅石飞行背包是第一种可用的飞行方法。所有等级的飞行背包都有着差距不大的飞行速度，但是更高的等级可以存储更多的能量。\n\n你可以在飞行背包上上安装护甲板以提供保护的功能。更高级别的飞行背包需要更高级的护甲板。
 
-continuum.drill.name=Pierce the Heavens!
-continuum.drill.desc=The Drill acts as a Pickaxe, but never breaks and uses RF. Sneak right click the Drill to open the GUI, where you can install Augments. There are Augments that add Silk Touch or Fortune, increase XP given, increase the mining radius, and let you place blocks down without moving to them. Higher tier Augments require the previous tier also be installed, and you only have 5 slots, so choose carefully which you want. Augments can be removed at any time for no cost. You can also dye the Drill any of the 16 available colors. \n\nPower the Drill using the Energizer.
+continuum.drill.name=刺穿天堂！
+continuum.drill.desc=手钻如同镐子一般，但不会坏掉且需要使用 RF。潜行时右键手钻即可打开 GUI，你可以在其中安装升级，使手钻能做到诸如精准采集、时运、增加所获得经验、增加采掘范围、放置方块而无序切换物品等功能。更高级的升级需要安装前一级升级，并且你只有 5 个插槽，因此请谨慎选择你想要安装的升级。你可以随时自由地移除升级。你还可以将手钻染成 16 种颜色中的任意一种。\n\n使用充能站为手钻充能。
 
 continuum.industrial_electrolyzer.name=It's What Plants Crave!
-continuum.industrial_electrolyzer.desc=The Industrial Electrolyzer creates fluids and dusts from other fluids and dusts. Input items in the bottom slot and, if required, put Empty Cells in the bottom left slot. With RF, the machine will process the items.\n\nThe Electrolyzer is one of the only ways to get certain materials like Chrome (from Ruby) and Titanium (from Bauxite).
+continuum.industrial_electrolyzer.desc=工业电解机可以通过流体或粉末产生其它的流体与粉末。在底部槽位输入物品，并且如果有需要，将空单元放入左下角的槽位。机器将消耗RF来处理这些物品\n\n电解器是获得铬（通过红宝石）与钛（通过铝土矿粉）等特定材料的唯一途径。
 
 continuum.void_ore_miner.name=Metallum Ex Vacui
-continuum.void_ore_miner.desc=The Void Ore Miner is a multiblock machine that generates ores at the cost of RF. There are six tiers in total, each giving you more resources faster and costing more RF/t. You can further influence what ores you get by replacing the Clear Laser Lens with a colored one.\n\nThe first tier is 7x7x4, with the Controller taking the top middle slot. Once it's placed, you can use an Assembler on it and it will start to place the other components where they should go.\n\nOnce the Void Ore Miner is constructed, provide RF to the Controller block and it will start to generate ores and place them in any inventories touching it. For the Void Ore Miner to function, you have to have a clear sight to Bedrock from the Laser Lens downwards.
+continuum.void_ore_miner.desc=虚空矿物采掘机是一个通过 RF 来生成矿物资源的多方块机器。它一共有六个级别，每个级别将会给你提供更多的资源，并且消耗更多的 RF。你可以通过把澄清透镜替换为彩色透镜来进一步影响你获得的资源种类。\n\n第一级别的大小是7x7x4，控制器在最高一层的中心位置。一旦放置完毕，你就可以使用一个装配杆，它会把其余部件放置在它们该呆的地方。\n\n当虚空矿物采掘机放置完毕后，向控制器提供RF，它就会开始并将它们放置在任何接触它的容器中。对于虚空矿物采掘机来说，从激光透镜向下必须能够清晰的看到基岩。
 
 continuum.modular_storage.name=Modular Storage
-continuum.modular_storage.desc=The Modular Storage block on its own does nothing, it needs to have a Storage Module inside of it to function. The first tier holds a maximum of 100 stacks, each tier adding another 100 stacks. With the Storage Module installed, the Modular Storage acts basically like a chest. Stacks do not automatically combine; if you put a stack of 32 Dirt and later another stack of 16, they will stay separate. Hit the Z button at the bottom of the GUI to combine the stacks. Above the Z button, you can change how the items are shown, be it a list, two columns, or stacks like most other inventories. The button directly to the right of that one changes the way the items are sorted (you can install a Generic Type Module to add more options). The G button will combine the items into groups depending on the way they are sorted.\n\nThe Remote Storage and its Module allow increased functionality. Place the Storage Module inside one of the spaces for it in the Remote Storage and place the other Module on the right of it, and it will bind them together. You can then place the RSM into a Module Storage (or even multiple of them) and it will access that Storage Module. You can even have multiple Storage Modules in a single Remote Storage, and so long as they all have an ID (they've been bound to any RSM), you can cycle between the Storage Modules by hitting the C at the bottom left of the Modular Storage GUI.\n\nThe Storage Scanner allows you to access all nearby inventories around itself remotely. Set the radius and hit the Scan button, and it will detect nearby inventories. Select an inventory from the list to access it. You can reorder the list using the buttons to the left of it. You can only insert items into inventories on the list that have the star enabled, and then you insert through the blue slot at the bottom left. It will enter the first acceptable inventory on the list, starting at the top. If you wish to specify which items go where, put filtered inventories at the top of the list. You can disable the star at the bottom left and it will instead insert items to whichever inventory is currently selected. You can select "All Routable" from the list and it will display every inventory with a star at once. 
+continuum.modular_storage.desc=The Modular Storage block on its own does nothing, it needs to have a Storage Module inside of it to function. The first tier holds a maximum of 100 stacks, each tier adding another 100 stacks. With the Storage Module installed, the Modular Storage acts basically like a chest. Stacks do not automatically combine; if you put a stack of 32 Dirt and later another stack of 16, they will stay separate. Hit the Z button at the bottom of the GUI to combine the stacks. Above the Z button, you can change how the items are shown, be it a list, two columns, or stacks like most other inventories. The button directly to the right of that one changes the way the items are sorted (you can install a Generic Type Module to add more options). The G button will combine the items into groups depending on the way they are sorted.\n\nThe Remote Storage and its Module allow increased functionality. Place the Storage Module inside one of the spaces for it in the Remote Storage and place the other Module on the right of it, and it will bind them together. You can then place the RSM into a Module Storage (or even multiple of them) and it will access that Storage Module. You can even have multiple Storage Modules in a single Remote Storage, and so long as they all have an ID (they've been bound to any RSM), you can cycle between the Storage Modules by hitting the C at the bottom left of the Modular Storage GUI.\n\nThe Storage Scanner allows you to access all nearby inventories around itself remotely. Set the radius and hit the Scan button, and it will detect nearby inventories. Select an inventory from the list to access it. You can reorder the list using the buttons to the left of it. You can only insert items into inventories on the list that have the star enabled, and then you insert through the blue slot at the bottom left. It will enter the first acceptable inventory on the list, starting at the top. If you wish to specify which items go where, put filtered inventories at the top of the list. You can disable the star at the bottom left and it will instead insert items to whichever inventory is currently selected. You can select "All Routable" from the list and it will display every inventory with a star at once.
 
 continuum.machine_frame.name=Machina
-continuum.machine_frame.desc=You can use Upgrade Kits on Thermal Expansion machines to increase their tier which makes them faster, hold more RF, and gives another Augment slot per tier. The tier list goes Basic -\u003e Hardened -\u003e Reinforced -\u003e Signalum -\u003e Resonant.\n\nCertain machines can have specialization Augments installed that change their function in some way. You can only have one specialization Augment per machine.
+continuum.machine_frame.desc=你可以在Thermal Expansion机器上使用升级套件来提高它们的等级，使它们速度更快，RF容量更大，并且每个等级会提供1个扩展槽。等级列表： 基础 -\u003e 硬化 -\u003e 强化 -\u003e 信素 -\u003e 谐振。\n\n某些机器可以安装专业化升级，以某种方式改变它的功能。每个机器只能有一个专业化升级
 
 continuum.itemduct.name=Pretty Items
 continuum.itemduct.desc=Itemducts are generally much better for transferring items than Transfer Nodes. Itemducts will instantly search for a place to send items and they will slowly make their way through.\n\nItemducts default to insert only, you have to apply a Servo where you want to pull from. Inside the Servo's GUI, you can set if it needs redstone to pull, and you can set a whitelist or blacklist. Higher tier Servos have more options and can pull more, faster.\n\nYou can use a Wrench to disconnect two Itemducts from each other so they do not interact.
@@ -137,7 +137,7 @@ continuum.auto_efab.name=Weapons of Mass Production
 continuum.auto_efab.desc=To automate the EFab, every block on the right has to be a part of the EFab multiblock.\n\nSet the recipe to craft in the Crafter and put the ingredients into the Item Storage. Provide the Crafter with a redstone signal and it will begin to craft. You can have multiple separate Crafters running at once on a single Processor and Item Storage, but you may want to add more Item Storages if you run out of storage space.\n\nThe number of Processors effects the speed that items are crafted.
 
 continuum.void_ore_miner_2.name=Metallum Ex Vacui II
-continuum.void_ore_miner_2.desc=The Tier 2 Void Ore Miner can generate a larger variety of materials. To upgrade the machine, you will have to tear the whole thing down, using those parts to create the next tier.\n\nThe Tier 2 Void Ore Miner is 7x7x5, with the Controller as the top middle block. From tier 2 and onwards, you can install various upgrades to the machines by replacing the Null Modifiers in the machine with other Modifiers.\n\nThe Accuracy Modifier increases the percent chance to get ores based on the color Lens and the Speed Modifier decreases the time it takes to generate ores.
+continuum.void_ore_miner_2.desc=2 级虚空矿物采掘机可以生成更多种类的矿石。为了升级机器，你需要把所有部件都拆下来并使用它们来制作下一层的部件\n\n第二级别的大小是7x7x5，控制器在最高一层的中心位置。从第二级开始，你就可以通过替换机器中的空升级从而为机器安装各种升级。\n\n精确强化会增加基于颜色生成的矿石的生成率，而速度强化会减少生成每个矿石需要的时间。
 
 continuum.refined_storage.name=Cyber Storage
 continuum.refined_storage.desc=Refined Storage allows you to store large amounts of items digitally. You will only be able to store items, autocrafting comes later.\n\nThe Controller is the brain of the system, and also where the system is powered. Everything must be a connected to the Controller in some way to work. Use Cables to connect the Controller to the other parts of the RS System. You can only have one Controller per RS system.\n\nThe Solderer crafts several important items. You can insert and extract from any side. Power it through the Controller. You can install Speed Upgrades into the 4 slots at the top right to make it faster.\n\nThe Disk Drive stores Storage Disks (higher tiers \u003d more items stored).
@@ -148,53 +148,53 @@ continuum.translocators.desc=Translocators are useful for very fast transfer ove
 continuum.phantomface.name=Transvectorface
 continuum.phantomface.desc=The Phantomface allows you to access inventories from farther away than normal. Place the Phantomface in the world, sneak right click on the block you wish to connect to with a Phantom Connector, then sneak right click the Phantomface to connect the two. You can then pipe in to/out from the Phantomface as if it were the block it's linked to, including which side does what. By default, the Phantomface must be within 16 blocks of the block you want to connect it to, but you can increase the range by placing up to 3 Phantom Boosters above it.\n\nThere are also the Phantom Energyface and Phantom Liquiface that allow you to interact with distant energy storages and tanks, and function similarly to the regular Phantomface. \n\nThere are Phantom versions of the Auto-Placer and Auto-Breaker that work almost exactly the same, but instead of placing/breaking the block in front of them they place/break the block you assign with the Phantom Connector.
 
-continuum.storage_crate.name="'Small'"
-continuum.storage_crate.desc=Storage Crates store a very large amount of items. The smallest tier can hold 117 stacks of items, with each higher tier adding an additional 117.\n\nThere are Storage Crate Upgrades that allow you to turn the previous tier into the next tier by right clicking the upgrade on the Crate you wish to upgrade. You can also place a Storage Crate Keeper inside the Storage Crate and you will be able to break it without losing the items. The Storage Crate Keeper is destroyed in the process.
+continuum.storage_crate.name=“‘好小！’”
+continuum.storage_crate.desc=板条箱能够大量存储物品。最小的板条箱可以容纳 117 组物品，每高一级就会增加 117 组的容量。\n\n板条箱升级徽章可以让你右键点击要升级的箱子来将其从前一级升级到下一层。你也可以将板条箱守护徽章放入板条箱中，这样就可以在不丢失物品的情况下破坏箱子。而板条箱守护徽章在此过程中会被销毁。
 
 continuum.ender_storage.name=Better Ender
 continuum.ender_storage.desc=Ender Chests (and Pouch) share the same inventory with all others that have the same color combination. You can dye the 3 pieces of wool at the top of the Ender Chest to change what the color combination is. Sneak right click an Ender Pouch on an Ender Chest to bind the Pouch to that color combination.\n\nEnder Tanks work similarly; they share their fluid storage with all other Ender Tanks using the same color combination. You can right click the center circle to toggle auto-output.\n\nYou can use a Diamond on the Ender Chest and Ender Tank to set it to private (for the Ender Chest, use the Diamond on the latch; for the Ender Tank, use the Diamond on the circle). When private, it will only interact with others that have the same color combination §oand were made private by the same person.§r This means two people can have separate W/W/W Ender Chests so long as they both set theirs to private.
 
 continuum.ranged_pump.name=Telepump
-continuum.ranged_pump.desc=Ranged Pump's Pump uses RF to pump fluids from underneath it to any connected tanks. It has a range of 64 blocks in each direction and replaces the fluids pumped with Stone.
+continuum.ranged_pump.desc=Ranged Pump 的泵可以使用RF把它下方的流体送到任何相邻的储罐中。它的范围是每个方向64格并且被泵走的流体会被替换为石头。
 
 continuum.void_ore_miner_3.name=Metallum Ex Vacui III
-continuum.void_ore_miner_3.desc=The third tier of Void Ore Miner generates an even larger variety of ores and is 11x11x6.
+continuum.void_ore_miner_3.desc=3 级虚空矿物采掘机可以生成更多种类的矿石，大小为11x11x6。
 
 continuum.void_ore_miner_5.name=Metallum Ex Vacui V
-continuum.void_ore_miner_5.desc=The fifth tier of Void Ore Miner generates an even larger variety of ores and is 11x11x8.
+continuum.void_ore_miner_5.desc=5 级虚空矿物采掘机可以生成更多种类的矿石，大小为11x11x8。
 
 continuum.shipping_bin.name=Agribusiness
-continuum.shipping_bin.desc=The Shipping Bin allows you to sell a stack of any Harvestcraft or Vanilla crop for an Emerald. 
+continuum.shipping_bin.desc=The Shipping Bin allows you to sell a stack of any Harvestcraft or Vanilla crop for an Emerald.
 
 continuum.market.name=Open Market
 continuum.market.desc=You can spend Emeralds to buy seeds and saplings at the Market.
 
 continuum.tr_rolling_machine.name=Rolling in the Deep
-continuum.tr_rolling_machine.desc=The Rolling Machine acts like a crafting bench that requires RF. 
+continuum.tr_rolling_machine.desc=辊压机就是一个消耗RF的工作台
 
 continuum.electric_furnace.name=Microwave
-continuum.electric_furnace.desc=The Electric Furnace uses RF to smelt items.
+continuum.electric_furnace.desc=用RF来冶炼物品的电力熔炉。
 
 continuum.compressor.name=Compressum
-continuum.compressor.desc=The Compressor creates Plates from ingots faster and easier than the Metal Press.
+continuum.compressor.desc=比起金属冲压机，压缩机可以更快，更容易的用锭来制造板。
 
 continuum.alloy_smelter.name=Mix n Match
-continuum.alloy_smelter.desc=The Alloy Smelter combines different metals to create alloys using RF.
+continuum.alloy_smelter.desc=用RF结合不同的金属来制造合金的合金炉
 
 continuum.grinder.name=Dust to Dust
-continuum.grinder.desc=The Grinder uses RF to grind ores into dusts which can be smelted, doubling the amount of ingots each ore gives.
+continuum.grinder.desc=用 RF 将矿石磨成粉末的磨粉机，可以使每个矿石的产量翻倍
 
-continuum.pumpjack.name=Oil Fields
-continuum.pumpjack.desc=Pumpjacks can pull fluids from pools within chunks. These fluids are not actually present in the chunk physically, but in the chunk's data. You can use a Core Drill Sampler to check what fluids are in a chunk, if any.\n\nPlace the Pumpjack in the same chunk as the fluid you wish to extract, then provide it with power. The fluids will be output from sides with orange dots on them.
+continuum.pumpjack.name=油田
+continuum.pumpjack.desc=采油机能够将该区块中潜藏在基岩中的流体抽取出来。这些流体从物理层面上讲并不是真实地存在于区块中，而是存储在区块的数据中的。如果该区块有流体的话，你可以使用岩芯样本得知该区块内是什么流体。\n\n将采油机摆在与想要抽取的流体相同的区块中，然后为其提供能量。流体将从侧面的橙色圆点输出。
 
 continuum.rfab.name=RFab
-continuum.rfab.desc=Certain EFab recipes require RF as well as items and fluids to craft. Put the Power Upgrade into the EFab Crafting Grid and provide power with the RF Control.\n\nEach RF Control provides a maximum of 50 RF/t. so you may need multiple if a recipe requires more than 50 RF/t. You can also later add an RF Storage block, which stores 100,000 RF and provides a maximum of 250 RF/t. The more RF Controls you have, the less time it takes to perform a crafting operation.\n\nNote that if you have multiple Gear Boxes or are otherwise speeding up crafts, the RF/t requirement increases. The RF total is unchanged.
+continuum.rfab.desc=某些EFab合成需要RF来进行，就像物品和流体一样。将Power Upgrade放入EFab Crafting Grid并且为RF Control提供能量。\n\n每个RF Control最多提供50RF/t，所以你可能需要多个来用于合成，如果合成的需求超过50rf/t的话。你也可以稍后添加一个RF Storage方块,每个可以存储100,000 RF并且最多提供250RF/t。你拥有越多的RF Control，合成所需的时间就越短。\n\n注意如果你有多个齿轮箱火其他的加速部件，RF的需求速度也会被影响。RF的总需求不会变化。
 
 continuum.grid.name=Now You Can Use It!
 continuum.grid.desc=The Grid allows you to actually access the RS system's inventory.
 
 continuum.more_alloys.name=Mo Betta Alloys
-continuum.more_alloys.desc=Certain alloys can only be created with the Magma Crucible and Fluid Transposer and smelted in the Arc Furnace.
+continuum.more_alloys.desc=某些合金只能通过熔岩炉与流体转置机来制作，并且在电弧炉中冶炼。
 
 continuum.fluiduct.name=Filled With Fluid
 continuum.fluiduct.desc=Fluiducts are generally much better for transferring fluids than Transfer Nodes.\n\nFluiducts default to insert only; to extract you need to place a Servo where you wish to extract from. In the Servo GUI you can set if it needs a redstone signal to extract, and you can set a whitelist or blacklist. There does not need to be a valid tank to insert fluids into, they will be pulled from the connected tank as long as the Fluiducts themselves have room.\n\nYou can use a Wrench to disconnect two Fluiducts from each other so that they do not interact.
@@ -203,19 +203,19 @@ continuum.autofarming.name=Autofarming
 continuum.autofarming.desc=Automating farming is very easy with the Plant Sower and the Plant Gatherer.\n\nPlace the Plant Sower one block below where you want the middle of the farm to be. In the GUI you can click a button to toggle if the working area is shown. The 9 slots in the middle are where you can set which sector of the work area has which crop, and also stores the seeds or saplings for that sector. You can lock or unlock the sectors as well, so only what is currently in there can ever enter that slot.\n\nThe Plant Gatherer harvests fully grown crops and chops down trees in the work area. Items harvested are collected in the Gatherer's inventory and can be piped out. Sludge is also generated as the Gatherer works.\n\nYou can install a Range Addon to almost any Industrial Foregoing machines to increase the range by the tier.
 
 continuum.void_ore_miner_4.name=Metallum Ex Vacui IV
-continuum.void_ore_miner_4.desc=The fourth tier of Void Ore Miner and onward generate most Nether ores in addition to Overworld ones,and is 11x11x7.
+continuum.void_ore_miner_4.desc=4 级虚空矿物采掘机除了主世界的矿物外，还可以生成更多种类的霞姐矿石，大小为11x11x7。
 
-continuum.low_powercell.name=Row Row, Store the Power!
-continuum.low_powercell.desc=Powercells are used to store RF. They can be single blocks or freform multiblocks. Each Powercell (Low) can store 250,000 RF. Use a Wrench to toggle between RF in, RF out, and neither. Each face of the Powercell (Low) can only insert and extract at 100 RF/t. RF is saved when the Powercell is broken.\n\nA single Powercell multiblock can be made of 729 blocks (if it was a cube, the max size would be 9x9x9).
+continuum.low_powercell.name=来，来，存储能量！
+continuum.low_powercell.desc=能量单元能用来存储 RF。能量单元可以是单独一个方块也可以是任意形状的多方块结构。每个能量单元（低级）能够存储 250,000 RF。使用扳手在 RF 的输入、RF 的输出与无交互之间进行切换。能量单元（低级）的每个面只能以 100 RF/t 的速率输入和输出。当能量单元被破坏时，其内部的 RF 会被保存下来。\n\n一个能量单元的多方块结构可以由 729 个方块组成（如果它是一个立方体，则最大尺寸为 9x9x9）。
 
 continuum.medium_powercell.name=Compact Power
-continuum.medium_powercell.desc=The second tier of Powercell can store 10,000,000 RF per block, and can transfer 500 RF/t per connection. RF in the previous tier is saved when crafted into the next tier.
+continuum.medium_powercell.desc=第二级别的能量单元每个可以存储 10,000,000 RF，并且有着 500RF/t 的传输速度。合成中会保存每个低级能量单元的能量。
 
 continuum.information_screen.name=How Much?
-continuum.information_screen.desc=The Information Screen shows the current and maximum RF of any machine it is placed on. When placed on a Powercell, it also shows how much RF/t is entering and exiting the multiblock.
+continuum.information_screen.desc=信息屏幕可以显示出任何它被放置上的机器的当前与最大 RF。当放置在能量单元上时，它还可以显示有多少 RF/t 的能量输入与输出速度。
 
 continuum.reinforced_jetpack.name=Up Up and Away
-continuum.reinforced_jetpack.desc=The Reinforced Jetpack stores twice as much RF as the Hardened Fluxduct, and is slightly faster.
+continuum.reinforced_jetpack.desc=强化飞行背包的RF储存量是硬化飞行背包的两倍，且速度稍快。
 
 continuum.plastic.name=Plastic
 continuum.plastic.desc=The Latex Processing Unit uses 75mB of Latex and 1,000mB Water to make each Tiny Dry Rubber. 9 Tiny Dry Rubber makes 1 Dry Rubber, which smelts into Plastic.
@@ -224,19 +224,19 @@ continuum.resonator.name=Resonance of the Soul
 continuum.resonator.desc=The Resonator uses GP to craft items. GP (Grid Power) is a kind of wireless energy. Mills create a static amount of GP and certain machines and items "use up" the GP. If more GP is being used than is being created, nothing will run.\n\nThe first thing you need to craft is Stoneburnt. To generate the GP required to do this, you need to craft and use a Manual Mill until you've made enough Stoneburnt to make other Mills.\n\nMills are less efficient at generating GP the more GP there is.\n\nWhile hovering over any machine that generates or uses GP, you can see the GP in the system. It is displayed as a fraction of (GP used) / (GP total).
 
 continuum.implosion_compressor.name=Explosive Fun
-continuum.implosion_compressor.desc=The Implosion Compressor is a multiblock machine that uses TNT to compress the hardest materials. The implosion Compressor block sits on top of a hollow 3x3x3 cube of Reinforced Machine Casing.
+continuum.implosion_compressor.desc=聚爆压缩机是一种使用 TNT 来压缩那些最坚硬的材料的多方块机器。聚爆压缩机方块位于由进阶机械外壳组成的空心3x3x3立方体顶部。
 
-continuum.industrial_squeezer.name=Squeeeeze
-continuum.industrial_squeezer.desc=The Industrial Squeezer is a multiblock machine that squeezes items, generating other items or fluids.\n\nThe Industrial Squeezer is 3x3x3.
+continuum.industrial_squeezer.name=挤~压
+continuum.industrial_squeezer.desc=挤压机是一种能够挤压物品同时产生其它物品或流体的多方块机器。\n\n挤压机为 3x3x3 的多方块机器。
 
 continuum.extreme_reactor.name=Extreme Energy
-continuum.extreme_reactor.desc=Reactors are multiblock machines that generate large amounts of RF using Uranium as fuel and Cyanite as waste. Reactors need to be cuboids, with the largest possible size as 11x11x11.\n\nThe frame of the Reactor must be made of only Reactor Casing. There must be one Reactor Controller on any face. Reactor Control Rods must be on the top face of the Reactor, with Reactor Fuel Rods directly underneath to the floor of the Reactor. There needs to be at least one Reactor Access Port on any face, and at least one Reactor RF Power Tap. Any open space on a face must be filled with either Reactor Casing or Reactor Glass.\n\nThe Reactor Access Port is where Uranium is inserted as fuel and Cyanite is extracted as waste. They have to be set to be either insert or extract if you wish to automate them.\nThe more Reactor Fuel Rods (which is possible with more Reactor Control Rods or a taller Reactor) means more fuel and waste can be stored in the Reactor. \nThe Reactor RF Power Tap is where RF is extracted. \nThe Reactor Controller is where the Reactor is turned on and off, as well as if waste is auto-ejected or not.
+continuum.extreme_reactor.desc=反应堆是一个用铀来产出大量RF的多方块结构，被消耗的铀会变成蓝晶锭并产出。反应堆必须是立方体，最大尺寸为11x11x11\n\n反应堆的框架必须由反应堆外壳组成。必须要有一个反应堆控制器在任意面上。反应堆控制杆必须位于反应堆的顶部，反应堆燃料棒在它下方直通底部。至少需要一个反应堆访问端口在任意面上并且至少需要一个反应堆RF能源接口。任意面的空余处必须用反应堆外壳或反应堆玻璃填满。\n\n反应堆访问端口是是铀输入与蓝晶输出的地方。如果你想自动化它们，就必须设置为插入或提取。\n更多的燃料棒(尽可能更多的燃料棒与尽可能高的反应堆)意味着更多的燃料与废料可以被存储在反应堆中\n=反应堆RF能源接口是提取RF的地方\n反应堆控制器是反应堆开启与关闭的的地方，以及控制废物是否自动排出。
 
 continuum.high_powercell.name=PHENOMINAL COSMIC POWER
-continuum.high_powercell.desc=The highest tier of Powercell stores 100,000,000 RF per block and can transfer 2,500 RF/t per connection. You can have multiple tiers of Powercell in a single multiblock.
+continuum.high_powercell.desc=最高级的能量单元可以储存100,000,000RF并且有2500RF/t的传输速度。你可以在一个多方块结构中使用多个不同等级的能量单元
 
 continuum.flux_network.name=Truly Wireless
-continuum.flux_network.desc=Flux Networks allows you to essentially teleport RF. \n\nPlace down an RF Plug where you want to pull RF from, and place the RF Point where you want the RF to exit. Inside the GUI of each, connect it to the Flux Network of your choice. You can name the Plugs and Points and set their priority, as well as toggle the RF/t limit on or off. When off, it will be able to transfer an unlimited amount of RF/t.\n\nThe Flux Controller allows you to access everything on your Network, as well as toggle Transmitter Mode. When on, the Flux Controller will charge all items in your inventory. This has no range limit, and even works across dimensions!
+continuum.flux_network.desc=能量网络可以真正的让你传送RF\n\n放置一个能量网络输入点在你想输入能量的地方，并且放置一个能量网络输出点在你想输出能量的地方。在每个GUI中选择你所选择的能量网络。你可以命名输入与输出点并设置它们的优先级，以及打开/关闭RF传输速率限制。关闭时，它能传输无限量的RF。\n\n能量控制器允许你访问网络上的所有内容，以及切换传输模式。开启时，能量控制器将会充能你This物品栏中的所有物品。这没有范围限制，即使是在不同世界也会工作！
 
 continuum.storage_tablet.name=Storage On the Go
 continuum.storage_tablet.desc=The Storage Tablet can be linked with a Storage Module, Remote Storage Module, or Storage Control Screen Module and it will be able to access that inventory from anywhere by right clicking it. To link the Storage Tablet with the Module, craft them together. To unlink them, put the Tablet by itself in the crafting grid.
@@ -286,11 +286,11 @@ continuum.igneous_extruder.desc=The Igneous Extruder mixes Water and Lava to cre
 continuum.centrifugal_separator.name=You Spin Me Right Round
 continuum.centrifugal_separator.desc=The Centrifugal Separator separates items into their core parts. This includes separating alloys into their core materials as well asextracting resources from Combs, and some others.\n\nThere is the Enstabulation Apparatus specialization Augment that makes the Separator extract mob drops from Morbs. However when installed, only Morbs can be processed.
 
-continuum.arcane_ensorellator.name=Liber Arcana
-continuum.arcane_ensorellator.desc=The Arcane Ensorellator enchants books using Essence of Knowledge and items. You can check JEI for the recipes for the different Enchanted Books you can create, and what you need to create them. Enchanted Books are only level 1, but you can combine them in an Anvil if you want them to be more powerful.
+continuum.arcane_ensorellator.name=书籍的奥秘
+continuum.arcane_ensorellator.desc=附魔机能够使用知识精华和物品对书进行附魔。你可以在 JEI 中查看你能制作的不同附魔书的配方，以及制作所需的物品。附魔机只能附魔一级的附魔书，但如果你希望它能更加强力，你可以用铁砧将它们进行结合。
 
-continuum.glacial_precipitator.name=Crank That Thermostat
-continuum.glacial_precipitator.desc=The Glacial Precipitator freezes fluids into items. It can make any vanilla version of Ice and Snow.
+continuum.glacial_precipitator.name=打开恒温器
+continuum.glacial_precipitator.desc=冷冻机能将流体冻结成物品。它能够制作原版的任意一种冰或雪。
 
 continuum.questing_tutorial.name=Questing Tutorial
 continuum.questing_tutorial.desc=Flashing §c§c§r§cred quests§r are unlocked, and you can click on them to see how to complete §rthem. \n\nCompleted quests flash §9§s§bblue§r if they have a reward that hasn't been collected, and are §agreen§r if they don't.\n\n§8Gray quests §rhave not been unlocked and cannot be completed. You can hover over locked quests to see what quests they require to be completed to unlock them.\n\n§4Red lines§r between quests connect locked quests with the quests that they require. Flashing §eyellow lines§r connect unlocked quests to the quests that they require. §2Green lines§r connect completed quests to the quests that they required.\n\nLines are not the best way to see quest connections; the you do not need to complete all quests that are connected in a line in order. If the quest is §cred§r, it is unlocked, even if there's a §4red line§r connecting to them. \n\nIf you're playing with friends, you can use the Party menu in the main screen when opening the quests.
@@ -305,7 +305,7 @@ continuum.meat_feeder.name=Meat Syringe
 continuum.meat_feeder.desc=The Meat Feeder, while in your inventory and filled with Liquid Meat, will automatically feed you without having to interact with it. This completely bypasses Spice of Life, so you don't need to have any variety in your diet!
 
 continuum.resonant_jetpack.name=Higher and Higher
-continuum.resonant_jetpack.desc=The Resonant Jetpack holds 4 times as much RF as the Reinforced Jetpack, and is slightly faster.
+continuum.resonant_jetpack.desc=谐振飞行背包拥有4倍强化飞行背包的的RF储量，且速度稍快。
 
 continuum.mob_imprisonment_tool.name=Pokemans
 continuum.mob_imprisonment_tool.desc=The Mob Imprisonment Tool is an item that you can use to grab mobs as items. Simply use the Mob Imprisonment Tool on any mob and it will be trapped inside. You can use a filled MIT on a block and it will empty, dumping the mob there.\n\nYou can also put a filled Mob Imprisonment Tool inside a Mob Duplicator, and it will use RF and Essence to spawn more of that mob.
@@ -319,68 +319,68 @@ continuum.alchemical_chest.desc=The Alchemical Chest has 104 storage slots, and 
 continuum.item_repairer.name=I Can Fix It!
 continuum.item_repairer.desc=The Item Repairer repairs items with RF, including Tinkers' Construct tools!
 
-continuum.extractor.name=Extractor
-continuum.extractor.desc=The Extractor pulls certain things out of items and blocks.
+continuum.extractor.name=提取机
+continuum.extractor.desc=提取机可以从物品和方块中提取出某些物品。
 
 continuum.industrial_centrifuge.name=Round and Round
-continuum.industrial_centrifuge.desc=The Industrial Centrifuge separates items from other items.
+continuum.industrial_centrifuge.desc=工业离心机可以将物品从其他物品里分离出来
 
 continuum.repair_talisman.name=Horse Talisman
 continuum.repair_talisman.desc=The Repair Talisman automatically repairs items in your inventory for free. It still functions inside of an Alchemical Chest as well, repairing all items inside.\n\nThe Repair Talisman does not repair Tinkers' Construct tools.
 
-continuum.distillation_tower.name=Finery
-continuum.distillation_tower.desc=The Distillation Tower is a multiblock machine that refines Crude Oil into Lubricant, Gasoline, and Diesel. All three outputs exit the same block face, so you should use Filters to restrict which fluids go where.
+continuum.distillation_tower.name=精炼设备
+continuum.distillation_tower.desc=精馏塔是一种能将原油分馏成润滑油、汽油和柴油的多方块机器。三种流体的输出都在同一个方块的同一面上，所以你应该使用过滤装置来限制哪种流体输送到哪里。
 
 continuum.vacuum_freezer.name=Chill It Dude!
-continuum.vacuum_freezer.desc=The Vacuum Freezer is a multiblock machine that is used to put certain items into a deep freeze, transforming them into other items.\n\nThe Vacuum Freezer sits on top of a 3x3 square of Reinforced Machine Casing.
+continuum.vacuum_freezer.desc=真空冷凝器是一个多方块机器可以用来使某些物品陷入极低温的冻结，并将它们转换为其它物品\n\n真空冷冻机位于由进阶机器外壳组成的3x3正方形的中心上。
 
-continuum.automated_engineers_workbench.name=Automated Engineer's Workbench
-continuum.automated_engineers_workbench.desc=The Automated Engineer's Workbench is a multiblock machine that crafts  Engineer's Workbench recipes automatically.\n\nInsert the Blueprint you wish to use into the bottom right slot of the GUI and select the item you wish to autocraft, then feed it items and RF.\n\nThe Automated Engineer's Workshop is 3x2x3.
+continuum.automated_engineers_workbench.name=自动工程师装配台
+continuum.automated_engineers_workbench.desc=自动装配台是一种能够自动合成工程师装配台配方的多方块机器。\n\n将想要使用的蓝图放入到 GUI 的右下方的槽位中，然后选择要自动合成的物品，然后将所需物品和 RF 传送给它即可。\n\n自动装配台为 3x2x3 的多方块结构。
 
-continuum.hemp_seed.name=Industrial Strength
-continuum.hemp_seed.desc=Hemp Seeds cannot be found by breaking Tall Grass, instead it is crafted in the Carpenter. Hemp grows two blocks tall, and you can harvest it by breaking the top half only.\n\nHemp Seeds also give much more Seed Oil than other Seeds.
+continuum.hemp_seed.name=工业的力量
+continuum.hemp_seed.desc=工业大麻种子不能通过破坏高草而找到，而是要在木工机中制作。大麻会长成两格高，你可以通过破坏上半部分来进行收获。\n\n工业大麻种子比起其他种子能提供更多的植物油。
 
-continuum.industrial_fermenter.name=Industrial Fermenter
-continuum.industrial_fermenter.desc=The Industrial Fermenter is a multiblock machine that makes Ethanol out of plant matter.\n\nThe Industrial Fermenter is 3x3x3.
+continuum.industrial_fermenter.name=工业发酵机
+continuum.industrial_fermenter.desc=发酵机是一种可以将乙醇从植物组织分离出来的多方块机器。\n\n发酵机为 3x3x3 的多方块结构。
 
-continuum.refinery.name=Refinery
-continuum.refinery.desc=The Refinery is a multiblock machine that combines Plant Oil and Ethanol to make Biodiesel.\n\nThe Refinery is 3x3x5.
+continuum.refinery.name=炼油厂
+continuum.refinery.desc=炼油厂是一种能够将植物油与乙醇混合产生生物柴油的多方块机器。\n\n炼油厂为 3x3x5 的多方块结构。
 
-continuum.diesel_generator.name=Diesel Generator
-continuum.diesel_generator.desc=The Diesel Generator is a multiblock machine that generates RF from Biodiesel.\n\nThe Diesel Generator is 5x3x3.
+continuum.diesel_generator.name=柴油发电机
+continuum.diesel_generator.desc=柴油发电机是一种能够使用生物柴油产生 RF 的多方块机器。\n\n柴油发电机为 5x3x3 的多方块结构。
 
-continuum.arc_furnace.name=Arc Furnace
-continuum.arc_furnace.desc=The Arc Furnace is a multiblock machine that quickly smelts ores and creates alloys.\n\nTo work, it requires 3 Graphite Electrodes in the top slots, which can be inserted into the top center block. Graphite Electrodes have durability, and must be replaced when broken. They can also be enchanted with Unbreaking to allow them to work longer.\n\nThe base thing to be processed (ores or the main part of an alloy) go into the 12 slots on the left, and can be inserted into the blue face to the left of the Electrodes.\n\nAdditives, such as the rest of the alloy) go into the 4 slots on the right, and can be inserted into the blue face to the right of the Electrodes.\n\nThe bottom 7 slots are the output, and can be pulled from the bottom front block (Slag will leave from the bottom back instead).\n\nThe Arc Furnace is 7x7x7.
+continuum.arc_furnace.name=电弧炉
+continuum.arc_furnace.desc=电弧炉是一种能够快速冶炼矿物和制作合金的多方块机器。\n\n要使其能运行，其上方的槽位中需要 3 个石墨电极，并且能够从顶部中心的方块进行输入。石墨电极有耐久度，并且在损坏时必须更换。石墨电极也可以被附上耐久附魔，使其能工作更长时间。\n\n待加工的原材料（矿石或合金的主要部分）需放入左侧的 12 个槽中，并且能够从电极左侧的蓝色圆点一面进行输入。\n\n辅料，例如合金的其余部分则放入右侧的 4 个槽中，并且能够从电极右侧的蓝色圆点一面进行输入。\n\n底部的 7 个槽位为输出槽，并且能够从正前方底部的方块自动输出（矿渣则会从后方的底部输出）。\n\n电弧炉为 7x7x7 的多方块结构。
 
 continuum.fusion.name=Fuuuuusion, Ha!
-continuum.fusion.desc=The Fusion Control Computer is the main part of a multiblock machine that either uses or generates RF by fusing two filled Cells to create something new. Fusion recipes have to be jumpstarted with RF before they begin even. RF can be inserted through any horizontal side and extracted from either vertical side.\n\nThe Fusion Control Computer is in the center of the multiblock which has a variable size. The smallest size is 7x1x7 and the largest is 55x5x55. The larger the reactor, the higher the RF output. You can see the multiplier at the bottom left corner of the GUI.\n\nYou can automatically place the Fusion Coils by right clicking them on the Fusion Control Computer.
+continuum.fusion.desc=聚变控制计算机是多方块机器的核心，它会消耗或产出大量RF，并通过两个装满的单元来创造新的物品。在聚变合成开始前就必须提供足够的RF。RF可以从4个水平方向的侧面输入，并从垂直面提取。\n\n聚变控制计算机位于可变尺寸的多方块结构的中心。最小尺寸是7x1x7，最大尺寸是55x5x55。反应堆越大，RF输出就越高。你可以在GUI的左下角看到倍数。\n\n你可以通过在聚变控制计算机上单击右键来自动放置核聚变线圈。
 
 continuum.me_controller.name=ME! ME! ME!
-continuum.me_controller.desc=§rAn ME System is the most powerful storage system available. With it, you can store your items like you could with your RS system, but now you can have requestable autocrafting. \n\nThe ME System is powered through the ME Controller. The ME Controller can be a multiblock, with a maximum size of 7x7x7. You can only have one ME Controller multiblock per ME system. It is best to focus on maximizing the amount of visible faces rather than just adding more Controllers.\n\nThe ME System is unique in that it has a channel system. Each Bus, Interface, or other AE2 device part of an ME System takes up a channel. A normal ME Cable can have up to 8 channels at once. Smart Cables allow you to see how many channels are in use. 
+continuum.me_controller.desc=§rME 系统是最为强大的存储系统。有了它，你可以像RS系统一样存储你的物品，而且，你可以进行可请求的自动合成。\n\nME 系统通过 ME 控制器供电。ME 控制器可以是一个最大7x7x7的多方块结构。但是每个ME网络最多只能有一个ME控制器结构。最好把重点放在最大化面的数量上，而不是增加更多的控制器\n\nME 系统独特的地方在于它有频道系统。ME系统的每个总线，接口和其它 AE2 设备都会占用一个频道。一个普通的ME线缆最多可以传输 8 个频道。智能电缆允许你查看有多少个频道正在使用。
 
 continuum.engineers_workbench.name=Certified Crafting
 continuum.engineers_workbench.desc=The Engineer's Workbench is a kind of crafting bench. It crafts items based on the Engineer's Blueprint inside. Different Engineer's Blueprints allow you to craft different things. \n\nPlace the Engineer's Blueprint in the far left slot, and then hover over the item you wish to craft on the right to see the ingredients. Place the ingredients in the center slots, and then you can pull out the item you wish to craft.\n\nThe Engineer's Workbench also allows cheaper but more complex ways to craft certain items.
 
-continuum.mixer.name=Mixer
-continuum.mixer.desc=The Mixer is a multiblock machine that dissolves solids into fluids, mixing them together. This can create Liquid Concrete, Nepalm, and Potions.\n\nLiquid Concrete is interesting in that it slowly flows before soldifying at whatever level it is at. That means if you pour it down in a flat open area, it will be much flatter at the edges than it will at the center.\n\nThe Mixer is 3x3x3.
+continuum.mixer.name=混合机
+continuum.mixer.desc=混合机是一种可以将固体溶解在流体里，并将它们混合在一起的多方块机器。它可以制造液态混凝土、凝固汽油和药水。\n\n液态混凝土的有趣之处在于无论它是否是源头，在它凝固之前它都会缓缓地流动。这意味着如果你把它倒在一个平坦的开放区域，它的边缘会比在中心处平坦得多。\n\n混合机为 3x3x3 的多方块结构。
 
 continuum.excavate_modifier.name=Did You Know We Had OreExcavation?
-continuum.excavate_modifier.desc=Using the Excavate Modifier, you can mine out entire veins just by mining one block from it. At lower levels, the tool will only have a chance to break a single extra ore touching the ore you mined. As you increase the level of the modifier, it will have a larger chance to successfully mine the other blocks, as well as starting to mine larger veins. Increasing the level of the modifier does not use more modifier slots, it will only ever use one.\n\nYou can only mine ores and Clay with the modifier, it will be useless on anything else.\n\nThis is also available as an enchantment for other tools.
+continuum.excavate_modifier.desc=使用挖掘强化，只需挖掘一个矿石，即可挖掘出整个矿脉。在较低的等级时，该工具只有一个打破一个额外的接触被你挖掘的矿石的矿石的机会。随着你提高强化的等级，它将会有更大的几率成功开采相邻的矿石，并且挖掘更大的范围。增加强化等级不会使用更多的强化槽，它只会使用一个。\n\n你只能用它来开采矿石和粘土，对其他任何东西都没有效果。\n\n这个效果也可以作为一个附魔用于其它的工具
 
 continuum.crafting_grid.name=Crafting Grid
 continuum.crafting_grid.desc=The Crafting Grid acts like the regular Grid but includes a 3x3 crafting grid for you to use.
 
-continuum.void_ore_miner_6.name=Metallum Ex Vacui VI
-continuum.void_ore_miner_6.desc=The sixth and final tier of Void Ore Miner generates all available ores and is 13x13x8.
+continuum.void_ore_miner_6.name=于虚空中诞生的金属 VI
+continuum.void_ore_miner_6.desc=6 级虚空资源采掘机是最高级别，会生成所有能生成的资源，大小为13x13x8.
 
-continuum.void_resource_miner.name=Saxa Ex Vacui
-continuum.void_resource_miner.desc=The Void Resource Miner is a multiblock machine that generates resources like Stone and Dirt at the cost of RF. There are three tiers in total, each giving you more resources faster and costing more RF/t. You can further influence what resources you get by replacing the Clear Laser Lens with a colored one.\n\nThe first tier is 7x7x4, with the Controller taking the top middle slot. Once it's placed, you can use an Assembler on it and it will start to place the other components where they should go.\n\nOnce the Void Resouce Miner is constructed, provide RF to the Controller block and it will start to generate resources and place them in any inventories touching it. For the Void Resource Miner to function, you have to have a clear sight to Bedrock from the Laser Lens downwards.
+continuum.void_resource_miner.name=于虚空中诞生的石头
+continuum.void_resource_miner.desc=虚空资源采掘机是一个通过 RF 来生成泥土、石头等资源的多方块机器。它一共有三个级别，每个级别将会给你提供更多的资源，并且消耗更多的 RF。你可以通过把澄清透镜替换为彩色透镜来进一步影响你获得的资源种类。\n\n第一级别的大小是7x7x4，控制器在最高一层的中心位置。一旦放置完毕，你就可以使用一个装配杆，它会把其余部件放置在它们该呆的地方。\n\n当虚空资源采掘机放置完毕后，向控制器提供RF，它就会开始并将它们放置在任何接触它的容器中。对于虚空资源采掘机来说，从激光透镜向下必须能够清晰的看到基岩。
 
-continuum.void_resource_miner_2.name=Saxa Ex Vacui II
-continuum.void_resource_miner_2.desc=The tier 2 Void Resource Miner can generate a larger variety of materials. To upgrade the machine, you will have to tear the whole thing down, using those parts to create the next tier.\n\nThe tier 2 Void Resource Miner is 7x7x5, with the Controller as the top middle block. From tier 2 and onwards, you can install various upgrades to the machines by replacing the Null Modifiers in the machine with other Modifiers.
+continuum.void_resource_miner_2.name=于虚空中诞生的石头 II
+continuum.void_resource_miner_2.desc=2 级虚空资源采掘机可以生成更多种类的资源。为了升级机器，你需要把所有部件都拆下来并使用它们来制作下一层的部件\n\n第二级别的大小是7x7x5，控制器在最高一层的中心位置。从第二级开始，你就可以通过替换机器中的空升级从而为机器安装各种升级。
 
-continuum.void_resource_miner_3.name=Saxa Ex Vacui III
-continuum.void_resource_miner_3.desc=The third and final tier of Void Resource Miner generates an even larger variety of resources and is 11x11x6.
+continuum.void_resource_miner_3.name=于虚空中诞生的石头 III
+continuum.void_resource_miner_3.desc=3 级虚空资源采掘机是最高级别，会生成更多种类的资源，大小为11x11x6
 
 continuum.garden_cloche.name=Not Your Garden Variety Garden
 continuum.garden_cloche.desc=The Garden Cloche is a quick and simple way to automate most crops at the cost of Water and RF. You can put most seeds in the top center slot and the soil (Dirt or Sand depending on the crop). Water can be input from the very bottom, the bottom front, and the bottom back. RF can be input from the very top or the bottom sides.\n\nOnce all the requirements are met, the Garden Cloche will start to grow the crop (you can speed it up by putting fertilizers like Bone Meal or Fertilizer in the bottom left slot via the GUI or any of the bottom ports) and put the product in the right slots. If there's room, the items will be automatically output to the front second-from-the-bottom face.
@@ -392,22 +392,22 @@ continuum.external_storage.name=Here and Not Here
 continuum.external_storage.desc=The External Storage connects whatever inventory it is touching to the RS System it is connected to. The contents will not be stored in the RS System - they will stay in the inventory - but you will be able to access them from Grids.
 
 continuum.industrial_grinder.name=Grinder II: Electric Boogaloo
-continuum.industrial_grinder.desc=The Industrial Grinder is a multiblock machine that gives more materials from ground ores at the additional cost of certain fluids.\n\nThe Industrial Grinder block is the front middle (height and width) block of a 3x3 multiblock.
+continuum.industrial_grinder.desc=工业磨粉机是一个多方块机器，它可以从矿石中获得更多的材料，但会消耗额外的流体。\n\n工业磨粉机方块在3x3多方块的正前方中心。
 
 continuum.hardened_jetpack.name=Movin' On Up
-continuum.hardened_jetpack.desc=The Hardened Jetpack has more than 3x the amount of RF storage as the Leadstone Jetpack. It is also slightly faster.
+continuum.hardened_jetpack.desc=硬化飞行背包有着三倍铅石能量单元的RF容量。它也能稍微飞快一点点。
 
 continuum.digital_upgrade.name=Beep Boop
-continuum.digital_upgrade.desc=The Digital Upgrade unlocks more recipes you can craft in the EFab.
+continuum.digital_upgrade.desc=Digital Upgrade会解锁更多的EFab合成。
 
 continuum.flux_infused_jetplate.name=Iron Man
-continuum.flux_infused_jetplate.desc=The Flux-Infused Jetplate is the fastest Jetpack and is the only one with a functioning hover mode. It also stores twice as much as the Resonant Jetpack.
+continuum.flux_infused_jetplate.desc=红石充能胸甲是飞行速度最快的的背包并且它是唯一一个能真正悬浮的。它的存储量也是谐振背包的2倍。
 
 continuum.rf_storage.name=More Power!
-continuum.rf_storage.desc=The RF Storage holds 100,000 RF and allows the EFab to use 250 RF/t per RF Storage. An RF Control and Power Upgrade are still necessary. RF Storages within an EFab aren't connected; you need to provide power to all of them for them to work.\n\nIt is recommended to use RF Storages to increase the RF/t cost that the EFab uses, rather than using multiple RF Controls.
+continuum.rf_storage.desc=RF Storage能储存100,100RF并能每个能为EFab合成提供250RF/t。不过仍然是需要一个一个RF Control与Power Upgrade的。EFab中的的RF Storage不能互相连接，你需要分别为他们供能。\n\n建议使用RF Storages来提升RF输入速率，而不是使用大量RF Control。
 
 continuum.me_dense_cable.name=Cable TV
-continuum.me_dense_cable.desc=ME Dense Cables can hold up to 32 channels, 4 times as much as a regular ME Cable. They cannot connect to Buses or Panels however.\n\nThere are also ME Smart Dense Cables which show how many channels are passing through them.
+continuum.me_dense_cable.desc=ME致密线缆可以传输32个频道，是普通ME线缆的4倍。不过，它们不能连接上总线与面板。\n\n同时也有ME智能致密线缆，可以显示有多少个通道通过它们。
 
 continuum.inscriber.name=Inscriber
 continuum.inscriber.desc=The Inscriber is where you craft the three Processors.
@@ -430,8 +430,8 @@ continuum.crystal_growth_accelerator.desc=Certus Quartz, Nether Quartz, and Flui
 continuum.crystal_growth_chamber.name=Crystal Chamber
 continuum.crystal_growth_chamber.desc=The Crystal Growth Chamber grows Crystal Seeds inside its inventory instead of requiring the Seeds be thrown into water. You can install Acceleration Cards to increase the speed at which Seeds grow.
 
-continuum.energizer.name=Recharging
-continuum.energizer.desc=The Energizer uses its own internal RF to fill the item inside with RF.
+continuum.energizer.name=再充能
+continuum.energizer.desc=充能站能够用自己的内部的 RF 来为使用 RF 物品充能。
 
 continuum.molecular_assembler.name=Automation Station
 continuum.molecular_assembler.desc=The ME Interface is the most important component of autocrafting, \n\nYou can connect the ME Interface to Molecular Assemblers and insert crafting Patterns, or you can connect them to machines and give insert processing Patterns. If you connect them to machines, don't forget to also add a way to transfer the item back into the ME System.\n\nYou can have up to 6 Molecular Assemblers to a single ME Interface, and you can also insert Acceleration Cards into the Molecular Assemblers to speed them up.\n\nYou can make flat ME Interfaces that connect to only one face but function otherwise identically.\n\nEach ME Interface takes up a channel, though Molecular Assemblers do not.
@@ -470,7 +470,7 @@ continuum.chemical_reactor.name=Rocket Fuel
 continuum.chemical_reactor.desc=The Chemical Reactor is used to turn Oxygen and Hydrogen into Rocket Fuel. \n\nYou can also combine any armor piece with a Diamond to enchant it with "Airtight Seal," which makes it so that you can fill your armor with Oxygen so you can use it in vacuums without suffocating. Chestpieces must also have a Super High Pressure Tank as well. All of your armor has to be airtight to use it in a vacuum.
 
 continuum.gas_charge_pad.name=Breathe!
-continuum.gas_charge_pad.desc=The Gas Charge Pad fills the armor of the Player standing on it with Oxygen or Hydrogen if there is room. 
+continuum.gas_charge_pad.desc=The Gas Charge Pad fills the armor of the Player standing on it with Oxygen or Hydrogen if there is room.
 
 continuum.modular_space_suit.name=New Uniform
 continuum.modular_space_suit.desc=The Modular Space Suit can protect players from vacuums and offers various other upgrades that can be applied in the Suit Workstation. The Suit will only let you breathe when you have all pieces on and you have at least some Oxygen in the Chestplate's tank (refilled at a Gas Charge Pad).\n\nPlace the Space Suit piece in the top left slot of the Suit Workstation and you will be able to insert upgrades. The upgrades are listed below:\n\nThe Atmosphere Analyzer is installed onto the Helmet and adds a GUI element displaying information about the atmosphere.\n\nThe Anti-Fog Visor is installed onto the Helmet and lets you see through fog on high pressure planets.\n\nThe Beacon Finder is installed onto the Helmet and will point you towards any active Beacons on the planet you are on.\n\nPressure Tanks are installed onto the Chestplate and allow storage of certain gasses. The first two slots increase your Oxygen capacity and any more increase Hydrogen capacity. Higher tier Pressure Tanks increase the capacity more.\n\nThe Jet Pack is installed onto the Chestplate and allows you to fly at the cost of Hydrogen (has to be toggled with a button). \n\nThe Hover Upgrade is installed onto the Helmet and will allow you to enter hover mode with your Jet Pack when you sneak while pressing the toggle button.\n\nThe Flight Speed Control Upgrade is installed onto the Helmet and will increase the speed that the Jet Pack flies with. You can install multiple at a time.\n\nBionic Legs are installed onto the Leggings and increase the player's sprint speed. You can install multiple at a time.\n\nPadded Landing Boots are installed onto the Boots and eliminate all fall damage.
@@ -483,8 +483,6 @@ continuum.first_rocket.desc=Now it's time to build your first rocket!\n\nBuild a
 
 continuum.moon.name=Fly Me To The Moon
 continuum.moon.desc=Luna, the Earth's only moon, is a barren wasteland. It's surface is made of Moon Turf, though a few blocks down it becomes Stone with normal ore generation.\n\nIf you explore enough, you might find the Apollo 11 landing site!
-continuum.luna.name=Luna
-continuum.landing_site.name=Apollo 11 Landing Site
 
 continuum.space_station.name=Space Base
 continuum.space_station.desc=Now that you have a means of getting into space, you can begin to construct your Space Station. Make another platform out of Landing Pads and construct what you want to send up into space on top. This won't be flown up like the rocket, it will be stored as an item and built later.\n\nOnce you are happy with your Space Station (you can make changes later once it's in orbit), place down a Space Station Assembler like you did with the Rocket Assembling Machine. Put a Satellite Bay and an unprogrammed Space Station ID Chip inside and hit Scan. If the Space Station was constructed correctly, you can Build the Station and the blocks will be removed and stored inside of a Space Station Container inside the Space Station Assembler along with the Space Station ID Chip that is programmed to the new Space Station. \n\nIt is extremely recommended to copy your Space Station ID Chip in a Satellite Builder by putting the programmed one in the center top slot and the unprogrammed one in the slot to the right, then hitting the "Write to Secondary Chip" button, which programs the second one with the data on the first. Store this second one somewhere so you don't lose the ability to fly to your Space Station.\n\nPlace a second Satellite Bay onto your Rocket and insert the Space Station Container, then in the Guidance Computer insert the programmed Space Station ID Chip. You can now ride the Rocket up into orbit and it will land on top of the built Space Station. Rockets that have a programmed Space Station ID Chip will always fly between the Space Station and whatever it is orbitting.
@@ -496,13 +494,13 @@ continuum.orientation_controller.name=Why Are You Upside Down, Soldier?
 continuum.orientation_controller.desc=The Orientation Controller allows you to change the orientation of the Space Station. When placed down, in the GUI you can set the angular velocity in the X and Z directions, which will make the Space Station spin in that direction. When you're happy with the orientation you can set the velocities to zero, or just let your station spin wildly through space.\n\nThis also changes the natural lighting of your Space Station depending on if the Sun is above you.
 
 continuum.gravity_controller.name=Light as a Feather Made of Stone
-continuum.gravity_controller.desc=The Gravity Controller allows you to change the gravity of your Space Station. 
+continuum.gravity_controller.desc=The Gravity Controller allows you to change the gravity of your Space Station.
 
 continuum.altitude_controller.name=Altitude Adjustment
 continuum.altitude_controller.desc=The Altitude Controller allows you to change the altitude of your Space Station, making the orbiting body bigger or smaller in your view.
 
 continuum.docking_pad.name=Space Garage
-continuum.docking_pad.desc=Docking Pads allow you to specify where a Rocket can land on your Space Station. Normally Rockets land in the center of the Space Station, which might be on top of your roof or some other inconvenient location. You can instead place down a Docking Pad somewhere on your Space Station (with open access above it) 
+continuum.docking_pad.desc=Docking Pads allow you to specify where a Rocket can land on your Space Station. Normally Rockets land in the center of the Space Station, which might be on top of your roof or some other inconvenient location. You can instead place down a Docking Pad somewhere on your Space Station (with open access above it)
 
 continuum.space_elevator.name=Stairway to Heaven
 continuum.space_elevator.desc=The Space Elevator is a convenient way to travel within a system (a planet and anything orbitting it) without having to fly your Rocket every time. You need to have a Space Elevator at both locations, not just one. It costs 50,000 RF to send a player from a Space Elevator, but none to receive a player.\n\nYou have to connect Space Elevators together before you can travel between them. Insert an Elevator Chip into each then connect the two Space Elevator blocks with a Linker.\n\nAs with all Advanced Rocketry multiblocks, you can use different tiers of materials used in the Space Elevator. In this case the Stone can also be replaced with different blocks to make the Space Elevator go faster. See the Holo-Projector for a list of what else you can use instead of Stone.\n\nYou can not use a Space Elevator to travel within the same dimension.
@@ -520,7 +518,7 @@ continuum.power_optimizer.name=I've Got Places to Be!
 continuum.power_optimizer.desc=The Power Optimizer completely negates the upper limit of RF/t for EFab crafting. With it installed, the craft operation can go as fast as the EFab can accept power.
 
 continuum.observatory.name=Macroscope
-continuum.observatory.desc=The Observatory is a large machine that uses Distance Data to search for asteroids. These asteroids are useful because they can be mined for materials, although not very much usually. There's a small change to find Iridium Ore on Enriched Asteroids. Give it Distance Data then hit "Scan" in the second tab. The range is dependant on the type of Motor used and if Glass or Lenses are used.\n\nTo store the coordinates of an Asteroid, insert an Asteroid ID Chip into the bottom left slot of the second tab while the Asteroid you want to mine is selected and click the "Process discovery" button. \n\nThe Programmed Asteroid ID Chip needs to be filled with a lot of Data which is done by inserting it into the bottom slot of the Astrobody Data Processor and filling all three switches in the GUI. 
+continuum.observatory.desc=The Observatory is a large machine that uses Distance Data to search for asteroids. These asteroids are useful because they can be mined for materials, although not very much usually. There's a small change to find Iridium Ore on Enriched Asteroids. Give it Distance Data then hit "Scan" in the second tab. The range is dependant on the type of Motor used and if Glass or Lenses are used.\n\nTo store the coordinates of an Asteroid, insert an Asteroid ID Chip into the bottom left slot of the second tab while the Asteroid you want to mine is selected and click the "Process discovery" button. \n\nThe Programmed Asteroid ID Chip needs to be filled with a lot of Data which is done by inserting it into the bottom slot of the Astrobody Data Processor and filling all three switches in the GUI.
 
 continuum.asteroid_mining.name=Piercing the Heavens
 continuum.asteroid_mining.desc=Now that our Satellite ID Chip is programmed and full of Data, we can begin the asteroid mining mission. This will require a specially built Rocket.\n\nThis Rocket needs to have Chests and Drills anywhere on it in addition to the rest of the normal Rocket things. The more Drills installed, the faster the mining mission is. \n\nInsert the Satellite ID Chip into the Guidance Computer and launch the Rocket using a Rocket Monitoring Station (don't ride it!) and it will begin the mission. In the Rocket Monitoring Station you can see how done the mission is. Once it's done, the Rocket will return to the Launch Pad ready for the next mission. \n\nUse a Rocket Unloader linked to the Rocket to automatically pull the items out.
@@ -607,10 +605,10 @@ continuum.creative_modifier.name=Modifiers, Please
 continuum.creative_modifier.desc=The Creative Modifier, when installed on any Tinkers' Construct tool as an upgrade, unlocks another Modifier slot. There's no limit to how many times this can be done.\n\nNaturally, this does not use up a modifier slot.
 
 continuum.creative_watering_can.name=Creative Irrigation
-continuum.creative_watering_can.desc=The Creative Watering Can speeds up item growth substantially at zero cost of water. 
+continuum.creative_watering_can.desc=The Creative Watering Can speeds up item growth substantially at zero cost of water.
 
 continuum.creative_capacitor.name=Creative Flux Capacitor
-continuum.creative_capacitor.desc=The Creative Flux Capacitor creates an infinite amount of RF in your inventory. You can sneak right click it and it will charge items in your inventory. 
+continuum.creative_capacitor.desc=The Creative Flux Capacitor creates an infinite amount of RF in your inventory. You can sneak right click it and it will charge items in your inventory.
 
 continuum.creative_mill.name=Free GP
 continuum.creative_mill.desc=The Creative Mill gives your grid 1,000 GP each at no additional cost. You can have as many as you can afford.
@@ -621,14 +619,14 @@ continuum.creative_energy.desc=The Creative Energy Source creates an infinite am
 continuum.creative_drum.name=Ocean in a Block
 continuum.creative_drum.desc=The Creative Drum stores an unlimited amount of any fluid of your choosing. Right click the Creative Drum with the fluid you want to set it to that fluid. You can reset it by crafting it by itself.
 
-continuum.advanced_tank.name=Space Saving
-continuum.advanced_tank.desc=The Advanced Tank can hold 64 buckets of fluid, 4 times as much as a regular Tank.
+continuum.advanced_tank.name=节省空间
+continuum.advanced_tank.desc=高级储罐能够容纳 64 桶流体，是普通储罐的 4 倍。
 
 continuum.pipe.name=SCP-015
 continuum.pipe.desc=Pipes can be used to decrease the time it takes for a fluid crafting recipe to complete.\n\nThe EFab takes the highest time decrease available; If there are 4 Gear Boxes and no Pipes on a fluid + Gear Box recipe, it will run at max speed.
 
 continuum.recycler.name=Reduce, Reuse, Recycler
-continuum.recycler.desc=The Recycler converts any items you insert into Scrap. Each item has a 1/6 chance to become Scrap.\n\nYou can craft 9 Scrap into a Scrap Box which can turn into a bunch of random items when you open!
+continuum.recycler.desc=回收机能将你放入的任何物品转换为废料。每个物品有1/6的几率变成废料\n\n你可以用9个废料来制作一个打开时会变成随机物品的废料盒。
 
 continuum.matter_fabricator.name=Nothing's the Matter, Now That I Have the Matter Fabricator!
 continuum.matter_fabricator.desc=The Matter Fabricator creates UU Matter, which can be used to craft many items. The Matter Fabricator uses a large amount of RF, but also requires Scrap to run.
@@ -709,7 +707,7 @@ continuum.wolf_trophy.name=Good Boy
 continuum.wolf_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Wolf noises.
 
 continuum.villager_golem_trophy.name=Rose Bud
-continuum.villager_golem_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. 
+continuum.villager_golem_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob.
 
 continuum.magma_cube_trophy.name=Hellslime
 continuum.magma_cube_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob.
@@ -874,36 +872,35 @@ continuum.fusion_coil.name=Large Hadron Collider
 continuum.fusion_coil.desc=The max size Fusion Reactor creates ludicrous amounts of RF and requires a very large amount of blocks to build. In total, you need 3172 Fusion Coils. As this is more than your inventory can hold, this quest instead requires a YABBA barrel with no upgrades that has 3172 Fusion Coils inside.
 
 continuum.plasma_generator.name=Please Sir, I Want Some More
-continuum.plasma_generator.desc=The Plasma Generator allows you to use Heliumplasma to generate very large amounts of RF, in addition to the RF that was created making it. 
+continuum.plasma_generator.desc=The Plasma Generator allows you to use Heliumplasma to generate very large amounts of RF, in addition to the RF that was created making it.
 
 continuum.mob_souls.name=Mob Souls
 continuum.mob_souls.desc=The Spawner Changer allows you to change the mob spawned by Mob Spawners. Right click the Spawner Changer on a mob to set it, killing the mob. You can then right click on a Monster Spawner and it will be changed to spawn that mob. The Spawner Changer is destroyed in the process.\n\nYou can right click a Drop of Evil on any Monster Spawner to turn it into a Resturbed Mob Spawner. These can be broken and picked up without breaking, and will constantly spawn whatever mob it is assigned to. These mobs will be more powerful than normal, similar to mobs spawned by Cursed Earth. You can also insert Speed Upgrades to decrease the time between spawns.
 
 continuum.solar_lunar_panels.name=Clean Energy
-continuum.solar_lunar_panels.desc=Solar and Lunar Panels create a fairly small amount of GP. Each only generates GP during the day or night, I trust you can figure out which is which.
+continuum.solar_lunar_panels.desc=太阳能与月光面板都只能产出少量GP。分别只能在白天或晚上工作，我相信你可以搞清楚哪个是哪个。
 
 continuum.water_mill.name=Hydroelectric
-continuum.water_mill.desc=The Water Mill generates 4 GP per side that has flowing water touching it, which means you can have a maximum of 16 GP per Water Mill. Water flowing downwards does not count, and so does not generate GP.
+continuum.water_mill.desc=水力发电机每个接触水流的侧面都会产出4GP，也就是说每个水力发电机最多可以产出16GP。水源是不会流动的，所以不会发电。
 
 continuum.lava_mill.name=Thermoelectric
-continuum.lava_mill.desc=The Lava Mill generates 2 GP while it is touching Lava on any horizontal side. The amount of Lava does not matter, it makes a maximum of 2 GP per Lava Mill.
+continuum.lava_mill.desc=当岩浆发电机在任何面上接触岩浆时会产出2GP。岩浆的数量并不会影响什么，每个岩浆发电机的最大发电只有2GP
 
 continuum.fire_mill.name=Smoky Power
-continuum.fire_mill.desc=The Fire Mill generates 4 GP while directly over Fire.
+continuum.fire_mill.desc=当火力发电机在火焰上方时会产出4GP
 
 continuum.dummy_quest.name=Rolling Machine / Implosion Compressor
 continuum.dummy_quest.desc=This is a dummy quest that completes when either the Implosion Compressor or the Rolling Machine are completed.
-continuum.literally_anywhere.name=Literally anywhere
 
 continuum.tr_sawmill.name=Woody
-continuum.tr_sawmill.desc=Tech Reborn's Sawmill is a multiblock machine that allows you to get 6 Planks per log.\n\nThe Sawmill block sits on the front middle of a 3x3x3 cube of Machine Casings.
+continuum.tr_sawmill.desc=Tech Reborn 的锯木机是一个多方块机器，你可以从每个原木中获得6个木板\n\n锯木机方块位于机械外壳组成的3x3x3立方体的正面中间
 
 #Quest Line
-continuum.new_game.name=It's Like a Whole New Game
-continuum.factorio.name=Factorio
-continuum.industrial_rebirth.name=Industrial Rebirth
-continuum.thermal_foregoing.name=Thermal Foregoing
-continuum.digital_style.name=Digital Style
-continuum.final_frontier.name=The Final Frontier
-continuum.alchemy.name=The Basis of All Alchemy
-continuum.hoarding.name=Obligatory Hoarding Quests
+continuum.new_game.name=这是你没玩过的全新版本
+continuum.factorio.name=异星工厂
+continuum.industrial_rebirth.name=工业重生
+continuum.thermal_foregoing.name=热力前瞻
+continuum.digital_style.name=数码风格
+continuum.final_frontier.name=最后的疆域
+continuum.alchemy.name=一切炼金术的基础
+continuum.hoarding.name=强制性囤积任务
