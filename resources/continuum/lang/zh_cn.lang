@@ -548,16 +548,16 @@ continuum.dark_matter_furnace.name=宇宙热寂理论
 continuum.dark_matter_furnace.desc=暗物质熔炉能用 EMC 作为燃料（通常燃料亦可）。它能同时烧制两个物品，并且有几率双倍产出矿物。同时暗物质熔炉使用燃料的效率也会更高。
 
 continuum.energy_collector_mk1.name=光能量
-continuum.energy_collector_mk1.desc=能量收集器MK1 能被动收集 EMC。光亮等级越高，EMC 就收集得越快，最快 4EMC/秒。\n\n你可以在底部的格子里放入卡莱恩之星，能量收集器会直接把 EMC 存入其内部储存。
+continuum.energy_collector_mk1.desc=能量收集器 MK1 能被动收集 EMC。光亮等级越高，EMC 就收集得越快，最快 4EMC/秒。\n\n你可以在底部的格子里放入卡莱恩之星，能量收集器会直接把 EMC 存入其内部储存。
 
 continuum.energy_collector_mk2.name=更强的光能量
-continuum.energy_collector_mk2.desc=能量收集器MK2 能以最快 12EMC/秒 的速度收集EMC。
+continuum.energy_collector_mk2.desc=能量收集器 MK2 能以最快 12EMC/秒 的速度收集 EMC。
 
 continuum.relay_mk1.name=EMC 传输
-continuum.relay_mk1.desc=反物质继电器MK1 可以操纵 EMC。你可以反物质在继电器中直接燃烧物品，将其含有的 EMC 传输到继电器里的卡莱恩之星中。你也可以将反物质继电器贴着能量收集器摆放，反物质继电器会以 1EMC/秒 的速度抽入 EMC。\n\n反物质继电器传输 EMC 的最高速度 64EMC/秒。
+continuum.relay_mk1.desc=反物质继电器 MK1 可以操纵 EMC。你可以反物质在继电器中直接燃烧物品，将其含有的 EMC 传输到继电器里的卡莱恩之星中。你也可以将反物质继电器贴着能量收集器摆放，反物质继电器会以 1EMC/秒 的速度抽入 EMC。\n\n反物质继电器传输 EMC 的最高速度 64EMC/秒。
 
 continuum.relay_mk2.name=EMC 传输 MK2
-continuum.relay_mk2.desc=反物质继电器MK2 传输速率可达 192EMC/秒。
+continuum.relay_mk2.desc=反物质继电器 MK2 传输速率可达 192EMC/秒。
 
 continuum.klein_star_1.name=4^0
 continuum.klein_star_1.desc=卡莱恩之星相当于储存 EMC 的电池。卡莱恩之星可在能量收集器或反物质继电器中装填 EMC，之后可在暗/红物质熔炉或其他反物质继电器中放空。\n\n将四个同等级卡莱恩之星合成，能得到可储存四倍 EMC 的更高级卡莱恩之星。第一级卡莱恩之星仅能储存 50000EMC。
@@ -581,10 +581,10 @@ continuum.dark_matter_pedestal.name=功能性展示
 continuum.dark_matter_pedestal.desc=暗物质台座为你提供了优秀的方式来展示物品，同时它能给特定的 ProjectE 物品带来额外的功能。在这些特定物品的提示文本里你能看到上文提到的额外功能。
 
 continuum.energy_collector_mk3.name=最强的光能量
-continuum.energy_collector_mk3.desc=能量收集器MK3 可以最高 40EMC/秒 的速率生成 EMC。
+continuum.energy_collector_mk3.desc=能量收集器 MK3 可以最高 40EMC/秒 的速率生成 EMC。
 
 continuum.relay_mk3.name=EMC 传输 MK3
-continuum.relay_mk3.desc=反物质继电器MK3 能以最高 640EMC/秒 的速率传输 EMC。
+continuum.relay_mk3.desc=反物质继电器 MK3 能以最高 640EMC/秒 的速率传输 EMC。
 
 continuum.mercurial_eye.name=就在那里，这个，变成那个
 continuum.mercurial_eye.desc=墨丘利之眼是一个强大的建筑工具。使用它你可以筑起高墙或替换方块。\n\n首先，按下“其他功能”键打开墨丘利之眼的 GUI，放入一个卡莱恩之星并设置你想要制造/转化的的方块。\n\n按下“转换模式”键切换到普通模式或转化模式。普通模式下，墨丘利之眼将会放置一面墙，并消耗制造所有方块所需的 EMC。在转化模式下，墨丘利之眼会将你点击的方块替换成之前设置的方块。\n\n影响范围（会改变墙的大小和替换方块的范围）可通过按下“充能”键扩大，按住 shift 时再按键可令其放能使影响范围缩小。
@@ -599,7 +599,7 @@ continuum.condenser_mk1.name=通用物质生产
 continuum.condenser_mk1.desc=能量凝聚器会直接将 EMC 转化为物品。将想要制造的物品放在左上角的格子中进行标记，然后将想要转化成 EMC （从而转化为要制造的物品）的物品放在能量凝聚器物品栏中任意位置，物品就会被转化为 EMC。然后 EMC 就会被用来制作目标物品，制造的物品会被放入物品栏中。\n\n你可以把能量凝聚器贴着反物质继电器摆放，继电器中的 EMC 就会伴随着小幅提升被传入能量凝聚器。仅限拥有 EMC 值的物品可被转化或制造。.
 
 continuum.condenser_mk2.name=MK Ultra
-continuum.condenser_mk2.desc=能量凝聚器MK2 是能量凝聚器MK1 的升级版。除了工作速度快得多之外，MK2 的输入和输出栏是分开的，这样一来你提取产物时就不需要加过滤了。
+continuum.condenser_mk2.desc=能量凝聚器 MK2 是能量凝聚器 MK1 的升级版。除了工作速度快得多之外，MK2 的输入和输出栏是分开的，这样一来你提取产物时就不需要加过滤了。
 
 continuum.creative_modifier.name=请尽情强化
 continuum.creative_modifier.desc=创造模式强化槽，当被作为升级打在任意 Tinkers' Construct 的工具上时，会解锁该工具的一个强化槽。这个操作能进行的次数并没有限制。\n\n当然的，这不会消耗强化槽。
