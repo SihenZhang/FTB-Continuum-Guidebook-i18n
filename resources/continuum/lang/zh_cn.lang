@@ -619,7 +619,7 @@ continuum.creative_energy.desc=创造模式能量源能创造无限量的 RF。
 continuum.creative_drum.name=单方块里的海洋
 continuum.creative_drum.desc=创造筒存储了无限量的选定液体。用想要的液体右击创造筒来设置选定液体。将创造筒放入合成格可进行重置。
 
-continuum.continuum.advanced_tank.name=节省空间
+continuum.advanced_tank.name=节省空间
 continuum.advanced_tank.desc=高级储罐能够容纳 64 桶流体，是普通储罐的 4 倍。
 
 continuum.pipe.name=SCP-015
