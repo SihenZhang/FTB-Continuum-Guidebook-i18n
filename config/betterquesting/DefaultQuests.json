@@ -5984,7 +5984,7 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "immersiveengineering:metal_decoration1",
-              "Count:3": 8,
+              "Count:3": 6,
               "OreDict:8": "",
               "Damage:3": 1
             },
@@ -9191,7 +9191,7 @@
             },
             "3:10": {
               "id:8": "immersiveengineering:metal_decoration1",
-              "Count:3": 5,
+              "Count:3": 6,
               "OreDict:8": "",
               "Damage:3": 1
             },
@@ -11792,40 +11792,28 @@
               "Damage:3": 0
             },
             "1:10": {
-              "id:8": "libvulpes:forgepowerinput",
-              "Count:3": 1,
+              "id:8": "libvulpes:structuremachine",
+              "Count:3": 2,
               "OreDict:8": "",
               "Damage:3": 0
             },
             "2:10": {
-              "id:8": "libvulpes:structuremachine",
-              "Count:3": 24,
-              "OreDict:8": "",
+              "id:8": "libvulpes:motor",
+              "Count:3": 1,
+              "OreDict:8": "blockMotor",
               "Damage:3": 0
             },
             "3:10": {
               "id:8": "libvulpes:hatch",
               "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 1
+              "Damage:3": 0
             },
             "4:10": {
               "id:8": "libvulpes:hatch",
               "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 0
-            },
-            "5:10": {
-              "id:8": "libvulpes:motor",
-              "Count:3": 1,
-              "OreDict:8": "blockMotor",
-              "Damage:3": 0
-            },
-            "6:10": {
-              "id:8": "minecraft:glass",
-              "Count:3": 2,
-              "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 1
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -20320,10 +20308,10 @@
               "Damage:3": 35
             },
             "3:10": {
-              "id:8": "thermalfoundation:material",
+              "id:8": "immersiveengineering:material",
               "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 802
+              "Damage:3": 6
             },
             "4:10": {
               "id:8": "techreborn:dust",
@@ -20342,7 +20330,7 @@
           "name:8": "Black Gold planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 51,
+          "dimension:3": 50,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
@@ -20432,7 +20420,7 @@
           "name:8": "Honey planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 52,
+          "dimension:3": 51,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
@@ -20522,7 +20510,7 @@
           "name:8": "Liquid DNA planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 53,
+          "dimension:3": 52,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
@@ -20612,7 +20600,7 @@
           "name:8": "Red Blood planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 54,
+          "dimension:3": 53,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
@@ -20699,10 +20687,10 @@
           "posY:3": 0,
           "posZ:3": 0,
           "visible:1": 0,
-          "name:8": "Gelid Cryotheum planet",
+          "name:8": "Cryotheum planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 55,
+          "dimension:3": 54,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
@@ -20792,7 +20780,7 @@
           "name:8": "Resonant Ender planet",
           "range:3": -1,
           "index:3": 1,
-          "dimension:3": 56,
+          "dimension:3": 55,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 1
         }
