@@ -538,86 +538,86 @@ continuum.hellish.desc=This planet is in the Resources system. It has Pyrite, Ci
 continuum.gravity_machine.name=You're Blue Now!
 continuum.gravity_machine.desc=The Gravity Controller is a multiblock machine that allows you to change the force and direction of gravity in a set area.\n\nAt the bottom of the GUI, you can set the area of effect and the force of gravity. "1.00/100" is normal Earth gravity.\n\nOn the right side of the GUI, you can set the direction that the gravity will start going, and if it adds the force or sets the force. If you "add" upwards force of .50/50 on Earth, gravity will be half strength as it is adding 50 percent of Earth gravity upwards. The same happens if you "set" downwards force to 2.00/200.
 
-continuum.dark_matter.name=Oddly Squishy
-continuum.dark_matter.desc=Dark Matter makes up approximately 80 percent of the known universe. You would think it would suck everything into it like a black hole, but apparently not.\n\nDark Matter is a major crafting component in ProjectE items and blocks. The Charcoal Logs are found on the Lava world.
+continuum.dark_matter.name=奇怪的糊状物
+continuum.dark_matter.desc=已知的宇宙有接近 80% 都是由暗物质组成的。你可能会认为这玩意会像黑洞一样把所有东西都吸进去，但显然它不会。\n\n暗物质是 ProjectE 中的主要合成材料，于合成暗物质的碳化木可以在岩浆世界找到。
 
-continuum.dark_matter_armor.name=Cloaked in Star
-continuum.dark_matter_armor.desc=Dark Matter armor is highly resistant to damage. Wearing a full set provides a near complete resistance to attacking and burning.
+continuum.dark_matter_armor.name=隐于星空
+continuum.dark_matter_armor.desc=暗物质护甲拥有很强的伤害防护能力，全套佩戴时几乎能完全防护攻击和火焰伤害。
 
-continuum.dark_matter_furnace.name=Heat Death of the Universe
-continuum.dark_matter_furnace.desc=The Dark Matter Furnace is a furnace that can smelt things at using EMC as fuel (it can use regular fuel as well). It can smelt 2 items at a time and has a chance to double ores. Fuels are more efficient in the Dark Matter Furnace as well.
+continuum.dark_matter_furnace.name=宇宙热寂理论
+continuum.dark_matter_furnace.desc=暗物质熔炉能用 EMC 作为燃料（通常燃料亦可）。它能同时烧制两个物品，并且有几率双倍产出矿物。同时暗物质熔炉使用燃料的效率也会更高。
 
-continuum.energy_collector_mk1.name=Light Energy
-continuum.energy_collector_mk1.desc=The Energy Collector MK1 passively generates EMC. The higher the light level, the more EMC is created, at max of 4 EMC/s.\n\nYou can insert a Klein Star into the bottom slot and it will insert the EMC directly into its internal storage.
+continuum.energy_collector_mk1.name=光能量
+continuum.energy_collector_mk1.desc=能量收集器 MK1 能被动收集 EMC。光亮等级越高，EMC 就收集得越快，最快 4EMC/秒。\n\n你可以在底部的格子里放入卡莱恩之星，能量收集器会直接把 EMC 存入其内部储存。
 
-continuum.energy_collector_mk2.name=Lighter Energy
-continuum.energy_collector_mk2.desc=The Energy Collector MK2 creates a maximum of 12 EMC/s.
+continuum.energy_collector_mk2.name=更强的光能量
+continuum.energy_collector_mk2.desc=能量收集器 MK2 能以最快 12EMC/秒 的速度收集 EMC。
 
-continuum.relay_mk1.name=EMC Transfer
-continuum.relay_mk1.desc=The Anti-Mattery Relay MK1 manipulates EMC. You can burn items directly to transfer its EMC into the Klein Star inside. You can also place it next to Energy Collectors and the EMC will be transferred into it, with an additional 1 EMC/s.\n\nIt can move 64 EMC/s at maximum speed.
+continuum.relay_mk1.name=EMC 传输
+continuum.relay_mk1.desc=反物质继电器 MK1 可以操纵 EMC。你可以反物质在继电器中直接燃烧物品，将其含有的 EMC 传输到继电器里的卡莱恩之星中。你也可以将反物质继电器贴着能量收集器摆放，反物质继电器会以 1EMC/秒 的速度抽入 EMC。\n\n反物质继电器传输 EMC 的最高速度 64EMC/秒。
 
-continuum.relay_mk2.name=Transfer MK2
-continuum.relay_mk2.desc=The Anti-Matter Relay MK2 can transfer 192 EMC/s.
+continuum.relay_mk2.name=EMC 传输 MK2
+continuum.relay_mk2.desc=反物质继电器 MK2 传输速率可达 192EMC/秒。
 
 continuum.klein_star_1.name=4^0
-continuum.klein_star_1.desc=Klein Stars act as batteries for EMC. You can charge a Klein Star in an Energy Collector or Anti-Matter Relay and empty them in Dark/Red Matter Fyrnaces or other Anti-Matter Relays.\n\nYou can craft 4 Klein Stars of the same tier to upgrade them to the next, which stores 4 times as much. The first tier only stores 50,000 EMC.
+continuum.klein_star_1.desc=卡莱恩之星相当于储存 EMC 的电池。卡莱恩之星可在能量收集器或反物质继电器中装填 EMC，之后可在暗/红物质熔炉或其他反物质继电器中放空。\n\n将四个同等级卡莱恩之星合成，能得到可储存四倍 EMC 的更高级卡莱恩之星。第一级卡莱恩之星仅能储存 50000EMC。
 
-continuum.red_matter.name=Rad Matter
-continuum.red_matter.desc=Red Matter is the next tier and final of ProjectE items and machines.
+continuum.red_matter.name=红物质
+continuum.red_matter.desc=进阶材料：红物质，将构成 ProjectE 中物品与机器的终极形态。
 
-continuum.evertide_amulet.name=Evertide Island
-continuum.evertide_amulet.desc=The Evertide Amulet can be used to place down water and fill up tanks at no EMC cost. You can also hit the "Fire Projectile" button to fire a projectile that creates a Water source block wherever it hits.
+continuum.evertide_amulet.name=永汐岛
+continuum.evertide_amulet.desc=使用潮汐护符可放置水源或填充水槽，不需要消耗 EMC。按下“发射宝珠”键发射一个会在落地点制造水源的宝珠。
 
-continuum.volcanite_amulet.name=Burn Baby Burn
-continuum.volcanite_amulet.desc=The Volcanite Amulet can be used to place down and fill tanks with Lava at the cost of 32 EMC. You can also hit the "Fire Projectile" button to fire a projectile that places down a Lava source block wherever it hits.
+continuum.volcanite_amulet.name=《Burn Baby Burn》
+continuum.volcanite_amulet.desc=使用熔焰护符可放置熔岩或给容器填充岩浆，每次消耗 32EMC。按下“发射宝珠键”发射一个会在落地点制造熔岩的宝珠。
 
-continuum.red_matter_armor.name=Warm to the Touch
-continuum.red_matter_armor.desc=Red Matter armor is even more powerful than Dark Matter armor.
+continuum.red_matter_armor.name=温暖的触感
+continuum.red_matter_armor.desc=红物质护甲甚至比暗物质护甲更为强大。
 
-continuum.red_matter_furnace.name=Hottest Topic
-continuum.red_matter_furnace.desc=The Red Matter Furnace has a 100 percent chance of doubling ores and increases fuel efficiency by 4 times.
+continuum.red_matter_furnace.name=最热话题
+continuum.red_matter_furnace.desc=红物质熔炉有 100% 的几率双倍产出矿物，并且将燃料的效率提升四倍。
 
-continuum.dark_matter_pedestal.name=Functional Displays
-continuum.dark_matter_pedestal.desc=The Dark Matter Pedestal, as well as giving you a swanky new way to display items, gives extra functions to certain ProjectE items. You can see the functions in the tooltips of the item.
+continuum.dark_matter_pedestal.name=功能性展示
+continuum.dark_matter_pedestal.desc=暗物质台座为你提供了优秀的方式来展示物品，同时它能给特定的 ProjectE 物品带来额外的功能。在这些特定物品的提示文本里你能看到上文提到的额外功能。
 
-continuum.energy_collector_mk3.name=Lightest Energy
-continuum.energy_collector_mk3.desc=The Energy Collector MK3 generates a maximum of 40 EMC/s.
+continuum.energy_collector_mk3.name=最强的光能量
+continuum.energy_collector_mk3.desc=能量收集器 MK3 可以最高 40EMC/秒 的速率生成 EMC。
 
-continuum.relay_mk3.name=Transfer MK3
-continuum.relay_mk3.desc=The Anti-Matter Relay MK3 can transfer 640 EMC/s.
+continuum.relay_mk3.name=EMC 传输 MK3
+continuum.relay_mk3.desc=反物质继电器 MK3 能以最高 640EMC/秒 的速率传输 EMC。
 
-continuum.mercurial_eye.name=This to That, Over Ther
-continuum.mercurial_eye.desc=The Mercurial Eye is a powerful building tool. You can use it to place down walls and replace materials. \n\nFirst, hit the "Extra Function" button to open the Mercurial Eye's GUI. Insert a Klein Star and set the block you wish to create/transmute into (it must have EMC).\n\nHit the "Change Mode" button to toggle between Normal Mode and Transfusion Mode. In Normal Mode, the Mercurial Eye will place a wall made of the material at the cost of the EMC of all the blocks created. In Transfusion Mode, the Mercurial Eye will replace the blocks you click on with the block you set.\n\nThe area of effect (which changes the size of the wall and the radius of the block change) can be increased using the "Charge" key. Hold sneak while hitting it to uncharge it, lowering the area of effect.
+continuum.mercurial_eye.name=就在那里，这个，变成那个
+continuum.mercurial_eye.desc=墨丘利之眼是一个强大的建筑工具。使用它你可以筑起高墙或替换方块。\n\n首先，按下“其他功能”键打开墨丘利之眼的 GUI，放入一个卡莱恩之星并设置你想要制造/转化的的方块。\n\n按下“转换模式”键切换到普通模式或转化模式。普通模式下，墨丘利之眼将会放置一面墙，并消耗制造所有方块所需的 EMC。在转化模式下，墨丘利之眼会将你点击的方块替换成之前设置的方块。\n\n影响范围（会改变墙的大小和替换方块的范围）可通过按下“充能”键扩大，按住 shift 时再按键可令其放能使影响范围缩小。
 
 continuum.klein_star_6.name=4^5
-continuum.klein_star_6.desc=The Klein Star Omega is the largest tier of Klein Star, and holds 51,200,000 EMC.
+continuum.klein_star_6.desc=六级卡莱恩之星的容量是最大的，可储存 51,200,000EMC。
 
-continuum.gem_armor.name=Armor of the Fallen
-continuum.gem_armor.desc=Gem Armor is the highest tier of armor in ProjectE. Each piece gives it's own special abilities, but as a whole the set offers no more protection than the Red Matter Armor.\n\nThe Gem Helmet protects against drowning, provides night vision, lets the player walk on water, and allows the wearer to shoot lightning bolts with the "Fire Projectile" button, so long as armor offensive capabilities are enabled. This is toggled with the "Charge" button.\n\nThe Gem Chestplate protects against Fire and Lava.\n\nThe Gem Leggings allow you to fall quickly by sneaking midair. On the ground, sneaking will push away all nearby mobs. \n\nThe Gem Boots protects against all fall damage, allows you to fly by holding space, and enables creative flight. It also adds a togglable step assist.
+continuum.gem_armor.name=堕落者之甲
+continuum.gem_armor.desc=宝珠护甲是 ProjectE 中最高级的护甲。各个单件都可以赋予穿戴者特殊能力，但是宝珠护甲套装提供的保护并不比红物质套装强。\n\n只要主动能力处于开启状态，宝珠头盔可为穿戴者提供溺水免疫、水上行走和夜视的能力，并且允许穿戴者在按下“发射宝珠”键时发射闪电箭。主动能力可通过“充能”键切换开关。\n\n然后宝珠胸甲能阻挡火焰和熔岩的伤害。\n\n而宝珠护腿使你能够在空中时按下 shift 快速下降，在地面时按下 shift 吹飞附近所有怪物。\n\n最后宝珠靴子能阻挡全部摔落伤害，使你能够按住空格飞行或启用创造模式飞行，宝珠靴子还提供了一个可开关的步行辅助。
 
-continuum.condenser_mk1.name=Mass Mass Production
-continuum.condenser_mk1.desc=The Energy Condenser allows you to turn EMC into items directly. You can set the item you want to create by placing one in the top left slot, then place items you wish to burn into EMC (and thus, into the item) anywhere in the Energy Condenser's inventory, and it will be converted into EMC. The EMC will then be used to create the target item, which is placed into the inventory as well.\n\nYou can place the Energy Condenser next to Anti-Matter Relays and the EMC inside of them will be pushed into the Energy Condenser, with a small boost. Only items that have an EMC value can be burned and created.
+continuum.condenser_mk1.name=通用物质生产
+continuum.condenser_mk1.desc=能量凝聚器会直接将 EMC 转化为物品。将想要制造的物品放在左上角的格子中进行标记，然后将想要转化成 EMC （从而转化为要制造的物品）的物品放在能量凝聚器物品栏中任意位置，物品就会被转化为 EMC。然后 EMC 就会被用来制作目标物品，制造的物品会被放入物品栏中。\n\n你可以把能量凝聚器贴着反物质继电器摆放，继电器中的 EMC 就会伴随着小幅提升被传入能量凝聚器。仅限拥有 EMC 值的物品可被转化或制造。.
 
 continuum.condenser_mk2.name=MK Ultra
-continuum.condenser_mk2.desc=The Energy Condensor MK2 is an upgraded version of the regular Energy Condenser. In addition to being much faster, it has separate inventories for inputs and outputs so you don't need to filter extraction.
+continuum.condenser_mk2.desc=能量凝聚器 MK2 是能量凝聚器 MK1 的升级版。除了工作速度快得多之外，MK2 的输入和输出栏是分开的，这样一来你提取产物时就不需要加过滤了。
 
-continuum.creative_modifier.name=Modifiers, Please
-continuum.creative_modifier.desc=The Creative Modifier, when installed on any Tinkers' Construct tool as an upgrade, unlocks another Modifier slot. There's no limit to how many times this can be done.\n\nNaturally, this does not use up a modifier slot.
+continuum.creative_modifier.name=请尽情强化
+continuum.creative_modifier.desc=创造模式强化槽，当被作为升级打在任意 Tinkers' Construct 的工具上时，会解锁该工具的一个强化槽。这个操作能进行的次数并没有限制。\n\n当然的，这不会消耗强化槽。
 
-continuum.creative_watering_can.name=Creative Irrigation
-continuum.creative_watering_can.desc=The Creative Watering Can speeds up item growth substantially at zero cost of water.
+continuum.creative_watering_can.name=创造模式浇灌
+continuum.creative_watering_can.desc=洒水壶（创造）加速作物生长时的耗水量基本为零。
 
-continuum.creative_capacitor.name=Creative Flux Capacitor
-continuum.creative_capacitor.desc=The Creative Flux Capacitor creates an infinite amount of RF in your inventory. You can sneak right click it and it will charge items in your inventory.
+continuum.creative_capacitor.name=创造模式通量电容
+continuum.creative_capacitor.desc=通量电容（创造）在能你的物品栏中创造无限的 RF。手持电容潜行右击开启充能模式来给物品栏中的物品充能。
 
-continuum.creative_mill.name=Free GP
-continuum.creative_mill.desc=The Creative Mill gives your grid 1,000 GP each at no additional cost. You can have as many as you can afford.
+continuum.creative_mill.name=免费 GP
+continuum.creative_mill.desc=每个创造模式发电机可提供 1,000GP，并且没有损耗。只要你够富，想做多少做多少。
 
-continuum.creative_energy.name=UNLIMITED COSMIC POWER
-continuum.creative_energy.desc=The Creative Energy Source creates an infinite amount of RF.
+continuum.creative_energy.name=「终靈全·End∞神典·寰宇聚能」
+continuum.creative_energy.desc=创造模式能量源能创造无限量的 RF。
 
-continuum.creative_drum.name=Ocean in a Block
-continuum.creative_drum.desc=The Creative Drum stores an unlimited amount of any fluid of your choosing. Right click the Creative Drum with the fluid you want to set it to that fluid. You can reset it by crafting it by itself.
+continuum.creative_drum.name=单方块里的海洋
+continuum.creative_drum.desc=创造筒存储了无限量的选定液体。用想要的液体右击创造筒来设置选定液体。将创造筒放入合成格可进行重置。
 
 continuum.advanced_tank.name=节省空间
 continuum.advanced_tank.desc=高级储罐能够容纳 64 桶流体，是普通储罐的 4 倍。
@@ -808,8 +808,8 @@ continuum.wither.desc=The Wither can be automatically built with a Wither Builde
 continuum.ender_dragon.name=Here There Been Dragons
 continuum.ender_dragon.desc=The Ender Dragon can be respawned by placing 4 End Crystals on the Bedrock Portal in the End.
 
-continuum.shape_card.name=World Holes
-continuum.shape_card.desc=The Quarry Card allows you to dig blocks with the RFTools Builder. Use it on the Builder then choose 2 opposite corners to dig. Given RF, the builder will then place the blocks mined into any inventory above it.\n\nYou can upgrade it to have Silk Touch and Fortune. By default, blocks mined will be replaced with Dirt. If upgraded to Clearning, the blocks are removed entirely. Clearing Quarry Cards can also have Fortune and Silk Touch as well.
+continuum.shape_card.name=世界坑
+continuum.shape_card.desc=使用采掘卡能通过 RFtools 建造机来挖掘方块。手持卡右键建造机然后选定两个顶点然后挖掘。提供 RF 后，建造机会把挖到的方块方块它上方的储存设备中。\n\n你可以将卡升级为精准采集或时运卡。默认配置下，泥土会替代被挖掉的方块放在原来的位置。如果升级为清空卡，该位置的方块就会被整个移除。清空采掘卡也可以拥有时运或精准采集效果。
 
 continuum.eye_of_storm.name=Eye of the Storm
 continuum.eye_of_storm.desc=This planet has no special ores, but is the only source of Charcoal Logs in the known universe. It's also a good source of Lava.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
@@ -865,8 +865,8 @@ continuum.ender_planet.desc=This planet is in the Fluid system. It is an ocean p
 continuum.red_katar.name=[Thunderfury, Blessed Blade of the Windseeker]
 continuum.red_katar.desc=The Red Katar is an omnitool that serves as a Sword, Hoe, Axe, and Shears all in one, and has infinite durability.\n\nIt has 4 levels which can be switched between with the charge button. With the Extra Function button, it will kill all hostiles in a radius around the player dependant on the charge level. You can toggle between killing only hostiles and killing all mobs with the Change Mode key.
 
-continuum.red_morningstar.name=Good Morning!
-continuum.red_morningstar.desc=The Red Morningstar is an omnitool that serves as a Hammer, Pickaxe, and Shovel.\n\nWhen right clicked on an ore vein, it will mine the entire vein all at once. Right clicking on any other block will mine a horizontal area dependant on the charge level.
+continuum.red_morningstar.name=早上好！
+continuum.red_morningstar.desc=红物质钉头锤是一个多功能工具，可同时用做锤子、镐子和铲子。\n\n右击矿脉将会一下挖掉整个矿脉。右击任意方块将会挖掘一个横向区域，区域大小取决于充能等级。
 
 continuum.fusion_coil.name=Large Hadron Collider
 continuum.fusion_coil.desc=The max size Fusion Reactor creates ludicrous amounts of RF and requires a very large amount of blocks to build. In total, you need 3172 Fusion Coils. As this is more than your inventory can hold, this quest instead requires a YABBA barrel with no upgrades that has 3172 Fusion Coils inside.
