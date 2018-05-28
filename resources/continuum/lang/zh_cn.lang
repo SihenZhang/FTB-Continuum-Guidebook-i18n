@@ -658,155 +658,155 @@ continuum.infinity_booster_card.desc=The Infinity Booster allows you to use your
 continuum.slimesling.name=Parabolic
 continuum.slimesling.desc=The Slimesling sends you flinging through the air. Hold it down on a block to charge it and let go to go flying in the opposite direction. You must be on the ground and looking at a block for it to work.\n\nThe EFab crafting process takes 30 minutes, so it is highly recommended to have multiple Gear Boxes to reduce that time.
 
-continuum.ghast_trophy.name=Ghastlierest
-continuum.ghast_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Ghast noises.
+continuum.ghast_trophy.name=最强排球大师
+continuum.ghast_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放恶魂音效。
 
-continuum.slime_trophy.name=Slimy
-continuum.slime_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob.
+continuum.slime_trophy.name=粘粘的
+continuum.slime_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。
 
-continuum.cave_spider_trophy.name=Cave Story
-continuum.cave_spider_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Cave Spider noises.
+continuum.cave_spider_trophy.name=洞穴小故事
+continuum.cave_spider_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放洞穴蜘蛛音效。
 
-continuum.spider_trophy.name=Piderman
-continuum.spider_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Spider noises.
+continuum.spider_trophy.name=痴蛛侠
+continuum.spider_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放蜘蛛音效。
 
-continuum.blaze_trophy.name=Fire Man
-continuum.blaze_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Blaze noises and light the player on fire.
+continuum.blaze_trophy.name=烈焰侠
+continuum.blaze_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放烈焰人音效并点燃玩家。
 
-continuum.sheep_trophy.name=Wake Up Sheeple
-continuum.sheep_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Sheep noises.
+continuum.sheep_trophy.name=清醒点羊岷
+continuum.sheep_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放羊音效。
 
-continuum.ocelot_trophy.name=Ozelot, Ocelot, Same Thing Really
-continuum.ocelot_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Cat noises.
+continuum.ocelot_trophy.name=实际上虎猫与豹猫之间是没有生殖隔离的
+continuum.ocelot_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放猫音效。
 
-continuum.villager_trophy.name=Testificate
-continuum.villager_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Villager noises.
+continuum.villager_trophy.name=实验试做品
+continuum.villager_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放村民音效。
 
-continuum.enderman_trophy.name=Skinnydude
-continuum.enderman_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Enderman noises and teleport the player short distances.
+continuum.enderman_trophy.name=老哥挺苗条哈
+continuum.enderman_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放末影人音效并将玩家传送一小段距离。
 
-continuum.rabbit_trophy.name=I'm Hunting Wabbits
-continuum.rabbit_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will occaisonally spawn a Carrot.
+continuum.rabbit_trophy.name=我在狩猎兔八哥
+continuum.rabbit_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品偶尔会生成胡萝卜。
 
-continuum.pig_trophy.name=Pig Out
-continuum.pig_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Pig noises and occasionally spawn a Raw Porkchop.
+continuum.pig_trophy.name=我还能吃，嗝~
+continuum.pig_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放猪音效并且偶尔会生成生猪排。
 
-continuum.mooshroom_trophy.name=Ophiocordyceps Unilateralis
-continuum.mooshroom_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Mooshroom noises.
+continuum.mooshroom_trophy.name=偏侧蛇虫草菌
+continuum.mooshroom_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放哞菇音效。
 
-continuum.guardian_trophy.name=Guardian Angelfish
-continuum.guardian_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Guardian noises and occasinally spawn the Guardian particle effect.
+continuum.guardian_trophy.name=神仙鱼守卫者
+continuum.guardian_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放守卫者音效并且偶尔会生成守卫者粒子效果。
 
-continuum.snowman_trophy.name=Let it Snow, Let is Snow, Let it Snow
-continuum.snowman_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will place Snow on surrounding blocks.
+continuum.snowman_trophy.name=雪它吧，雪它吧，雪它吧
+continuum.snowman_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品会在周围方块上生成雪。
 
-continuum.squid_trophy.name=Wet William
-continuum.squid_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will place Water on nearby blocks.
+continuum.squid_trophy.name=潮湿的威廉
+continuum.squid_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品会在周围方块上生成水源。
 
-continuum.wolf_trophy.name=Good Boy
-continuum.wolf_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Wolf noises.
+continuum.wolf_trophy.name=乖狗狗
+continuum.wolf_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放狼音效。
 
-continuum.villager_golem_trophy.name=Rose Bud
-continuum.villager_golem_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob.
+continuum.villager_golem_trophy.name=蔷薇的花苞
+continuum.villager_golem_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。
 
-continuum.magma_cube_trophy.name=Hellslime
-continuum.magma_cube_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob.
+continuum.magma_cube_trophy.name=Hellslime地狱史莱姆
+continuum.magma_cube_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。
 
-continuum.wither_skeleton_trophy.name=Long Larry
-continuum.wither_skeleton_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Wither Skeleton noises and occasionally drop a Wither Skeleton Skull.
+continuum.wither_skeleton_trophy.name=长长的拉里
+continuum.wither_skeleton_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放凋灵骷髅音效并且偶尔会掉落凋灵骷髅头颅。
 
-continuum.llama_trophy.name=Tina
-continuum.llama_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Llama noises and make it spit at you.
+continuum.llama_trophy.name=缇娜
+continuum.llama_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放羊驼音效并向你吐口水。
 
-continuum.horse_trophy.name=Friendship is Magic
-continuum.horse_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Horse noises and occasionally spawn Wheat.
+continuum.horse_trophy.name=友谊是魔法
+continuum.horse_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放马音效并且偶尔会生成小麦
 
-continuum.chicken_trophy.name=What's Wrong McFly?
-continuum.chicken_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Chicken noises and occasionally spawn Eggs.
+continuum.chicken_trophy.name=怎么了小飞侠？
+continuum.chicken_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放鸡音效并且偶尔会生成鸡蛋。
 
-continuum.mule_trophy.name=Mule
-continuum.mule_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Mule noises and occasionally spawn Wheat.
+continuum.mule_trophy.name=骡兹
+continuum.mule_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放骡音效并且偶尔会生成小麦。
 
-continuum.shulker_trophy.name=I'm Really Feeling It!
-continuum.shulker_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will give the player Levitation II for 5 seconds.
+continuum.shulker_trophy.name=我真的感觉到了！
+continuum.shulker_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放潜影贝音效并且给予你 5秒 漂浮Ⅱ效果。
 
-continuum.elder_guardian_trophy.name=Absolute Unit
-continuum.elder_guardian_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Elder Guardian noises and occasionally spawn the Elder Guardian particle effect.
+continuum.elder_guardian_trophy.name=独立单位
+continuum.elder_guardian_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放远古守卫者音效并且偶尔会生成远古守卫者粒子效果。
 
-continuum.donkey_trophy.name=Donkay
-continuum.donkey_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Donkey noises and occasionally spawn Wheat.
+continuum.donkey_trophy.name=比驴更长更粗
+continuum.donkey_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放驴音效并且偶尔会生成小麦。
 
-continuum.polar_bear_trophy.name=Bear Hug
-continuum.polar_bear_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make Polar Bear noises and occasionally spawn Raw Fish.
+continuum.polar_bear_trophy.name=熊抱
+continuum.polar_bear_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放北极熊音效并且偶尔会生成生鱼。
 
-continuum.husk_trophy.name=Empty Inside
-continuum.husk_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Husk noises and occasionally drop Feathers.
+continuum.husk_trophy.name=里面空空的
+continuum.husk_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放尸壳音效并且偶尔会生成皮革。
 
-continuum.zombie_trophy.name=In Your Head
-continuum.zombie_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Zombie noises.
+continuum.zombie_trophy.name=在你婶婶的脑海里
+continuum.zombie_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放僵尸音效。
 
-continuum.zombie_pigman_trophy.name=The Other Other Other White Meat
-continuum.zombie_pigman_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Zombie Pigman noises and occasionally drop Gold Nuggets.
+continuum.zombie_pigman_trophy.name=非人之肉
+continuum.zombie_pigman_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放僵尸猪人音效并且偶尔会掉落金粒。
 
-continuum.stray_trophy.name=Does It Have a Collar?
-continuum.stray_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will shoot Arrows up into the air.
+continuum.stray_trophy.name=它有领子吗？
+continuum.stray_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品会向空中射出一只箭。
 
-continuum.cow_trophy.name=Don't Have a Cow, Man
-continuum.cow_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Cow noises and occasionally drop Leather.
+continuum.cow_trophy.name=冷静朋友，我没有奶牛
+continuum.cow_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放牛音效并且偶尔会掉落皮革
 
-continuum.skeleton_trophy.name=Skellington
-continuum.skeleton_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Skeleton noises and shoot Arrows up into the air.
+continuum.skeleton_trophy.name=骷髅杰克
+continuum.skeleton_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放骷髅音效并且会向空中射出一只箭。
 
-continuum.witch_trophy.name=Witchcraft and Wizardry
-continuum.witch_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Witch noises and give the player Blindness II for 4 seconds.
+continuum.witch_trophy.name=巫术与除妖辟邪
+continuum.witch_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放女巫音效并且给予你 4秒 致盲Ⅱ效果。
 
-continuum.bat_trophy.name=Baman
-continuum.bat_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will play Bat noises.
+continuum.bat_trophy.name=扁蝠侠
+continuum.bat_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放蝙蝠音效。
 
-continuum.creeper_trophy.name=That's a Nice Trophy You've Got There...
-continuum.creeper_trophy.desc=Trophies have a 0.1% chance to drop after killing any vanilla mob. Right clicking this trophy will make explosion particle effects and noises, but will not actually harm anything.
+continuum.creeper_trophy.name=你得到了一个很“屌”的奖杯…各种意义上的…
+continuum.creeper_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品制造爆炸效果和音效，然而并不会造成任何伤害。、
 
 continuum.compressed_cobblestone.name=176,319,369,216
-continuum.compressed_cobblestone.desc=Each Octuple Compressed Cobblestone has 43,046,721 Cobblestone. Each Octuple Compressed Cobblestone would weigh approximately 2,300 kg, or about 2.5 tons.\n\nThis quest needs 64 stacks to complete.
+continuum.compressed_cobblestone.desc=每个八重压缩圆石包含了 43,046,721 个圆石，重量约为 2,300kg ，也就是差不多 2.5吨 。\n\n完成这个任务需要64组八重压缩圆石。
 
 continuum.oss.name=HMS OSS
-continuum.oss.desc=The Object Submission Station allows you to automatically complete submit quests. Place it down in the world and use the higher arrow buttons to choose the quest and the lower arrow buttons to change the task in the quest. Once you are happy with your choice, hit the checkmark button to lock it in. You can hit the X button to unlink the OSS from that task in order to change it to another one.\n\nYou can use Ducts and other automation with the OSS.
+continuum.oss.desc=OSS（The Object Submission Station），即物品提交站，允许你自动化完成提交任务。将 OSS 摆放出来，使用上面的箭头按钮选择任务，下面的箭头按钮选择要提交的项目，选好后按下确认标记按钮进行锁定。按下 X 按钮断开 OSS 和当前项目的链接，随后可更换目标项目。\n\n你可以在 OSS 上使用管道及其他自动化设备。
 
-continuum.lava.name=Hot Stuff
-continuum.lava.desc=This quest requires 131,072 buckets of Lava, which is about two full Demonically Garguantuan Drums full.
+continuum.lava.name=热门玩意
+continuum.lava.desc=这个任务要求提交 131,072 桶熔岩，相当于两个满的恶魔筒那么多。
 
 continuum.water.name=Revelation 21:6
-continuum.water.desc=This quest requires 131,072 buckets of Water, which is about two full Demonically Garguantuan Drums full.
+continuum.water.desc=这个任务要求提交 131,072 桶水，相当于两个满的恶魔筒这么多。
 
-continuum.pyrotheum.name=Burning Love
-continuum.pyrotheum.desc=This quest requires 131,072 buckets of Blazing Pyrotheum, which is about two full Demonically Garguantuan Drums full or 524,288 Pyrotheum Dust.
+continuum.pyrotheum.name=熊熊燃烧的爱
+continuum.pyrotheum.desc=这个任务要求提交 131,072 桶烈焰之炽焱，相当于两个满的恶魔筒或者 524,288 个炽焱粉。
 
-continuum.cryotheum.name=Ice Ice Baby
-continuum.cryotheum.desc=This quest requires 131,072 buckets of Gelid Cryotheum, which is about two full Demonically Garguantuan Drums full or 524,288 Cryotheum Dust.
+continuum.cryotheum.name=雪宝
+continuum.cryotheum.desc=这个任务要求提交 131,072 桶极寒之凛冰，相当于两个满的恶魔筒或者 524,288 和凛冰粉。
 
-continuum.lubricant.name=Slip n Slide
-continuum.lubricant.desc=This quest requires 131,072 buckets of Lubricant, which is about two full Demonically Garguantuan Drums full.
+continuum.lubricant.name=滑滑乐
+continuum.lubricant.desc=这个任务要求提交 131,072 桶润滑油，相当于两个满的恶魔筒这么多。
 
-continuum.blood.name=Blood for the Blood God
-continuum.blood.desc=This quest requires 250,000 buckets of Blood.
+continuum.blood.name=为气血之神献上鲜血
+continuum.blood.desc=这个任务要求提交 250,000 桶血。
 
-continuum.redstone.name=Oceans of Red
-continuum.redstone.desc=This quest requires 131,072 buckets of Destabilized Redstone, which is about two full Demonically Garguantuan Drums full or 1,310,720 Redstone Dust.
+continuum.redstone.name=红石海洋
+continuum.redstone.desc=这个任务要求提交 131,072 桶不稳定熔融红石，相当于两个满的恶魔筒或者 1,310,720 个红石。
 
-continuum.ender.name=Endest
-continuum.ender.desc=This quest requires 131,072 buckets of Resonant Ender, which is about two full Demonically Garguantuan Drums full or 524,288 Ender Pearls.
+continuum.ender.name=极致末影
+continuum.ender.desc=这个任务要求提交 131,072 桶谐振末影珍珠，相当于两个满的恶魔筒或者 524288 个末影珍珠。
 
-continuum.refined_fuel.name=Refined Fuel
-continuum.refined_fuel.desc=This quest requires 131,072 buckets of Refined Fuel, which is about two full Demonically Garguantuan Drums full.
+continuum.refined_fuel.name=精炼燃料
+continuum.refined_fuel.desc=这个任务要求提交 131,072 桶精炼燃料，相当于两个满的恶魔筒这么多。
 
-continuum.for_honey.name=Sticky Sucrose
-continuum.for_honey.desc=This quest requires 131,072 buckets of Honey, which is about two full Demonically Garguantuan Drums full.
+continuum.for_honey.name=粘稠的蔗糖
+continuum.for_honey.desc=这个任务要求提交 131,072 桶蜂蜜，相当于两个满的恶魔筒这么多。
 
-continuum.wither.name=Wither Killer
-continuum.wither.desc=The Wither can be automatically built with a Wither Builder.
+continuum.wither.name=凋灵杀手
+continuum.wither.desc=使用凋灵建造机能自动化召唤凋灵。
 
-continuum.ender_dragon.name=Here There Been Dragons
-continuum.ender_dragon.desc=The Ender Dragon can be respawned by placing 4 End Crystals on the Bedrock Portal in the End.
+continuum.ender_dragon.name=这里曾生活过龙
+continuum.ender_dragon.desc=将四个末影水晶放在末地传送门的基岩上，末影龙就会开始重生。
 
 continuum.shape_card.name=世界坑
 continuum.shape_card.desc=使用采掘卡能通过 RFtools 建造机来挖掘方块。手持卡右键建造机然后选定两个顶点然后挖掘。提供 RF 后，建造机会把挖到的方块方块它上方的储存设备中。\n\n你可以将卡升级为精准采集或时运卡。默认配置下，泥土会替代被挖掉的方块放在原来的位置。如果升级为清空卡，该位置的方块就会被整个移除。清空采掘卡也可以拥有时运或精准采集效果。
@@ -841,8 +841,8 @@ continuum.aethium.desc=This planet is in the ETech system. It is the only source
 continuum.lonsdaleite.name=Lonsdaleite
 continuum.lonsdaleite.desc=This planet is in the ETech system. It is the only source of Litherite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Aethium
 
-continuum.opinium.name=Fact
-continuum.opinium.desc=This quest requires 2048 Perfected Opinium Cores. You can duplicate Elytras by crafting an Elytra with a Dragon Scale, which drops after killing every Ender Dragon after the first. This will create a new Elytra while keeping the original.
+continuum.opinium.name=真知灼见
+continuum.opinium.desc=这个任务要求 2048 个 Opinium 核心。重生的末影龙被击杀后会掉落龙鳞，你可以将龙鳞与鞘翅合成来进行翅鞘的复制，原本的鞘翅会保留，同时得到一个新的翅鞘。
 
 continuum.oil_planet.name=Black Gold Ahoy
 continuum.oil_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Crude Oil.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
@@ -868,8 +868,8 @@ continuum.red_katar.desc=The Red Katar is an omnitool that serves as a Sword, Ho
 continuum.red_morningstar.name=早上好！
 continuum.red_morningstar.desc=红物质钉头锤是一个多功能工具，可同时用做锤子、镐子和铲子。\n\n右击矿脉将会一下挖掉整个矿脉。右击任意方块将会挖掘一个横向区域，区域大小取决于充能等级。
 
-continuum.fusion_coil.name=Large Hadron Collider
-continuum.fusion_coil.desc=The max size Fusion Reactor creates ludicrous amounts of RF and requires a very large amount of blocks to build. In total, you need 3172 Fusion Coils. As this is more than your inventory can hold, this quest instead requires a YABBA barrel with no upgrades that has 3172 Fusion Coils inside.
+continuum.fusion_coil.name=巨型强子对撞机
+continuum.fusion_coil.desc=最大号的聚变反应堆需要巨量的方块来搭建，据统计，共需 3172 个聚变线圈，而产生的 RF 总量非常滑稽。由于这个数量远高于你的物品栏所能携带的，所以这个任务要求一个装有 3172 个聚变线圈的无升级 YABBA 桶。
 
 continuum.plasma_generator.name=Please Sir, I Want Some More
 continuum.plasma_generator.desc=The Plasma Generator allows you to use Heliumplasma to generate very large amounts of RF, in addition to the RF that was created making it.
