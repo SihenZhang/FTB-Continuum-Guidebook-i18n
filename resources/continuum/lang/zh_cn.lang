@@ -107,7 +107,7 @@ continuum.electronic_circuit.name=巨蟒剧团之飞翔的电路板
 continuum.electronic_circuit.desc=电路板是几乎每一台科技复兴（Tech Reborn）机器都需要的材料。\n\n在现在这个阶段，你还只能使用充能台进行合成。以后你可以改用 EFab 进行合成。
 
 continuum.fluid_manipulation.name=流体操纵
-continuum.fluid_manipulation.desc=熔岩炉可以将特定物品熔化为液体。\n\n流体转置机可以清空物品内的流体将其转置到内部储罐内，或者将内部储罐内的液体灌注到物品中。\n\n合成需要一桶的，比如不稳定红石也可以用罐子与其它类似的物品。
+continuum.fluid_manipulation.desc=熔岩炉可以将特定物品熔化为液体。\n\n流体转置机可以清空物品内的流体将其转置到内部储罐内，或者将内部储罐内的液体灌注到物品中。\n\n有些配方可能需要一桶像不稳定熔融红石这样的液体，使用罐或其它类似的物品盛装的液体也可以使用。
 
 continuum.transfer_nodes.name=Herer to Therer
 continuum.transfer_nodes.desc=Transfer Pipes and Nodes allow you to move items in a much easier and faster way than Conveyor Belts. Place the Node on the inventory/tank you wish to pull from and place a line of Transfer Pipes along the path you wish it to go, and connect it to the inventory/tank you wish to insert into. You can apply several upgrades and a Filter to Transfer Nodes by opening the Node's GUI and placing them inside.\n\nYou can also create Retrieval Nodes that function similarly, but pull from inventories instead of push into.\n\nItems do not go through Nodes like other pipes. Instead, the Node slowly searches for an inventory that it can send items to, and then teleports the items there.
@@ -127,7 +127,7 @@ continuum.void_ore_miner.desc=虚空矿物采掘机是一种通过 RF 来生成�
 continuum.modular_storage.name=Modular Storage
 continuum.modular_storage.desc=The Modular Storage block on its own does nothing, it needs to have a Storage Module inside of it to function. The first tier holds a maximum of 100 stacks, each tier adding another 100 stacks. With the Storage Module installed, the Modular Storage acts basically like a chest. Stacks do not automatically combine; if you put a stack of 32 Dirt and later another stack of 16, they will stay separate. Hit the Z button at the bottom of the GUI to combine the stacks. Above the Z button, you can change how the items are shown, be it a list, two columns, or stacks like most other inventories. The button directly to the right of that one changes the way the items are sorted (you can install a Generic Type Module to add more options). The G button will combine the items into groups depending on the way they are sorted.\n\nThe Remote Storage and its Module allow increased functionality. Place the Storage Module inside one of the spaces for it in the Remote Storage and place the other Module on the right of it, and it will bind them together. You can then place the RSM into a Module Storage (or even multiple of them) and it will access that Storage Module. You can even have multiple Storage Modules in a single Remote Storage, and so long as they all have an ID (they've been bound to any RSM), you can cycle between the Storage Modules by hitting the C at the bottom left of the Modular Storage GUI.\n\nThe Storage Scanner allows you to access all nearby inventories around itself remotely. Set the radius and hit the Scan button, and it will detect nearby inventories. Select an inventory from the list to access it. You can reorder the list using the buttons to the left of it. You can only insert items into inventories on the list that have the star enabled, and then you insert through the blue slot at the bottom left. It will enter the first acceptable inventory on the list, starting at the top. If you wish to specify which items go where, put filtered inventories at the top of the list. You can disable the star at the bottom left and it will instead insert items to whichever inventory is currently selected. You can select "All Routable" from the list and it will display every inventory with a star at once.
 
-continuum.machine_frame.name=Machina
+continuum.machine_frame.name=机器天神
 continuum.machine_frame.desc=你可以在热力膨胀（Thermal Expansion）的机器上使用升级套件来提高它们的等级，使它们的速度更快，能存储更多 RF，并且每个等级会提供 1 个升级插槽。等级列表如下：基础 -> 硬化 -> 强化 -> 信素 -> 谐振。\n\n某些机器可以安装专业化升级，它可以以某种方式改变它的功能。每个机器只能安装一个专业化升级。
 
 continuum.itemduct.name=Pretty Items
@@ -217,8 +217,8 @@ continuum.information_screen.desc=信息屏幕可以显示出任何它被放置�
 continuum.reinforced_jetpack.name=Up Up and Away
 continuum.reinforced_jetpack.desc=强化飞行背包的RF储存量是硬化飞行背包的两倍，且速度稍快。
 
-continuum.plastic.name=Plastic
-continuum.plastic.desc=The Latex Processing Unit uses 75mB of Latex and 1,000mB Water to make each Tiny Dry Rubber. 9 Tiny Dry Rubber makes 1 Dry Rubber, which smelts into Plastic.
+continuum.plastic.name=塑料
+continuum.plastic.desc=胶乳加工机能够用 75mB 的胶乳和 1,000mB 的水来制做一个小块干橡胶。 9 个小块干橡胶能制做 1 个干橡胶，干橡胶能够烧炼成塑料。
 
 continuum.resonator.name=Resonance of the Soul
 continuum.resonator.desc=The Resonator uses GP to craft items. GP (Grid Power) is a kind of wireless energy. Mills create a static amount of GP and certain machines and items "use up" the GP. If more GP is being used than is being created, nothing will run.\n\nThe first thing you need to craft is Stoneburnt. To generate the GP required to do this, you need to craft and use a Manual Mill until you've made enough Stoneburnt to make other Mills.\n\nMills are less efficient at generating GP the more GP there is.\n\nWhile hovering over any machine that generates or uses GP, you can see the GP in the system. It is displayed as a fraction of (GP used) / (GP total).
@@ -250,11 +250,11 @@ continuum.auto_breaker.desc=The Auto-Breaker will automatically breakwhatever bl
 continuum.beacon.name=Look at Me!
 continuum.beacon.desc=The Beacon is a multiblock that uses no RF. The Beacon, when placed on a discovered planet, allows all other players to see that planet without having to discover it themselves. They will still need the artifact to fly there however.\n\nYou can install the Beacon Finder upgrade to your Space Suit Helmet and it will add a GUI element to the top of the screen pointing you towards and Beacon on the planet you are on.
 
-continuum.device_frame.name=Mechanisms
-continuum.device_frame.desc=Devices, as opposed to machines, require no RF to run and cannot be upgraded. They also tend to be much simpler than machines.
+continuum.device_frame.name=结构技巧
+continuum.device_frame.desc=与机器相反，设备不需要 RF 就能够运行并且不能升级。它们操作起来往往比机器简单得多。
 
-continuum.insightful_condensor.name=Knawledge
-continuum.insightful_condensor.desc=The Insightful Condensor collects nearby experience orbs and converts them into Essence of Knowledge. This can be used in the Arcane Ensorcellator to produce Enchanted Books, or you use the Fluid Transposer to fill up a Tome of Knowledge or create Bottles o' Enchanting.
+continuum.insightful_condensor.name=芝士
+continuum.insightful_condensor.desc=经验液化器能收集附近的经验球并将它们转化为知识精华。知识精华可以用于附魔机来制作附魔书，或者可以使用液体转置器来填充知识之书或制作附魔之瓶。
 
 continuum.nullifier.name=404
 continuum.nullifier.desc=The Nullifier destroys any item or fluid you pipe into it with no chance of ever getting it back. Useful for excess or junk items clogging up automation.
@@ -265,26 +265,26 @@ continuum.aqueous_accumulator.desc=The Aqueous Accumulator essentially creates w
 continuum.thermal_mediator.name=Water Cooling
 continuum.thermal_mediator.desc=The Thermal Mediator speeds up any machine it is touching at the cost of certain coolants. Different coolants speed machines up by different amounts.
 
-continuum.arboreal_extractor.name=Tapping
-continuum.arboreal_extractor.desc=The Arboreal Extractor pulls fluids from trees. The fluid that generates varies depending on the tree.
+continuum.arboreal_extractor.name=汲取
+continuum.arboreal_extractor.desc=树汁提取器能够从树木中提取液体。所提取的流体根据树的种类而变化。
 
-continuum.fracionating_still.name=Moonshine and Sunshine
-continuum.fracionating_still.desc=The Fracionating Still refines fluids. There are two specialization Augments the Still can have.\n\nThe Reflux Column increases the efficiency that fuels are processed at.\n\nThe Alchemical Retort allows the Still to refine liquid potions, increasing their potency by one.
+continuum.fracionating_still.name=日月之辉
+continuum.fracionating_still.desc=流体精炼机能够提炼流体。有两种专业化升级可供使用。\n\n原油回流蒸馏可以提高可供处理燃料的转化效率。\n\n炼金术反应釜可以让精炼机炼制液体药水，以增加药效。
 
 continuum.material_stoneworks_factory.name=Cobbleworks
 continuum.material_stoneworks_factory.desc=The Material Stoneworks Factory is a machine that can automatically create anything that uses Cobblestone as a starting point.\n\nProvided with RF, the MSF will begin to generate Cobblestone in the first two slots. The buttons between the columns will let you toggle between Disabled, Furnace Mode, 2x2 Craft, Grind Mode, and 3x3 Craft. The mode decides what happens when the material goes from the left column to the right column.\n\nIf you keep grinding, Silicon is created. This lets you skip having to go through the EFab with Latex to get Silicon. You can also use this to smelt into Latex using the Magma Crucible, so you don't have to keep using the Tree Fluid Extractor.
 
-continuum.decoctive_diffuser.name=Air Freshening
-continuum.decoctive_diffuser.desc=The Decoctive Diffuser sprays the effects of liquid potions into an area around itself. The range depends on the kind of potion.\n\nRegular potions cover a 9x9x9 area centered on the Decoctive Diffuser, splash potions have a 13x13x13 area, and lingering potions have an 17x17x17 area.\n\nYou can apply reagents that boost the potion's effectiveness for 15 cycles per item. Redstone increases the duration and Glowstone Dust increases the potency by one level. The maximum time and efficiency is 6 minutes of level IV potions.
+continuum.decoctive_diffuser.name=清新空气
+continuum.decoctive_diffuser.desc=药水雾化器能够将液体药水的效果扩散到周围的区域。范围取决于药水的种类。\n\n普通的药水能覆盖以药水雾化器为中心 9x9x9 的区域，喷溅型药水的区域为 13x13x13，滞留型药水区域为 17x17x17。\n\n你可以使用能够增加药水效力的试剂，每个物品 15 个周期。红石能增加持续时间，荧石粉能提高一个等级。IV 级药水的最长时间和效率是 6 分钟。
 
-continuum.alchemical_imbuer.name=Witchcraft
-continuum.alchemical_imbuer.desc=The Alchemical Imbuer brews liquid potions. The input fluid is the fluid you wish to change using the item inside. You may want to have more than one Alchemical Imbuer in a line inserting into eachother if you want to make more complicated potions.\n\nIf you wanted to make, for example, a Speed II Potion: Start with Water and Nether Wart to make Liquid Awkward Potion, and pipe that to the next Alchemical Imbuer. Combine the Liquid Awkward Potion with some Sugar to create Liquid Potion of Swiftness. Combine that with some Glowstone Dust in another Alchemical Imbuer, and you have some Liquid Potion of Swiftness II. You can put that into bottles using the Fluid Transposer, or use it in a Decoctive Infuser to spread the potion effect over an area.
+continuum.alchemical_imbuer.name=巫术
+continuum.alchemical_imbuer.desc=药水酿造机能够酿造液体药水。所输入的流体是你所希望使用内部物品来改变的流体。如果你想制作更复杂的药水，你可能要在一行摆放多个药水酿造机。\n\n例如，如果你想制作一个速度 II 药水：用水和地狱疣开始制造粗制的药水液体，并将其送至下一个药水酿造机。将粗制的药水液体与一些糖相结合，制造出迅捷药水液体。把它和另一个药水酿造机中的荧石粉结合起来，你就获得了一些迅捷 II 药水液体。你可以使用流体转置机将其装入瓶子中，或者在药水雾化器中使用它来将状态效果扩散到一个区域。
 
-continuum.igneous_extruder.name=Finally Cobble Gen
-continuum.igneous_extruder.desc=The Igneous Extruder mixes Water and Lava to create items like Cobblestone and Obsidian.\n\nIn the GUI, set which block you wish to generate. Certain blocks require the fluid exist but does not use them up, like Cobblestone. Other blocks, like Obsidian, use up one of the fluids (in this case Lava).
+continuum.igneous_extruder.name=终极圆石生产
+continuum.igneous_extruder.desc=造石机能将水和熔岩混合来产生像圆石和黑曜石之类的物品。\n\n在 GUI 中，可以设置你想要生成的方块。某些方块需要有相应的流体但不会消耗，如圆石。其它如黑曜石这样的方块，则会消耗其中一种流体（在这种情况下为熔岩）。
 
-continuum.centrifugal_separator.name=You Spin Me Right Round
-continuum.centrifugal_separator.desc=The Centrifugal Separator separates items into their core parts. This includes separating alloys into their core materials as well asextracting resources from Combs, and some others.\n\nThere is the Enstabulation Apparatus specialization Augment that makes the Separator extract mob drops from Morbs. However when installed, only Morbs can be processed.
+continuum.centrifugal_separator.name=你让我转了一圈
+continuum.centrifugal_separator.desc=离心机能够将物品分离成其核心部分。这包括将合金分离成其核心材料，以及从蜂窝和其他一些资源中提取资源。\n\n生物离心分解升级能够使离心机从生物球中提取生物的掉落物。但是，安装升级后则只能处理生物球。
 
 continuum.arcane_ensorellator.name=书籍的奥秘
 continuum.arcane_ensorellator.desc=附魔机能够使用知识精华和物品对书进行附魔。你可以在 JEI 中查看你能制作的不同附魔书的配方，以及制作所需的物品。附魔机只能附魔一级的附魔书，但如果你希望它能更加强力，你可以用铁砧将它们进行结合。
@@ -295,8 +295,8 @@ continuum.glacial_precipitator.desc=冷冻机能将流体冻结成物品。它�
 continuum.questing_tutorial.name=Questing Tutorial
 continuum.questing_tutorial.desc=Flashing §c§c§r§cred quests§r are unlocked, and you can click on them to see how to complete §rthem. \n\nCompleted quests flash §9§s§bblue§r if they have a reward that hasn't been collected, and are §agreen§r if they don't.\n\n§8Gray quests §rhave not been unlocked and cannot be completed. You can hover over locked quests to see what quests they require to be completed to unlock them.\n\n§4Red lines§r between quests connect locked quests with the quests that they require. Flashing §eyellow lines§r connect unlocked quests to the quests that they require. §2Green lines§r connect completed quests to the quests that they required.\n\nLines are not the best way to see quest connections; the you do not need to complete all quests that are connected in a line in order. If the quest is §cred§r, it is unlocked, even if there's a §4red line§r connecting to them. \n\nIf you're playing with friends, you can use the Party menu in the main screen when opening the quests.
 
-continuum.mob_crusher.name=Crushed Under Your Feet
-continuum.mob_crusher.desc=The Mob Crusher kills any mob in front of it. The mobs will not drop items or XP however; instead, the Mob Crusher's internal tank will fill up with Essence.
+continuum.mob_crusher.name=踩碎在你的脚下
+continuum.mob_crusher.desc=屠宰机可以击杀其面前的任何生物。但是击杀的生物不会掉落物品或经验；取而代之的是屠宰机内部的储罐将会充满精华液。
 
 continuum.mob_slaughter_factory.name=Skeleton Meat
 continuum.mob_slaughter_factory.desc=The Mob Slaughter Factory kills any mob in front of it. The mobs will not drop items or XP however; instead, the Mob Slaughter Factory's internal tank will fill up with Liquid Meat, with a chance of Pink Slime.
@@ -307,8 +307,8 @@ continuum.meat_feeder.desc=The Meat Feeder, while in your inventory and filled w
 continuum.resonant_jetpack.name=Higher and Higher
 continuum.resonant_jetpack.desc=谐振飞行背包拥有4倍强化飞行背包的的RF储量，且速度稍快。
 
-continuum.mob_imprisonment_tool.name=Pokemans
-continuum.mob_imprisonment_tool.desc=The Mob Imprisonment Tool is an item that you can use to grab mobs as items. Simply use the Mob Imprisonment Tool on any mob and it will be trapped inside. You can use a filled MIT on a block and it will empty, dumping the mob there.\n\nYou can also put a filled Mob Imprisonment Tool inside a Mob Duplicator, and it will use RF and Essence to spawn more of that mob.
+continuum.mob_imprisonment_tool.name=口袋妖怪
+continuum.mob_imprisonment_tool.desc=大师球是一种可以用来抓住生物的物品。只需要对着任意生物右键使用大师球即可将其抓进其中。你可以对着一个方块使用一个装有怪物的大师球以清空大师球并将生物放出。\n\n你也可以在自动刷怪机中放入一个装有怪物的大师球，然后使用 RF 和精华液来生成更多与其相同的生物。
 
 continuum.wither_builder.name=Wither Builder
 continuum.wither_builder.desc=The Wither Builder builds Withers. Give it 4 Soul Sand and 3 Wither Skeleton Skulls and it will spawn a Wither 2 blocks above it leaving 1 block between the Wither's "feet" and the Wither Builder. It is recommended to put something Wither-proof in that space.
@@ -874,8 +874,8 @@ continuum.fusion_coil.desc=The max size Fusion Reactor creates ludicrous amounts
 continuum.plasma_generator.name=Please Sir, I Want Some More
 continuum.plasma_generator.desc=The Plasma Generator allows you to use Heliumplasma to generate very large amounts of RF, in addition to the RF that was created making it.
 
-continuum.mob_souls.name=Mob Souls
-continuum.mob_souls.desc=The Spawner Changer allows you to change the mob spawned by Mob Spawners. Right click the Spawner Changer on a mob to set it, killing the mob. You can then right click on a Monster Spawner and it will be changed to spawn that mob. The Spawner Changer is destroyed in the process.\n\nYou can right click a Drop of Evil on any Monster Spawner to turn it into a Resturbed Mob Spawner. These can be broken and picked up without breaking, and will constantly spawn whatever mob it is assigned to. These mobs will be more powerful than normal, similar to mobs spawned by Cursed Earth. You can also insert Speed Upgrades to decrease the time between spawns.
+continuum.mob_souls.name=生物之魂
+continuum.mob_souls.desc=刷怪箱控制器能够让你改变刷怪箱所能生成的生物。手持刷怪箱控制器右键一个生物可以在杀死该生物的同时将刷怪箱控制器设置为该种生物。然后，你可以右键点击一个刷怪箱，它会改变刷怪箱所产生的生物。而刷怪箱控制器在此过程中会被销毁。\n\n你也可以对准任意刷怪箱使用一个邪恶点滴右键来将它变成一个重构的刷怪箱。重构的刷怪箱可以被完整地破坏和拾取，并会不断生成它所设置的任何生物。这些生物比正常情况下更强大，类似于诅咒之土上产生的生物。你也可以插入速度升级以缩短怪物生成的间隔时间。
 
 continuum.solar_lunar_panels.name=Clean Energy
 continuum.solar_lunar_panels.desc=太阳能与月光面板都只能产出少量GP。分别只能在白天或晚上工作，我相信你可以搞清楚哪个是哪个。
