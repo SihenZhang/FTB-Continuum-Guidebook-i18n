@@ -445,98 +445,98 @@ continuum.me_pattern_terminal.desc=The ME Pattern Terminal allows you to assign 
 continuum.p2p.name=Pay to Play
 continuum.p2p.desc=P2P Tunnels are very useful because they can essentially teleport information from one end of the Tunnel to the other. This can be used to transfer items and fluids by moving Pipes to and from the Tunnels (if they are of the right type), but they can also be used to transfer ME channels.\n\nPlace one end of the P2P Tunnel at the source (near the Controller if it's channels you are after), and the other P2P Tunnel where you want them to go. You can have as many outputs as you want.\n\nBy default P2P Tunnels only can transfer channels but you can right click certain items on them to transfer other things instead (Hoppers to make Item Tunnels, Buckets for Fluid Tunnels, etc).\n\nTo connect P2P Tunnels, sneak use a Memory Card on the input then use use it on any outputs you want to connect them to.\n\nEach P2P Tunnel takes up a channel.
 
-continuum.holoprojector.name=How Do I Build Things?
-continuum.holoprojector.desc=The Holo-Projector allows you to see exactly how to build Advanced Rocketry multiblocks easily. Sneak right click the Holo-Projector to open its GUI in order to select which multiblock you want to build, then right click it in the world to place down the hologram guide. Scroll while sneaking to change layers of the guide.\n\nClick and drag in the GUI to scroll up and down.
+continuum.holoprojector.name=我该如何建造东西？
+continuum.holoprojector.desc=全息投影器能让你简单精确地看到如何搭建高级火箭的多方块结构。潜行时右键开启 GUI 来选择你想搭建的多方块结构，然后右击地上以放下全息投影指南。潜行时滚动中键可改变指南的层数。\n\n在 GUI 中按住鼠标左键并拖动可以滚动页面。
 
-continuum.electric_arc_furnace.name=Getting Hot In Here
-continuum.electric_arc_furnace.desc=The Electric Arc Furnace is a multiblock machine that is the only way to get certain materials.\n\nThe multiblock is modular in that you can place the Input and Output hatches in different places and the Coil material can change. The Coil material changes the processing speed of the machine, more expensive materials being faster. To form the multiblock, right click the Electric Arc Furnace.\n\nPlace the ingredients into the Input Hatch, flick the switch in the main Electric Arc Furnace GUI to turn it on, and take the final item out of the Output Hatch.
+continuum.electric_arc_furnace.name=于此变热
+continuum.electric_arc_furnace.desc=电弧高炉是你获取某些材料的唯一方法。\n\n它的多方块结构是模块化的，你可以将输入口和输出口放在不同的位置或改变线圈的材料。线圈所使用的材料改变机器的运行速度，越贵的材料使机器运行越快。右击电弧高炉方块以完成搭建多方块结构。\n\n把所需材料放进输入口，将电弧高炉 GUI 中的开关打开，就能在输出口获得你想制造的物品。
 
-continuum.crystallizer.name=Time to Cook
-continuum.crystallizer.desc=The Crystallizer is a multiblock machine that is required to make certain items.\n\nThe Crystallizer is modular in that you can use different Coil materials to increase the speed. To form the multiblock, right click on the Crystallizer block.\n\nPut the inputs in the Input Hatch, flip the switch in the main GUI, then wait for the final items to come out of the Output Hatch.
+continuum.crystallizer.name=烹饪时间
+continuum.crystallizer.desc=结晶器是一个能然你获取特定物品的多方块结构。\n\n结晶器是模块化的，你可以使用不同材料的线圈以增加运行速度。右击结晶器方块以完成搭建多方块结构。\n\n把所需材料放进输入口，将结晶器 GUI 中的开关打开，等待后就能在输出口获得你想制造的物品。
 
-continuum.lathe.name=Lathey
-continuum.lathe.desc=The Lathe is used to make metal Rods.
+continuum.lathe.name=车床
+continuum.lathe.desc=车床可用于制造金属棒。
 
-continuum.precision_assembler.name=Precision Assembler
-continuum.precision_assembler.desc=The Precision Assembler is a multiblock machine that is used to create certain items. It is the only way to get certain items but also provides more resource efficient recipes for items you can otherwise craft without it.
+continuum.precision_assembler.name=精确组装机
+continuum.precision_assembler.desc=精确组装机是一个能然你获取特定物品的多方块结构。它不仅是你获取某些物品的唯一方法，还能为你提供除了合成外更有效率的配方。
 
-continuum.cutting_machine.name=Cutting Machine
-continuum.cutting_machine.desc=The Cutting Machine is a multiblock machine that is the only way to create certain items. It can also cut Wood logs into 6 Planks each.
+continuum.cutting_machine.name=切割机
+continuum.cutting_machine.desc=切割机是你获取某些材料的唯一方法。它也能将原木切割成 6 个木板。
 
-continuum.electrolyser.name=H20 2 H+O
-continuum.electrolyser.desc=The Electrolyser uses RF to turn Water into Oxygen and Hydrogen.\n\nWater is input through the back, Hydrogen comes out of the front right, and Oxygen comes out of the front left.
+continuum.electrolyser.name=一氧化二氢可转化为氢加氧
+continuum.electrolyser.desc=电解器使用 RF 将水转换成氧气和氢气。\n\n水从后方输入，氢气会在前右方排出，氧气会在前左方排出。
 
-continuum.chemical_reactor.name=Rocket Fuel
-continuum.chemical_reactor.desc=The Chemical Reactor is used to turn Oxygen and Hydrogen into Rocket Fuel. \n\nYou can also combine any armor piece with a Diamond to enchant it with "Airtight Seal," which makes it so that you can fill your armor with Oxygen so you can use it in vacuums without suffocating. Chestpieces must also have a Super High Pressure Tank as well. All of your armor has to be airtight to use it in a vacuum.
+continuum.chemical_reactor.name=火箭燃料
+continuum.chemical_reactor.desc=化学反应器用于将氧气和氢气。\n\n你也可以将任意装备与钻石结合以获得“真空密封”附魔，令你可往装备填充氧气以免在真空中受到窒息伤害。胸甲必须与超高压槽一起才能结合。全部装备都需有真空密封才能安全地待在真空。
 
-continuum.gas_charge_pad.name=Breathe!
-continuum.gas_charge_pad.desc=The Gas Charge Pad fills the armor of the Player standing on it with Oxygen or Hydrogen if there is room.
+continuum.gas_charge_pad.name=呼吸！
+continuum.gas_charge_pad.desc=气体装填台往站于其上的玩家身上压槽未满装的装备填充氧气或氢气。
 
-continuum.modular_space_suit.name=New Uniform
-continuum.modular_space_suit.desc=The Modular Space Suit can protect players from vacuums and offers various other upgrades that can be applied in the Suit Workstation. The Suit will only let you breathe when you have all pieces on and you have at least some Oxygen in the Chestplate's tank (refilled at a Gas Charge Pad).\n\nPlace the Space Suit piece in the top left slot of the Suit Workstation and you will be able to insert upgrades. The upgrades are listed below:\n\nThe Atmosphere Analyzer is installed onto the Helmet and adds a GUI element displaying information about the atmosphere.\n\nThe Anti-Fog Visor is installed onto the Helmet and lets you see through fog on high pressure planets.\n\nThe Beacon Finder is installed onto the Helmet and will point you towards any active Beacons on the planet you are on.\n\nPressure Tanks are installed onto the Chestplate and allow storage of certain gasses. The first two slots increase your Oxygen capacity and any more increase Hydrogen capacity. Higher tier Pressure Tanks increase the capacity more.\n\nThe Jet Pack is installed onto the Chestplate and allows you to fly at the cost of Hydrogen (has to be toggled with a button). \n\nThe Hover Upgrade is installed onto the Helmet and will allow you to enter hover mode with your Jet Pack when you sneak while pressing the toggle button.\n\nThe Flight Speed Control Upgrade is installed onto the Helmet and will increase the speed that the Jet Pack flies with. You can install multiple at a time.\n\nBionic Legs are installed onto the Leggings and increase the player's sprint speed. You can install multiple at a time.\n\nPadded Landing Boots are installed onto the Boots and eliminate all fall damage.
+continuum.modular_space_suit.name=全新制服
+continuum.modular_space_suit.desc=模块化的太空服除了能在真空中保护玩家外，还能在太空服调节台中装上不同种类的升级。太空服只会让你在穿上整套装备且在胸甲中的压槽有氧气时（在气体装填台上可装填）帮助你呼吸。\n\n将太空服放在太空服调节台中左上角槽位中便可安装升级。升级列表如下：\n\n大气分析器安装在头盔中可以增加一个显示大气信息的 GUI。\n\n雾镜安装在头盔中可以让你在高气压星球中不受雾气影响视线。\n\n信标定位器安装在头盔中可以引导你走向当前星球上任意已启用的信标。\n\n压槽安装在胸甲上可允许存储某些气体。安装于首两格槽位可增加氧气容量，而安装在其余槽位可增加氢气容量。越高级的压槽增加的容量越大。\n\n飞行背包安装在胸甲上可令你使用氢气飞行（需按按键以启用）。\n\n盘旋升级安装在胸甲上可允许你使用飞行背包时潜行并按下切换按键启用盘旋模式\n\n飞行速度控制升级安装在胸甲上可使你在使用飞行背包飞行时增加飞行速度。可一次安装多个。\n\n仿生腿升级安装在护腿上可增加玩家疾跑速度。可一次安装多个。\n\n降落缓冲鞋装在鞋上可防止掉落伤害。
 
-continuum.ar_rolling_machine.name=Rollin' Rollin' Rollin'
-continuum.ar_rolling_machine.desc=The Rolling Machine is a multiblock machine that is the only way to get certain items, such as Pressure Tanks.
+continuum.ar_rolling_machine.name=卷啊卷啊卷啊
+continuum.ar_rolling_machine.desc=卷板机是一个多方块结构，也是你获取某些物品（如压槽）的唯一方法。
 
-continuum.first_rocket.name=And We Have Liftoff
-continuum.first_rocket.desc=Now it's time to build your first rocket!\n\nBuild a platform that's at least 3x3 of Launch Pads and on one side make a tower of Structure Towers (starting on the same layer as the Launch Pads) up to as high as you want the Rocket to be.\n\nThe Rocket itself needs to be one piece (everything touching each other) and have Liquid Fuel Tanks and Liquid Fueled Engines. Later on you can use Advanced Rocket Engines which give much more thrust than the Liquid Fueled Engines do. The Guidance Computer tells the Rocket where to go. The Seat will allow you to ride the Rocket.\n\nThe Rocket Assembling Machine needs to be placed near or on the Launch Pad and provided with RF. With it, you can hit the Scan button to see if the Rocket is able to fly and then you can Build it if it is, turning the Rocket from a bunch of blocks to a single Rocket entity. It will tell you the amount of thrust you have, the weight of the ship, the fuel consumption, and how fast it takes off.\n\nThe Fueling Machine will fill up the Rocket it is linked to with Fuel from its internal tank. Sneak use a Linker on the Fueling Station then use it on the Rocket entity or Rocket Assembling Machine block to link the two.\n\nSneak use the Rocket entity (or sit in it and hit the "Open Rocket GUI" button) and click on the Guidance Computer and insert an unprogrammed Planet ID Chip. You can then hit the Select Dst button on the Rocket's GUI to select your destination by clicking on the body you wish to go to and hitting the Select button at the top left. You can hit the Up button to go up a level to focus on the thing the current body is orbitting. A Rocket alone can only travel between a body and its moons.\n\nDon't leave the planet unless you have enough fuel to get home (you can use a Pressure Tank filled with Fuel on the Rocket to fuel it on the go). If you are ready, you can set off and fly to the moon!
+continuum.first_rocket.name=是时候开始发射升空了
+continuum.first_rocket.desc=是时候建造你的第一台火箭了！\n\n建造一个由发射台组成的平台（最少为 3x3），在其中一边往上用结构塔搭建（从发射台同一高度搭起）至你心目中火箭的高度。\n\n火箭自身需为一体（所有方块紧贴彼此），也需拥有液体燃料箱和液体火箭发动机。之后你可以用高级液体火箭发动机以获取先比液体火箭发动机更高的推力。导航电脑控制火箭的去向。座位允许你坐在火箭上。\n\n火箭组装站需放置于发射台附近并对其提供 RF。有了它，你可以点选扫描按钮以查看火箭是否能够飞行，若能，则你可以点建造按钮将火箭多方块结构转换成单一火箭实体以建造火箭。他会显示当前拥有的推力、火箭重量、燃料消耗速度及火箭的加速度。\n\n燃油站会从其内部储罐抽取燃料以填充所连接的火箭。手持连接器潜行右键燃油站，再右键火箭实体或火箭组装机以连接它们。\n\n潜行右键火箭实体（或坐在火箭上按下“打开火箭界面”按钮）然后点击导航电脑，插入未编写的星球 id 芯片。之后你可以在火箭 GUI 中点击“选择目的地”按钮，点击你想到达的天体，然后按下左上角的“Select（选择）”按钮以选择目的地。你可以点击“Up（上一级）”按钮以查看当前天体轨道上其他的天体。火箭自身只能于天体与其卫星中航行。\n\n请勿在未有足够燃料往返时离开星球（你可以在航行过程中使用火箭燃料填充火箭）。若你已准备好，则可发射飞往月球！
 
-continuum.moon.name=Fly Me To The Moon
-continuum.moon.desc=Luna, the Earth's only moon, is a barren wasteland. It's surface is made of Moon Turf, though a few blocks down it becomes Stone with normal ore generation.\n\nIf you explore enough, you might find the Apollo 11 landing site!
+continuum.moon.name=带我飞向月球
+continuum.moon.desc=月球（Luna）是地球唯一的卫星，它称得上是一个贫瘠的荒地。它的表面由月面土组成，往下数格则会有石头及正常的矿物生成。\n\n经过足够的探索后，或许你能发现阿波罗 11 号的登陆地点！
 
-continuum.space_station.name=Space Base
-continuum.space_station.desc=Now that you have a means of getting into space, you can begin to construct your Space Station. Make another platform out of Landing Pads and construct what you want to send up into space on top. This won't be flown up like the rocket, it will be stored as an item and built later.\n\nOnce you are happy with your Space Station (you can make changes later once it's in orbit), place down a Space Station Assembler like you did with the Rocket Assembling Machine. Put a Satellite Bay and an unprogrammed Space Station ID Chip inside and hit Scan. If the Space Station was constructed correctly, you can Build the Station and the blocks will be removed and stored inside of a Space Station Container inside the Space Station Assembler along with the Space Station ID Chip that is programmed to the new Space Station. \n\nIt is extremely recommended to copy your Space Station ID Chip in a Satellite Builder by putting the programmed one in the center top slot and the unprogrammed one in the slot to the right, then hitting the "Write to Secondary Chip" button, which programs the second one with the data on the first. Store this second one somewhere so you don't lose the ability to fly to your Space Station.\n\nPlace a second Satellite Bay onto your Rocket and insert the Space Station Container, then in the Guidance Computer insert the programmed Space Station ID Chip. You can now ride the Rocket up into orbit and it will land on top of the built Space Station. Rockets that have a programmed Space Station ID Chip will always fly between the Space Station and whatever it is orbitting.
+continuum.space_station.name=太空基地
+continuum.space_station.desc=现在的你已经有方法前往太空，可以开始建造一个太空站了。建造另一个由发射台组成的平台，在其上方盖上你想往太空发射的建筑。它不会像火箭那样发射升空，而是会被以物品的形式储存及将在稍后建造。\n\n当你觉得你的太空站已天衣无缝（之后当它在轨道上时你也可以对其进行改建），像火箭组装机一样，放置一个太空站组装机。在里面放置一个卫星仓和一个未编写的空间站 id 芯片，然后点击“扫描”按钮。如果太空站被正确地建造，你将可“建造”太空站，所有方块会被移除并存储在太空站组装机中空间站容器里面，且新的太空站会被编写进空间站 id 芯片。\n\n非常建议你在卫星建造机中复制一份空间站 id 芯片。你需将已编写的芯片放置于中心上方的槽位，然后把未编写的芯片放于其右边的槽位，然后点击“写入辅助芯片”按钮，以将第一个芯片的资料编写进第二个芯片。将第二个芯片存起来以防止无法航行至太空站的情况发生。\n\n在你的火箭上放置另外一个卫星仓，并在里面放入空间站容器，然后将已编写的空间站id芯片放入导航电脑。你可以坐在火箭上发射到轨道上，火箭将会降落在你所造太空站的上方。 拥有已编写空间站id芯片的火箭只会在太空站和其所处星球中航行。
 
-continuum.co2_scrubber.name=Gasp
-continuum.co2_scrubber.desc=In case you hadn't noticed, there's no air in space. You might have your Space Suit, but that could run out of Oxygen at any time. You can use the CO2 Scrubber and Oxygen Vent to give your Space Station some breathable air.\n\nPlace CO2 Scrubbers touching two sides of an Oxygen Vent and place Carbon Collector Cartridges in each, and provide the Oxygen Vent with RF. Give the Oxygen Vent a redstone signal (or tell it to work without one) and the air will become breathable. The Carbon Collector Cartridges lose durability over time but should last about 24 real hours.\n\nYou may want to make small airlocks by making a room with 2 Small Airlock Doors where only one opens at a time, one inside the Space Station and one facing the vacuum.
+continuum.co2_scrubber.name=令人窒息的操作
+continuum.co2_scrubber.desc=你注意到了吗，太空上没有空气。你需要穿上你的太空服，但也会随时用光氧气。你可以使用二氧化碳净化器和氧气排放口令你的太空站中充满可呼吸的空气。\n\n将二氧化碳净化器放于氧气排放口的两旁，在里面各放入碳收集器，然后为氧气排放口提供 RF。给予氧气排放口红石信号（也可修改红石模式），然后空气就可以被你所呼吸。碳收集器会有耐久损耗但是最少也能维持越 24 小时（现实时间）。\n\n或许你会想造一个小型气闸舱，建造一个有两扇小气密门的房间，使得在同一时间只会有一扇门会开始，一扇门在太空站里面，而另一扇门则正对着真空。
 
-continuum.orientation_controller.name=Why Are You Upside Down, Soldier?
-continuum.orientation_controller.desc=The Orientation Controller allows you to change the orientation of the Space Station. When placed down, in the GUI you can set the angular velocity in the X and Z directions, which will make the Space Station spin in that direction. When you're happy with the orientation you can set the velocities to zero, or just let your station spin wildly through space.\n\nThis also changes the natural lighting of your Space Station depending on if the Sun is above you.
+continuum.orientation_controller.name=士兵，你为什么上下颠倒了？
+continuum.orientation_controller.desc=方向控制器允许你改变太空站的方向。放置后，在 GUI 里你可以调节对于 X 轴和 Z 轴的角速度，将会使太空站围着该轴向旋转。当你对当前方向感到满意后，则可将角速度调成 0，或是干脆让你的太空站疯狂地旋转。\n\n这会改变你的太空站的自然光照，取决于太阳是否在你上面。
 
-continuum.gravity_controller.name=Light as a Feather Made of Stone
-continuum.gravity_controller.desc=The Gravity Controller allows you to change the gravity of your Space Station.
+continuum.gravity_controller.name=轻如石头制成的羽毛
+continuum.gravity_controller.desc=重力控制器允许你改变太空站中的重力。
 
-continuum.altitude_controller.name=Altitude Adjustment
-continuum.altitude_controller.desc=The Altitude Controller allows you to change the altitude of your Space Station, making the orbiting body bigger or smaller in your view.
+continuum.altitude_controller.name=改变海拔
+continuum.altitude_controller.desc=海拔控制器允许你改变太空站的海拔，可令当前所围绕的天体看起来更大或更小。
 
-continuum.docking_pad.name=Space Garage
-continuum.docking_pad.desc=Docking Pads allow you to specify where a Rocket can land on your Space Station. Normally Rockets land in the center of the Space Station, which might be on top of your roof or some other inconvenient location. You can instead place down a Docking Pad somewhere on your Space Station (with open access above it)
+continuum.docking_pad.name=太空车库
+continuum.docking_pad.desc=停靠台允许你的火箭降落在太空站上的特定位置。一般来说火箭会降落在太空站的正中央，但正中央或许是你的屋顶或是其他不方便的地方。作为代替，你可以在太空站上任意位置放置停靠台（在其上方必须有开放式的通道）。
 
-continuum.space_elevator.name=Stairway to Heaven
-continuum.space_elevator.desc=The Space Elevator is a convenient way to travel within a system (a planet and anything orbitting it) without having to fly your Rocket every time. You need to have a Space Elevator at both locations, not just one. It costs 50,000 RF to send a player from a Space Elevator, but none to receive a player.\n\nYou have to connect Space Elevators together before you can travel between them. Insert an Elevator Chip into each then connect the two Space Elevator blocks with a Linker.\n\nAs with all Advanced Rocketry multiblocks, you can use different tiers of materials used in the Space Elevator. In this case the Stone can also be replaced with different blocks to make the Space Elevator go faster. See the Holo-Projector for a list of what else you can use instead of Stone.\n\nYou can not use a Space Elevator to travel within the same dimension.
+continuum.space_elevator.name=通往天国的阶梯
+continuum.space_elevator.desc=使用太空电梯可以让你在一个系统（一个星球和所有在其轨道上的东西）内方便地来回，无需每次都发射火箭。 你需在两个（不是一个）想传送的地方都建有太空电梯。从太空电梯传送玩家将耗能 50,000RF，接收玩家则无能量消耗。\n\n在来回传送之前，你需将先太空电梯连接在一起。各自插入一个太空电梯芯片，然后使用连接器连接两个太空电梯方块。\n\n与其他高级火箭多方块结构一样，你可以用不同等级的材料搭建太空电梯。在这种情况下石头可以被不同的方块替换以使太空电梯运行速度变快。查看全息投影器以获取可替代石头的物品列表。\n\n你不能爱同一维度下用天空电梯进行传送。
 
-continuum.warp.name=Prepare Ship for Ludicrous Speed
-continuum.warp.desc=To travel to other planets and solar systems, you have to turn your Space Station into a Starship. This is done by placing a Warp Core and Warp Controller inside of the Space Ship.\n\nConstruct the Warp Core and insert Dilithium Crystals into the Input Hatch, then place the Warp Controller. In the Warp Controller you can choose whatever planet in whatever solar system you want to travel to. Warping requires more Dilithium if you are trying to reach planets that are farther away.\n\nThe Starship travels depending on the orientation of the Warp Controller. If you place the Warp Controller sideways, the Starship will travel sideways.\n\nPlanets need to be discovered before you can warp to them. You have to have at least 100 of each Data in the Warp Controller before you can scan for a planet, and there's only a 1/2 chance that the scan will be successful. You can insert an unprogrammed Planet ID Chip into the Warp Controller and it will be programmed with the planet you've discovered, which you can then remove and store. You can share programmed Planet ID Chips by inserting them into other Warp Controllers and clicking the "Program from Chip" button to discover that planet without having to scan for it. The planet you discover is randomly selected from all available undiscovered planets.\n\nCertain planets can not be warped to without having the required "artifact" inside the Warp Controller. Insert the artifact into the "Planet Tracking" tab.
+continuum.warp.name=以超高速准备飞船
+continuum.warp.desc=若想到达其他星球或行星系统，你需要通过跃迁核心与跃迁控制器将你的太空站变成一艘星舰。\n\n首先建造一个跃迁核心并在输入口输入双锂，然后放置跃迁控制器。在跃迁控制器中你可以选择你想到达的星球或行星系统。距离越远的跃迁消耗越多的双锂。\n\n跃迁时的方向取决于跃迁控制器的方向。若你将跃迁控制器放于某一侧，你的星舰就会该方向航行。\n\n星球需要被发现后你才能跃迁到该星球。你最少需要每种数据各100单位才能扫描星球，而你只有 1/2 的几率会成功扫描。扫描时，你可以在跃迁控制器中放入一个未编写的星球 id 芯片，它会编入你所成功发现的星球。你可将其拿走并存起来。若你想分享已编写的星球id芯片，你可以将其放进跃迁控制器中，然后点击“来自芯片的程序”按钮以在无需搜索的情况下发现星球。你所发现的星球会在你所有未发现且有效的星球中随机选取。\n\n你需在跃迁控制器中放入“工件”以传输到某些特定星球。你可以在“行星追踪”页面中放入工件。
 
-continuum.satellite.name=Data Analytica
-continuum.satellite.desc=Place the Satellite Builder with a Power Tap beneath it. \n\nAll Satellites need a Satellite ID Chip and a Solar Panel, either Basic or Large. There are several types of Satellites. Some collect Data, some produce energy, and some do some other utility.\n\nThere are three types of Data you can collect: Optics, Composition, and Mass.\n\nInsert the Satellite Chassis into the top left slot of the Satellite Builder GUI, a Satellite ID Chip in the slot one to the right, and fill the IO slots with Data Storage Units, then fill the slots above those with either Solar Panels or Batteries.\n\nTo determine the type of satellite, insert the item for that type in the top right slot. An Optical Sensor will collect data about how far away planets are, Composition Sensors will collect data about what planets are made of, and Mass Detectors will collect data about a planet's mass. A Satellite can only have one of these installed. \n\nTake the completed Satellite and the programmed Satellite ID Chip out of the Satellite Builder and insert the Satellite into a Satellite Bay on a Rocket and the Satellite will be placed into orbit the next time the Rocket launches.\n\nYou can copy ID Chips of all kinds with the Satellite Builder by placing a programmed ID Chip in the top center slot and an unprogrammed one in the slot to the right then hitting the "Write to Secondary Chip" button.\n\nInsert the programmed Satellite ID Chip into the top right slot of a Satellite Terminal to wirelessly connect to it, showing you the amount and type of Data it's collected so far. You can take the Data out by clicking the "Connect" button then inserting a Data Storage Unit and clicking on the arrow pointing down.
+continuum.satellite.name=数据分析
+continuum.satellite.desc=在卫星建造机下方放上能量输入口为其供能。\n\n所有卫星都需要一个卫星 id 芯片及太阳能板，基础或大型皆可。卫星有几种不同的种类。有些收集数据，有些产生能量，有些则有其他的效用。\n\n你可以收集三种数据：光学、成分和质量。\n\n将空机箱的卫星放入卫星建造机 GUI 中左上方的槽位，卫星 id 芯片放于往右一格的槽位，然后在 IO 槽位中放上数据存储单位，在其上方的槽位放上太阳能板或电池。\n\n想决定卫星的类型，你需将该类型相应的物品放入右上方的槽位。光学传感器会收集关于距离的数据，成分传感器会收集关于星球成分的数据，而质量检测器则会收集关于星球质量的数据。一个卫星只能安装其中一种。\n\n从卫星建造机里拿走已完成的卫星及已编写的卫星 id 芯片，将卫星放到火箭的卫星仓里，在下次火箭发射后，卫星就会被放到轨道上。\n\n你可以通过将已编写的id芯片放到卫星建造机的上方中央槽位，再把未编写的 id 芯片放于其右面的槽位，点击“写入辅助芯片”以复制任意已编写的 id 芯片。\n\n将已编写的卫星id芯片放入卫星终端右上角的插槽以无线连接卫星，显示已收集的数据数量。你可以点击“连接”按钮，放入数据存储单元后点击往下指的箭头便可将收集到的数据取出。
 
-continuum.astrobody_data_process.name=Astroboy
-continuum.astrobody_data_process.desc=The Astrobody Data Process allows you to use the Data you've collected to create Asteroid ID Chips for asteroid mining missions.
+continuum.astrobody_data_process.name=天体
+continuum.astrobody_data_process.desc=天体数据处理器允许你将收集到的数据创造一个小行星 id 芯片以执行小行星采掘任务。
 
-continuum.power_optimizer.name=I've Got Places to Be!
-continuum.power_optimizer.desc=The Power Optimizer completely negates the upper limit of RF/t for EFab crafting. With it installed, the craft operation can go as fast as the EFab can accept power.
+continuum.power_optimizer.name=我已经到了我要去的地方！
+continuum.power_optimizer.desc=能量优化器将完全解除 EFab 合成的 RF/t 上限。 安装后，合成速度将取决于 EFab 接收能量的速度。
 
-continuum.observatory.name=Macroscope
-continuum.observatory.desc=The Observatory is a large machine that uses Distance Data to search for asteroids. These asteroids are useful because they can be mined for materials, although not very much usually. There's a small change to find Iridium Ore on Enriched Asteroids. Give it Distance Data then hit "Scan" in the second tab. The range is dependant on the type of Motor used and if Glass or Lenses are used.\n\nTo store the coordinates of an Asteroid, insert an Asteroid ID Chip into the bottom left slot of the second tab while the Asteroid you want to mine is selected and click the "Process discovery" button. \n\nThe Programmed Asteroid ID Chip needs to be filled with a lot of Data which is done by inserting it into the bottom slot of the Astrobody Data Processor and filling all three switches in the GUI.
+continuum.observatory.name=望远镜
+continuum.observatory.desc=瞭望台是一个使用距离数据搜索小行星的大型机器。这些小行星对你非常有用，它们可以帮助你采掘材料，虽然通常并不是很多。也有很小的几率会在资源丰富的小行星中或找到铱矿。给予其距离数据并在第二个页面中点击“扫描”。扫描结果的种类取决于所使用马达，以及所使用的是玻璃还是透镜。\n\n若想储存小行星的坐标，选择好你想要采掘的小行星，将小行星 id 芯片放入第二个页面的左下角，然后点击“扫描进度”按钮。\n\n我们需要往已编写小行星 id 芯片注入很多数据，先将它放入天体数据处理器底部的槽位，然后把 GUI 里面的三个开关全部注满。
 
-continuum.asteroid_mining.name=Piercing the Heavens
-continuum.asteroid_mining.desc=Now that our Satellite ID Chip is programmed and full of Data, we can begin the asteroid mining mission. This will require a specially built Rocket.\n\nThis Rocket needs to have Chests and Drills anywhere on it in addition to the rest of the normal Rocket things. The more Drills installed, the faster the mining mission is. \n\nInsert the Satellite ID Chip into the Guidance Computer and launch the Rocket using a Rocket Monitoring Station (don't ride it!) and it will begin the mission. In the Rocket Monitoring Station you can see how done the mission is. Once it's done, the Rocket will return to the Launch Pad ready for the next mission. \n\nUse a Rocket Unloader linked to the Rocket to automatically pull the items out.
+continuum.asteroid_mining.name=刺破天堂
+continuum.asteroid_mining.desc=现在你的小行星 id 芯片已被注满数据，我们可以开始执行小行星采掘任务了。这需要一艘特殊的火箭。\n\n这个火箭需要有一般火箭的结构外。还需要在任意处有箱子和钻头。安装越多钻头使得采掘任务越快。\n\n在导航电脑里放入卫星 id 芯片然后使用火箭监测站发射火箭（请勿坐上火箭），它就会开始执行任务。在火箭监测站中你可以看到任务执行的进度。一旦完成工作，火箭会回到发射台上准备好下一次的任务。\n\n使用火箭卸载器连接火箭后可以自动抽取火箭内的物品。
 
-continuum.common_planet.name=Common Ore Planet
-continuum.common_planet.desc=This planet is in the Resources system. It has Coal, Iron, Gold, Copper, Tin, Silver, Lead, Aluminum, and Bauxite Ore on it. Ores here are much more common than on Earth.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.common_planet.name=普通矿物星球
+continuum.common_planet.desc=这个星球位于 Resources 星系。在此星球中有煤、铁、金、铜、锡、银、铅、铝及铝土矿石。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
 
-continuum.dustsngems.name=DustsnGems
-continuum.dustsngems.desc=This planet is in the Resources system. It has Black Quartz, Redstone, Emerald, Diamond, Lapis Lazuli, Certus Quartz, Ruby, Sapphire, Apatite, and Peridot Ore on it. Ores here are much more common here than on Earth.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.dustsngems.name=蒙尘宝石星
+continuum.dustsngems.desc=这个星球位于 Resources 星系。在此星球中有焦黑石英、红石、绿宝石、钻石、青金石、赛特斯石英、红宝石、蓝宝石、磷灰石及橄榄石矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
 
-continuum.precious_planet.name=Precious
-continuum.precious_planet.desc=This planet is in the Resources system. It has Uranium, Titanium, Nickel, Platinum, Iridium, Titanium, Sheldonite, and Sodalite Ore on it. Ores here are much more common here than on Earth.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.precious_planet.name=珍宝星
+continuum.precious_planet.desc=这个星球位于 Resources 星系。在此星球中有铀、钛、镍、铂、铱及方钠石矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
 
-continuum.hellish.name=Hellish
-continuum.hellish.desc=This planet is in the Resources system. It has Pyrite, Cinnabar, Sphalerite, Nether Quartz, Ardite, and Cobalt Ore on it. Ores here are much more common here than on Earth.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.hellish.name=炼狱星
+continuum.hellish.desc=这个星球位于 Resources 星系。在此星球中有黄铁、朱砂、闪锌、石英、阿迪特及钴矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
 
-continuum.gravity_machine.name=You're Blue Now!
-continuum.gravity_machine.desc=The Gravity Controller is a multiblock machine that allows you to change the force and direction of gravity in a set area.\n\nAt the bottom of the GUI, you can set the area of effect and the force of gravity. "1.00/100" is normal Earth gravity.\n\nOn the right side of the GUI, you can set the direction that the gravity will start going, and if it adds the force or sets the force. If you "add" upwards force of .50/50 on Earth, gravity will be half strength as it is adding 50 percent of Earth gravity upwards. The same happens if you "set" downwards force to 2.00/200.
+continuum.gravity_machine.name=你变蓝了!
+continuum.gravity_machine.desc=重力控制器是一个允许你在选定区域改变重力大小与方向的多方块结构。\n\在 GUI 的底部，你可以设置受影响的范围和重力。地球上正常的引力是"1.00/100"。\n\n在 GUI 的右边你可以设置重力开始运行的方向、增加重力或是设定重力。如在地球上你"添加"一个 .50/50 的向上的力，重力则会减半因为向上增加了一个强度为地球百分之五十的重力。若你“设置”一个 2.00/200 的向下的力，相同的情况将会发生。
 
 continuum.dark_matter.name=奇怪的糊状物
 continuum.dark_matter.desc=已知的宇宙有接近 80% 都是由暗物质组成的。你可能会认为这玩意会像黑洞一样把所有东西都吸进去，但显然它不会。\n\n暗物质是 ProjectE 中的主要合成材料，于合成暗物质的碳化木可以在岩浆世界找到。
