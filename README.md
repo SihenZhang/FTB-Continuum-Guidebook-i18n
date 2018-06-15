@@ -1,6 +1,6 @@
 # FTB-Continuum-Guidebook-i18n
 
-~~This repository is the i18n of the Guidebook for FTB Continuum. ~~
+~~This repository is the i18n of the Guidebook for FTB Continuum.~~
 
 ~~The copyright is still held by **Feed The Beast**. Every quest is the **same**. Now update to **1.2.1**.~~
 
