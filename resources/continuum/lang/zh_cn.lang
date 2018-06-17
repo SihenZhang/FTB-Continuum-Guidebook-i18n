@@ -5,22 +5,22 @@ continuum.logs.name=我是个伐木工，我现在很好
 continuum.logs.desc=像几乎所有的整合包一样，你首先要砍树。现在，通过合成制作木板只会给你 2 块木板而不是 4 块，而且你只能制作原版的木板。要获得更多的木板或来自模组的木板，你必须使用锯木机。\n\n任何原木都可完成该任务。
 
 continuum.efab.name=极好的 EFab
-continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n按下“显示物品用途”的按键（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级插槽中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
+continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n按下“显示物品用途”的按键（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级槽位中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
 
 continuum.tinkering.name=工匠之路
 continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂（Tinkers' Construct）了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
 
 continuum.smeltery.name=熔化器
-continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。一个矿物只会熔出与 1 锭等值的熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的流体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 30 分钟的时间。
+continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。一个矿物只会熔出与 1 锭等值的熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的流体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 10 分钟的时间。
 
 continuum.lunch_box.name=多样化就是生活调味料
 continuum.lunch_box.desc=多亏了“生活调味料（The Spice of Life）”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n一个午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳 2 组，共计 6 组食物。当午餐盒关闭时，右键使用它来打开它的 GUI 并放入食物。潜行时右键使用来开启午餐盒。通过使用开启的午餐盒，你可以直接吃到里面的食物。
 
 continuum.cooking.name=我是厨师
-continuum.cooking.desc=因为我们有“生活调味料（The Spice of Life）”，所以我们需要大量不同的食物。“傻瓜式烹饪（Cooking for Blockheads）”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将Pam's Harvestcraft的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
+continuum.cooking.desc=因为我们有“生活调味料（The Spice of Life）”，所以我们需要大量不同的食物。“傻瓜式烹饪（Cooking for Blockheads）”是一个能帮助你更容易合成食物的 mod。它增加了一个多方块结构的厨房，你可以存储合成食物所需的原料和工具，并且快速地制作食物。所有的方块必须彼此接触，并且你可以使用厨房地板连接彼此不相邻的方块。\n\n烹饪桌是一种带有合成 GUI 的方块。它可以访问多方块结构中的厨柜或冰箱中的食物和配料。\n\n如果有一个水槽也连入多方块厨房中，那么烹饪桌也可以制作需要水的配方（水槽也可以作为一种为水桶和管道提供水的无限水源）。\n\n如果将 Pam's Harvestcraft 的工具放入工具架中，那么烹饪桌将能够使用该工具。\n\n烤箱可以制作熔炉的配方以及合成的配方。必须要给烤箱提供煤炭或其他可燃物才能够工作。它也可以一次烹饪多达 9 个食物。\n\n如果你还想要牛奶的话，你可以使用牛奶罐或罐中奶牛。烹饪桌能够使用牛奶罐里的牛奶，手动用牛奶桶来填充它。而罐中奶牛能无限地慢慢产生牛奶。两者都储存 8 桶牛奶。
 
 continuum.coke_oven.name=烤焦了
-continuum.coke_oven.desc=焦炉是一种多方块机器，它可将 1 个煤炭转变为 1 个焦炭和 500mB 的杂酚油。要搭建一个焦炉，你需要将焦炉砖摆成 3x3x3 的形状，然后用工程师锤右键你所希望的正面所在的面的中间的焦炉砖。\n\n要想在 EFab 中制作防腐木板，储罐作为其多方块结构的一部分是必需的。储罐可以储存一种流体多达 16,000 mB。你可以在一个 EFab 结构内摆放多个储罐，并且可以分别存储不同的流体。在储罐顶部摆放的储罐将会连接并合并它们的存储空间。
+continuum.coke_oven.desc=焦炉是一种多方块机器，它可将 1 个煤炭转变为 1 个焦炭和 500mB 的杂酚油。要搭建一个焦炉，你需要将焦炉砖摆成 3x3x3 的形状，然后用工程师锤右键你所希望的正面所在的面的中间的焦炉砖。\n\n要想在 EFab 中制作防腐木板，储罐作为其多方块结构的一部分是必需的。储罐可以储存一种流体多达 16,000mB。你可以在一个 EFab 结构内摆放多个储罐，并且可以分别存储不同的流体。在储罐顶部摆放的储罐将会连接并合并它们的存储空间。
 
 continuum.forestry_machine.name=并不是真的用于木头
 continuum.forestry_machine.desc=木工机是一种使用 RF 来制作物品的机器，其配方也可以使用流体。在合成格中，使用物品点击相应的槽位中来设置配方。这些物品实际上并没有放入合成格，而是要放入 18 个存储槽中，并且随着木工机进行的合成而消耗物品。\n\n热电子加工台是另一台使用 RF 来熔化玻璃并用它制造电子管和其它物品的机器。将沙子或玻璃放入左上角的槽中，并消耗 RF 将其融化。就合成而言，它的使用方法类似于木工机。
@@ -56,10 +56,10 @@ continuum.coal_generator.name=老国王煤炭
 continuum.coal_generator.desc=现在我们有了木工机，也就有了电路板，我们可以制作更好的 RF 发电机了。这些发电机能够使用煤炭和其他可燃物而不是手动上发条，所以他们可以在你离开时产生 RF。\n\n煤炭发电机所能产生的 RF 要比生存者发电机少，但它具有更高的 RF 产生速率。生存发电机产生的 RF 要比煤炭发电机多 1.5 倍，但速度要慢得多。
 
 continuum.fluxduct.name=流动的能量
-continuum.fluxduct.desc=铅石能量管道是你能够将能量从 RF 的来源传输到机器的第一种方式。用管道将两者连接，RF 将通过管道进行传输。\n\n铅石能量管道每个连接的传输量只有 1,000 RF/t，而硬化能量管道能够达到 4,000 RF/t。
+continuum.fluxduct.desc=铅石能量管道是你能够将能量从 RF 的来源传输到机器的第一种方式。用管道将两者连接，RF 将通过管道进行传输。\n\n铅石能量管道每个连接的传输量只有 1,000RF/t，而硬化能量管道能够达到 4,000RF/t。
 
 continuum.engineers_manual.name=科技辞典
-continuum.engineers_manual.desc=工程师手册是沉浸工程（Immersive Engineering）的指导书。它详细的描述了物品的功能及其如何工作。本整合包所改动的配方可能不会在其中显示。
+continuum.engineers_manual.desc=工程师手册是沉浸工程（Immersive Engineering）的指导书。它详细的描述了物品的功能及其如何工作。本整合包所改动的配方可能不会在其中显示。\n\n该任务只有当书打开在第一页时才能触发。
 
 continuum.crude_blast_furnace.name=更硬，更好
 continuum.crude_blast_furnace.desc=粗制高炉可以让你生产钢材。搭建一个 3x3x3 的高炉砖的立方体，然后用工程师锤右键你所希望的正面所在的面的中间的高炉砖。\n\n粗制高炉不能进行自动化地输入和输出。你需要使用焦煤作为燃料将铁转化为钢。
@@ -89,7 +89,7 @@ continuum.cable.name=绝缘导线
 continuum.cable.desc=这些导线能够传输更高的 RF/t。每一级导线都比上一级更好，随着等级的升高，所能传输的 RF/t 更高。导线等级丝毫不影响机器，它们只会改变传输的 RF/t 的大小。\n\n未绝缘的导线会在有 RF 通过时对你造成伤害，而绝缘电缆不会。\n\n线缆的等级顺序为锡 < 铜 < 金 < 高压 < 玻璃纤维。
 
 continuum.water_wheel.name=被动产能
-continuum.water_wheel.desc=水车是一种被动发电的好方法。这意味着它基本上能够免费产生 RF，但其速度不会很快。它是通过放置一个动能发电机，然后将水车放在面向你的一侧而搭建成的。动能发电机就能够产生 RF。\n\n水车根据其上流动的水的量产生 RF。接触它的流动水越多，它产生的 RF/t 就越大。最佳的水的流动方式能使每个水轮产生 30 RF/t。一个动能发电机可以有 3 个水轮相邻放置。
+continuum.water_wheel.desc=水车是一种被动发电的好方法。这意味着它基本上能够免费产生 RF，但其速度不会很快。它是通过放置一个动能发电机，然后将水车放在面向你的一侧而搭建成的。动能发电机就能够产生 RF。\n\n水车根据其上流动的水的量产生 RF。接触它的流动水越多，它产生的 RF/t 就越大。最佳的水的流动方式能使每个水轮产生 30RF/t。一个动能发电机可以有 3 个水轮相邻放置。
 
 continuum.tool_forge.name=高级工匠
 continuum.tool_forge.desc=工具装配台能够让你制作诸如锤和开掘铲这样的更高级的匠魂（Tinkers' Construct）工具。除此之外它与工具装配台功能相同。
@@ -98,7 +98,7 @@ continuum.alloy_kiln.name=嘿，是合金！
 continuum.alloy_kiln.desc=合金窑是一种能够代替冶炼炉，使用固体燃料制作合金的多方块机器。\n\n将窑砖摆成 2x2x2 的形状，然后用工程师锤右键你所希望的正面所在的面。
 
 continuum.industrial_blast_furnace.name=更加坚固
-continuum.industrial_blast_furnace.desc=工业高炉是一种用来冶炼那些诸如铬、钛和钨那样的最坚韧的金属的多方块机器。\n\n当你将工业高炉本体摆下来后，GUI 内有一个按钮可以显示多方块结构的剩余部分。你可以用任意的机械外壳来组合成多方块结构。\n\n最高温度基于机械外壳的组合。从 0 开始，每个基础机械外壳提供 40 度，每个进阶机械外壳 68 度，每个高级机械外壳 95 度。\n\n你可以用岩浆来填充中心的两个方块来增加 500 度。
+continuum.industrial_blast_furnace.desc=工业高炉是一种用来冶炼那些诸如铬、钛和钨那样的最坚韧的金属的多方块机器。\n\n当你将工业高炉本体摆下来后，GUI 内有一个按钮可以显示多方块结构的剩余部分。你可以用任意的机械外壳来组合成多方块结构。\n\n最高温度基于机械外壳的组合。从 0 开始，每个标准机械外壳提供 40 度，每个强化机械外壳 68 度，每个高级机械外壳 95 度。\n\n你可以用岩浆来填充中心的两个方块来增加 500 度。
 
 continuum.mega_torch.name=安全的火把
 continuum.mega_torch.desc=巨型火炬会阻止在它附近的 64 个方块内的敌对生物生成。它不会阻止刷怪笼、诅咒土或类似的东西产生的敌对生物，它只会阻止光照过低而产生的敌对生物。
@@ -109,14 +109,14 @@ continuum.electronic_circuit.desc=电路板是几乎每一台科技复兴（Tech
 continuum.fluid_manipulation.name=流体操纵
 continuum.fluid_manipulation.desc=熔岩炉可以将特定物品熔化为液体。\n\n流体转置机可以清空物品内的流体将其转置到内部储罐内，或者将内部储罐内的液体灌注到物品中。\n\n有些配方可能需要一桶像不稳定熔融红石这样的液体，使用罐或其它类似的物品盛装的液体也可以使用。
 
-continuum.transfer_nodes.name=Herer to Therer
-continuum.transfer_nodes.desc=Transfer Pipes and Nodes allow you to move items in a much easier and faster way than Conveyor Belts. Place the Node on the inventory/tank you wish to pull from and place a line of Transfer Pipes along the path you wish it to go, and connect it to the inventory/tank you wish to insert into. You can apply several upgrades and a Filter to Transfer Nodes by opening the Node's GUI and placing them inside.\n\nYou can also create Retrieval Nodes that function similarly, but pull from inventories instead of push into.\n\nItems do not go through Nodes like other pipes. Instead, the Node slowly searches for an inventory that it can send items to, and then teleports the items there.
+continuum.transfer_nodes.name=此方到彼方
+continuum.transfer_nodes.desc=传输管道和传输节点可以以一种比传送带更简单、更快的方式来传输物品。将节点放在你想要从中抽出的物品缓存/储罐上并且沿着你希望的路线摆放一排传输管道，并将其与你想要输入的物品缓存/储罐相连。你可以通过打开节点的 GUI 并将相应的物品放入其中以对传输节点应用几种升级以及一个过滤器。\n\n你也可以使用与之功能相似的抽取节点，但是它将向物品缓存中输入而不是提取。\n\n物品不像其他管道那样经过节点。相反，节点会缓慢地搜索它能输入物品的物品缓存，并将物品输入其中。
 
 continuum.leadstone_jetpack.name=向前、向上
 continuum.leadstone_jetpack.desc=铅石飞行背包是第一种可用的飞行方法。所有等级的飞行背包都有着差距不大的飞行速度，但是更高的等级可以存储更多的能量。\n\n你可以在飞行背包上上安装护甲板以提供保护功能。更高级别的飞行背包需要更高级的护甲板。
 
 continuum.drill.name=刺穿天堂！
-continuum.drill.desc=手钻如同镐子一般，但不会坏掉且需要使用 RF。潜行时右键手钻即可打开 GUI，你可以在其中安装升级，使手钻能做到诸如精准采集、时运、增加所获得经验、增加采掘范围、放置方块而无序切换物品等功能。更高级的升级需要安装前一级升级，并且你只有 5 个插槽，因此请谨慎选择你想要安装的升级。你可以随时自由地移除升级。你还可以将手钻染成 16 种颜色中的任意一种。\n\n使用充能站为手钻充能。
+continuum.drill.desc=手钻如同镐子一般，但不会坏掉且需要使用 RF。潜行时右键手钻即可打开 GUI，你可以在其中安装升级，使手钻能做到诸如精准采集、时运、增加所获得经验、增加采掘范围、放置方块而无序切换物品等功能。更高级的升级需要安装前一级升级，并且你只有 5 个槽位，因此请谨慎选择你想要安装的升级。你可以随时自由地移除升级。你还可以将手钻染成 16 种颜色中的任意一种。\n\n使用充能站为手钻充能。
 
 continuum.industrial_electrolyzer.name=这就是植物所渴望的！
 continuum.industrial_electrolyzer.desc=工业电解器可以使用流体和粉末产生其它的流体和粉末。在底部槽位放入物品，并且如果有需要，将空单元放入左下方的槽位。机器将消耗 RF 来处理这些物品。\n\n工业电解器是获得铬（通过红宝石）与钛（通过铝土矿粉）等特定材料的唯一途径。
@@ -124,14 +124,14 @@ continuum.industrial_electrolyzer.desc=工业电解器可以使用流体和粉�
 continuum.void_ore_miner.name=于虚空中诞生的金属
 continuum.void_ore_miner.desc=虚空矿物采掘机是一种通过 RF 来生成矿物资源的多方块机器。它一共有六个级别，每升一级都将会消耗更多的 RF 以更快的速度给你提供更多的资源。你可以通过把澄清透镜替换为彩色透镜来进一步影响你获得的资源种类。\n\n第一级的多方块结构大小是 7x7x4，控制器在最高一层的中心位置。放下控制器后，你就可以对着它按住右键使用装配杆，它会把其余部件放置在相应的位置。\n\n当虚空矿物采掘机摆放完毕后，给控制器提供 RF，它就会开始生成矿物并将矿物放置在任意与控制器接触的容器中。为了使虚空矿物采掘机能够工作，从透镜向下看必须能够清晰地看到基岩。
 
-continuum.modular_storage.name=Modular Storage
-continuum.modular_storage.desc=The Modular Storage block on its own does nothing, it needs to have a Storage Module inside of it to function. The first tier holds a maximum of 100 stacks, each tier adding another 100 stacks. With the Storage Module installed, the Modular Storage acts basically like a chest. Stacks do not automatically combine; if you put a stack of 32 Dirt and later another stack of 16, they will stay separate. Hit the Z button at the bottom of the GUI to combine the stacks. Above the Z button, you can change how the items are shown, be it a list, two columns, or stacks like most other inventories. The button directly to the right of that one changes the way the items are sorted (you can install a Generic Type Module to add more options). The G button will combine the items into groups depending on the way they are sorted.\n\nThe Remote Storage and its Module allow increased functionality. Place the Storage Module inside one of the spaces for it in the Remote Storage and place the other Module on the right of it, and it will bind them together. You can then place the RSM into a Module Storage (or even multiple of them) and it will access that Storage Module. You can even have multiple Storage Modules in a single Remote Storage, and so long as they all have an ID (they've been bound to any RSM), you can cycle between the Storage Modules by hitting the C at the bottom left of the Modular Storage GUI.\n\nThe Storage Scanner allows you to access all nearby inventories around itself remotely. Set the radius and hit the Scan button, and it will detect nearby inventories. Select an inventory from the list to access it. You can reorder the list using the buttons to the left of it. You can only insert items into inventories on the list that have the star enabled, and then you insert through the blue slot at the bottom left. It will enter the first acceptable inventory on the list, starting at the top. If you wish to specify which items go where, put filtered inventories at the top of the list. You can disable the star at the bottom left and it will instead insert items to whichever inventory is currently selected. You can select "All Routable" from the list and it will display every inventory with a star at once.
+continuum.modular_storage.name=模块化存储器
+continuum.modular_storage.desc=模块化存储器本身什么都做不了，它需要在它的内部有一个存储仓才能够工作。初级存储仓最多能够存储 100 组物品，每提高一级会额外增加 100 组物品的上限。当安装了存储仓时，模块化存储器就如同一个箱子。物品不会自动合并；如果你放入了 32 个泥土，然后又放入了 16 个，它们将会分别存储。按下位于 GUI 下方的“Z”键可以合并物品。在“Z”键上方，你可以改变物品的显示方式：列表形式、两列形式、或者像大多数物品缓存那样的成组的形式。位于其右侧的按钮可以改变物品的排序方式（你可以安装泛型模块来添加更多选项）。“G”键可以根据它们的排列方式对物品进行分组。\n\n远程存储器和远程存储模块能够添加更多功能。将存储仓放入远程存储器中相应的一个槽位并将远程存储模块放入其右侧的槽位，然后它们就会绑定在一起。你可以将远程存储模块放入一个（或几个）模块化存储器中然后它们就可以使用相应存储仓中。你甚至可以将多个存储仓放入一个远程存储器中，只要它们都有 ID（它们都与任意的远程存储模块绑定在一起），你就可以通过点击位于模块化存储器的 GUI 左下方的“C”键在不同的存储仓间循环\n\n存储检测器可以远程使用位于它附近的物品缓存。设置好范围后点击“Scan（扫描）”按钮，它就会检测附近的物品缓存。选择列表中的一个物品缓存以使用它。你可以使用位于列表左侧的按钮来重新给列表排序。你可以只向列表中标记星星的物品缓存输入物品，然后通过位于左下角的蓝色槽输入物品。它将会进入到列表中从顶部开始第一个可以输入物品的物品缓存中。如果你想要指定什么物品输入到哪里，请在列表的顶部放入过滤的物品缓存。你可以在左下角禁用星星标记，它就会像当前选中的物品缓存中输入物品。你也可以选择列表中的“All Routable（所有可输入的物品缓存）”，它就会一次性显示所有带有星星标记的物品缓存内的物品。
 
 continuum.machine_frame.name=机器天神
-continuum.machine_frame.desc=你可以在热力膨胀（Thermal Expansion）的机器上使用升级套件来提高它们的等级，使它们的速度更快，能存储更多 RF，并且每个等级会提供 1 个升级插槽。等级列表如下：基础 -> 硬化 -> 强化 -> 信素 -> 谐振。\n\n某些机器可以安装专业化升级，它可以以某种方式改变它的功能。每个机器只能安装一个专业化升级。
+continuum.machine_frame.desc=你可以在热力膨胀（Thermal Expansion）的机器上使用升级套件来提高它们的等级，使它们的速度更快，能存储更多 RF，并且每个等级会提供 1 个升级槽位。等级列表如下：基础 -> 硬化 -> 强化 -> 信素 -> 谐振。\n\n某些机器可以安装专业化升级，它可以以某种方式改变它的功能。每个机器只能安装一个专业化升级。
 
-continuum.itemduct.name=Pretty Items
-continuum.itemduct.desc=Itemducts are generally much better for transferring items than Transfer Nodes. Itemducts will instantly search for a place to send items and they will slowly make their way through.\n\nItemducts default to insert only, you have to apply a Servo where you want to pull from. Inside the Servo's GUI, you can set if it needs redstone to pull, and you can set a whitelist or blacklist. Higher tier Servos have more options and can pull more, faster.\n\nYou can use a Wrench to disconnect two Itemducts from each other so they do not interact.
+continuum.itemduct.name=完美的物品
+continuum.itemduct.desc=物品管道总的来说在传输物品方面要比传输节点更好。物品管道能够立即搜索输入物品的位置并且会缓慢地沿着管道传输物品。\n\n物品管道默认只能输入物品，你可以在你想要抽取物品的地方使用伺服器。在伺服器的 GUI 内，你可以设置是否需要红石信号，以及白名单和黑名单。更高级的伺服器有着更多的选项并且抽取物品能更多、更快。\n\n你可以使用扳手来断开两个物品管道彼此之间的连接这样它们就不会互相影响。
 
 continuum.auto_efab.name=量产型武器
 continuum.auto_efab.desc=要使 EFab 能够自动化，右侧的每个方块必须是 EFab 多方块结构的一部分。\n\n在合成器中设置需要合成的配方，并将原料放入物品存储器中。为合成器提供红石信号即可开始制作。你可以使用一个处理器和一个物品存储器使多个独立的合成器同时运行，但是如果存储空间不足，则可能需要添加更多的物品存储器。\n\n处理器的数量会影响制作物品的速度。
@@ -139,14 +139,14 @@ continuum.auto_efab.desc=要使 EFab 能够自动化，右侧的每个方块必�
 continuum.void_ore_miner_2.name=于虚空中诞生的金属 II
 continuum.void_ore_miner_2.desc=二级虚空矿物采掘机可以生成更多种矿物。为了升级机器，你需要把所有部件都拆下来并使用它们来制作下一级的部件。\n\n第二级的多方块结构大小是 7x7x5，控制器在最高一层的中心位置。从第二级开始，你就可以将机器中的无效果强化部件替换为其他的强化部件。\n\n精准采集强化部件会增加基于该颜色透镜生成的矿石的生成率，而速度强化部件会减少生成每个矿石需要的时间。
 
-continuum.refined_storage.name=Cyber Storage
-continuum.refined_storage.desc=Refined Storage allows you to store large amounts of items digitally. You will only be able to store items, autocrafting comes later.\n\nThe Controller is the brain of the system, and also where the system is powered. Everything must be a connected to the Controller in some way to work. Use Cables to connect the Controller to the other parts of the RS System. You can only have one Controller per RS system.\n\nThe Solderer crafts several important items. You can insert and extract from any side. Power it through the Controller. You can install Speed Upgrades into the 4 slots at the top right to make it faster.\n\nThe Disk Drive stores Storage Disks (higher tiers \u003d more items stored).
+continuum.refined_storage.name=赛博存储
+continuum.refined_storage.desc=精致存储（Refined Storage）可以数字化存储大量物品。你只能用它存储物品，自动合成需要之后才能使用。\n\n控制器是整个系统的大脑，并且也是为整个系统供电的地方。任意机器都必须与以某种方式与控制器相连才能够工作。使用线缆将 RS 系统中的其他部分与控制器相连。一个 RS 系统中只能有一个控制器。\n\n压印器可以合成几种重要物品。你可以从任意面输入和输出。通过控制器为其供电。你可以在其右上角的 4 个槽安装速度升级使其工作得更快。\n\n磁盘驱动器能够储存存储硬盘（更高的等级 = 更多的可存储）。
 
-continuum.translocators.name=Ahorita Regreso
-continuum.translocators.desc=Translocators are useful for very fast transfer over a very small distance (in fact, an upgraded Translocator is the fastest way to transfer items and fluids). There's a maximum range of 1 block between the input and the output. \n\nPlace Translocators on all blocks you want to be connected - the Translocators themselves must be in the same block space. Right click the middle of the Translocator with an empty hand to toggle insert mode, and it will pull from Translocators not in insert mode into that inventory/tank. Right click with a full hand and you can set filters on what can get inserted.\n\nYou can use a Glowstone Dust on the Translocator to make it pull a stack at a time, and a Redstone Dust to allow you to toggle insert mode with a redstone signal. \n\nA Diamond Nugget will allow you to set it to maintain the specified amount of the item inside and no more. \n\nThe filter on an inserting Translocator will restrict what can enter, while a filter on an outputting filter will eject items that are not in the filter. \n\nUsing an Iron Nugget will make it emit redstone based on certain factors - on an inserting Translocator it will emit if there's no room for items in the filter; on aan outputing Translocator it will emit if there's nowhere for the items in the filter to go.
+continuum.translocators.name=我马上回来
+continuum.translocators.desc=转运器非常有用，它能在极短距离下以极高的速度传输（事实上，升级过后的转运器是传输物品和流体最快的方式）。输入端和输出端的最大距离只有一格。\n\n将转运器摆在你想要进行连接的所有方块上——转运器本身必须在同一格内。空手右击转运器的中间以切换输入模式，然后它会从非输入模式的转运器抽取并输入到与切换为输入模式的转运器相连的物品缓存/储罐中。手持物品右击可以设置过滤器来让什么物品能够被输入。\n\n你可以对转运器使用萤石粉使它能一次输出一组，红石可以使它通过红石信号切换输入模式。\n\n钻石粒可以使其设置为在物品缓存内部保留指定数量的物品不多不少。\n\n安装钻石粒后，输入模式的转运器的过滤器能够限制可以输入的物品，而输出模式的转运器的过滤器会输出不在过滤器内的物品。\n\n使用铁粒可以使它在某些条件的基础下发出红石信号——在输入时，当没有位置放置和过滤设置物品匹配的物品时，它会发出红石信号；输出时，当过滤设置的物品没有地方可以输出时，也会发出红石信号。
 
-continuum.phantomface.name=Transvectorface
-continuum.phantomface.desc=The Phantomface allows you to access inventories from farther away than normal. Place the Phantomface in the world, sneak right click on the block you wish to connect to with a Phantom Connector, then sneak right click the Phantomface to connect the two. You can then pipe in to/out from the Phantomface as if it were the block it's linked to, including which side does what. By default, the Phantomface must be within 16 blocks of the block you want to connect it to, but you can increase the range by placing up to 3 Phantom Boosters above it.\n\nThere are also the Phantom Energyface and Phantom Liquiface that allow you to interact with distant energy storages and tanks, and function similarly to the regular Phantomface. \n\nThere are Phantom versions of the Auto-Placer and Auto-Breaker that work almost exactly the same, but instead of placing/breaking the block in front of them they place/break the block you assign with the Phantom Connector.
+continuum.phantomface.name=矢量变换接口
+continuum.phantomface.desc=幻灵接口可以让你在较远处访问物品缓存。将幻灵接口摆下来，潜行状态下用幻灵连接器右击你想要连接的方块，然后潜行状态下右击幻灵接口以连接两者。然后，您可以从幻灵接口中输入/输出，就好像它是与其相连的方块一样，包括哪一面能做什么。默认情况下，幻灵接口必须位于所连接的方块的 16 格内，但你可以通过在其上方放置多达 3 个幻灵增幅器来增加范围。\n\n还有幻灵能量接口和幻灵流体接口，可以让你与远处的能量储存器和储罐进行交互，并且功能类似于普通的幻灵接口。\n\n幻灵版本的方块放置器和方块破坏器与普通版几乎完全相同，但不是在它们面前放置/破坏方块，而是放置/破坏幻灵连接器所绑定的方块。
 
 continuum.storage_crate.name=“‘好小！’”
 continuum.storage_crate.desc=板条箱能够大量存储物品。最小的板条箱可以容纳 117 组物品，每提高一级就会增加 117 组的容量。\n\n板条箱升级徽章可以让你右键点击要升级的箱子来将其从前一级升级到下一层。你也可以将板条箱守护徽章放入板条箱中，这样就可以在不丢失物品的情况下破坏箱子。而板条箱守护徽章在此过程中会被销毁。
@@ -163,11 +163,11 @@ continuum.void_ore_miner_3.desc=三级虚空矿物采掘机可以生成更多种
 continuum.void_ore_miner_5.name=于虚空中诞生的金属 V
 continuum.void_ore_miner_5.desc=五级虚空矿物采掘机可以生成更多种矿物，大小为 11x11x8。
 
-continuum.shipping_bin.name=Agribusiness
-continuum.shipping_bin.desc=The Shipping Bin allows you to sell a stack of any Harvestcraft or Vanilla crop for an Emerald.
+continuum.shipping_bin.name=农业综合企业
+continuum.shipping_bin.desc=出货箱可以将一组任意的 Harvestcraft 或原版的作物卖出换取一个绿宝石。
 
-continuum.market.name=Open Market
-continuum.market.desc=You can spend Emeralds to buy seeds and saplings at the Market.
+continuum.market.name=公开市场
+continuum.market.desc=你可以在农贸市场花费绿宝石购买种子或树苗。
 
 continuum.tr_rolling_machine.name=在深渊中挣扎
 continuum.tr_rolling_machine.desc=辊压机与工作台相似，但其需要消耗 RF。
@@ -190,8 +190,8 @@ continuum.pumpjack.desc=采油机能够将该区块中潜藏在基岩中的流�
 continuum.rfab.name=RFab
 continuum.rfab.desc=某些 EFab 合成需要 RF 来进行，就像需要物品和流体一样。将能量升级放入 EFab 合成终端并且为RF 控制器提供能量。\n\n每个RF 控制器最多提供 50RF/t，所以你可能需要多个 RF 控制器来进行合成，你也可以在之后添加一个RF 存储器，每个 RF 存储器可以存储 100,000RF 并且最多提供 250RF/t。RF 控制器越多，合成所需的时间就越短。\n\n需要注意的是，如果你有多个齿轮箱或其他的加速部件，RF/t 的需求也会变大。需要的 RF 总量则不会变化。
 
-continuum.grid.name=Now You Can Use It!
-continuum.grid.desc=The Grid allows you to actually access the RS system's inventory.
+continuum.grid.name=现在你可以使用它了！
+continuum.grid.desc=终端可以让你访问 RS 系统的物品缓存。
 
 continuum.more_alloys.name=更好的合金
 continuum.more_alloys.desc=某些合金只能通过熔岩炉与流体转置机来制作，并且在电弧炉中冶炼。
@@ -208,10 +208,10 @@ continuum.void_ore_miner_4.desc=四级虚空矿物采掘机除了主世界的矿
 continuum.low_powercell.name=来，来，存储能量！
 continuum.low_powercell.desc=能量单元能用来存储 RF。能量单元可以是单独一个方块也可以是任意形状的多方块结构。每个能量单元（低级）能够存储 250,000 RF。使用扳手在 RF 的输入、RF 的输出与无交互之间进行切换。能量单元（低级）的每个面只能以 100 RF/t 的速率输入和输出。当能量单元被破坏时，其内部的 RF 会被保存下来。\n\n一个能量单元的多方块结构可以由 729 个方块组成（如果它是一个立方体，则最大尺寸为 9x9x9）。
 
-continuum.medium_powercell.name=Compact Power
-continuum.medium_powercell.desc=第二级别的能量单元每个可以存储 10,000,000 RF，并且有着 500RF/t 的传输速度。合成中会保存每个低级能量单元的能量。
+continuum.medium_powercell.name=压缩能量
+continuum.medium_powercell.desc=第二级别的能量单元每个可以存储 10,000,000RF，并且有着 500RF/t 的传输速度。升级能量单元时会保留 RF，因此你可以安全地使用以前的能量单元来制作更高级的能量单元而不会损失内部的 RF。
 
-continuum.information_screen.name=How Much?
+continuum.information_screen.name=到底多少？
 continuum.information_screen.desc=信息屏幕可以显示出任何它被放置上的机器的当前与最大 RF。当放置在能量单元上时，它还可以显示有多少 RF/t 的能量输入与输出速度。
 
 continuum.reinforced_jetpack.name=远走高飞
@@ -220,35 +220,35 @@ continuum.reinforced_jetpack.desc=强化飞行背包拥有两倍于硬化飞行�
 continuum.plastic.name=塑料
 continuum.plastic.desc=胶乳加工机能够用 75mB 的胶乳和 1,000mB 的水来制做一个小块干橡胶。 9 个小块干橡胶能制做 1 个干橡胶，干橡胶能够烧炼成塑料。
 
-continuum.resonator.name=Resonance of the Soul
-continuum.resonator.desc=The Resonator uses GP to craft items. GP (Grid Power) is a kind of wireless energy. Mills create a static amount of GP and certain machines and items "use up" the GP. If more GP is being used than is being created, nothing will run.\n\nThe first thing you need to craft is Stoneburnt. To generate the GP required to do this, you need to craft and use a Manual Mill until you've made enough Stoneburnt to make other Mills.\n\nMills are less efficient at generating GP the more GP there is.\n\nWhile hovering over any machine that generates or uses GP, you can see the GP in the system. It is displayed as a fraction of (GP used) / (GP total).
+continuum.resonator.name=灵魂的共鸣
+continuum.resonator.desc=共振仪使用 GP 来合成物品。电网能量（Grid Power, GP）是一种无线能量。发电机能够静态产生固定数量的 GP 且特定的机器和物品会“消耗”GP。如果使用的 GP 比生成的多，则机器和物品不会工作。\n\n你首先需要合成的物品是烧制石头。要产生所需的 GP，你需要制作并使用手动发电机，直到你制作出足够的烧制石头来制作其他发电机。\n\n发电机产生的 GP 越多，其产生 GP 的效率就越低。\n\n当指着产生或使用 GP 的任何机器时，你可以看到系统中的 GP。它将会以（所使用的 GP）/（总共的 GP）这样的分数形式显示出来。
 
-continuum.implosion_compressor.name=Explosive Fun
-continuum.implosion_compressor.desc=聚爆压缩机是一种使用 TNT 来压缩那些最坚硬的材料的多方块机器。聚爆压缩机方块位于由进阶机械外壳组成的空心3x3x3立方体顶部。
+continuum.implosion_compressor.name=爆炸的乐趣
+continuum.implosion_compressor.desc=聚爆压缩机是一种使用 TNT 来压缩那些最坚硬的材料的多方块机器。聚爆压缩机方块位于由强化机械外壳组成的空心 3x3x3 立方体结构的顶部。
 
 continuum.industrial_squeezer.name=挤~压
 continuum.industrial_squeezer.desc=挤压机是一种能够挤压物品同时产生其它物品或流体的多方块机器。\n\n挤压机为 3x3x3 的多方块机器。
 
-continuum.extreme_reactor.name=Extreme Energy
-continuum.extreme_reactor.desc=反应堆是一个用铀来产出大量RF的多方块结构，被消耗的铀会变成蓝晶锭并产出。反应堆必须是立方体，最大尺寸为11x11x11\n\n反应堆的框架必须由反应堆外壳组成。必须要有一个反应堆控制器在任意面上。反应堆控制杆必须位于反应堆的顶部，反应堆燃料棒在它下方直通底部。至少需要一个反应堆访问端口在任意面上并且至少需要一个反应堆RF能源接口。任意面的空余处必须用反应堆外壳或反应堆玻璃填满。\n\n反应堆访问端口是是铀输入与蓝晶输出的地方。如果你想自动化它们，就必须设置为插入或提取。\n更多的燃料棒(尽可能更多的燃料棒与尽可能高的反应堆)意味着更多的燃料与废料可以被存储在反应堆中\n=反应堆RF能源接口是提取RF的地方\n反应堆控制器是反应堆开启与关闭的的地方，以及控制废物是否自动排出。
+continuum.extreme_reactor.name=极限的能量
+continuum.extreme_reactor.desc=反应堆是一个用铀来产出大量 RF 的多方块结构，被消耗的铀会变成蓝晶锭并产出。反应堆必须是立方体，最大尺寸为 11x11x11。\n\n反应堆的框架必须由反应堆外壳组成。必须要有一个反应堆控制器在任意面上。反应堆控制杆必须位于反应堆的顶部，反应堆燃料棒在它下方直通底部。至少需要一个反应堆访问端口在任意面上并且至少需要一个反应堆 RF 能源接口。任意面的空余处必须用反应堆外壳或反应堆玻璃填满。\n\n反应堆访问端口是输入铀作为燃料并输出蓝晶作为废料的地方。如果你想自动化它们，就必须设置为输入或输出。\n更多的燃料棒（尽可能更多的燃料棒与尽可能高的反应堆）意味着更多的燃料与废料可以被存储在反应堆中。\n反应堆 RF 能源接口是输出 RF 的地方。\n反应堆控制器是控制反应堆开启与关闭的的地方，同时也能控制废物是否自动排出。
 
-continuum.high_powercell.name=PHENOMINAL COSMIC POWER
-continuum.high_powercell.desc=最高级的能量单元可以储存100,000,000RF并且有2500RF/t的传输速度。你可以在一个多方块结构中使用多个不同等级的能量单元
+continuum.high_powercell.name=现象级宇宙能量
+continuum.high_powercell.desc=最高级的能量单元每个可以储存 100,000,000RF 并且有 2500RF/t 的传输速度。你可以在一个多方块结构中使用多个不同等级的能量单元。
 
-continuum.flux_network.name=Truly Wireless
-continuum.flux_network.desc=能量网络可以真正的让你传送RF\n\n放置一个能量网络输入点在你想输入能量的地方，并且放置一个能量网络输出点在你想输出能量的地方。在每个GUI中选择你所选择的能量网络。你可以命名输入与输出点并设置它们的优先级，以及打开/关闭RF传输速率限制。关闭时，它能传输无限量的RF。\n\n能量控制器允许你访问网络上的所有内容，以及切换传输模式。开启时，能量控制器将会充能你This物品栏中的所有物品。这没有范围限制，即使是在不同世界也会工作！
+continuum.flux_network.name=真正的无线
+continuum.flux_network.desc=能量网络（Flux Networks）可以让你真正地远程传输 RF。\n\n将一个能量网络输入点放置在你想要抽取能量的地方，并且将一个能量网络输出点放置在你想输出能量的地方。在输入点和输出点的 GUI 中都选择你所选择的能量网络。你可以命名输入与输出点并设置它们的优先级，以及打开/关闭 RF 传输速率的限制。关闭限制时，它能无限地传输 RF。\n\n能量控制器可以让你访问网络上的所有内容，以及切换传输模式。开启时，能量控制器将会为你物品栏中的所有物品充能。它没有范围限制，即使是在不同的世界也会工作！
 
 continuum.storage_tablet.name=说走就走的存储
 continuum.storage_tablet.desc=手持式存储模块可以与存储仓、远程存储模块或存储控制模块相链接，并且可以通过右击手持式存储模块，从任何位置访问其中的物品。要将手持式存储模块与其它模块相链接，请将它们一起合成。要取消链接，请将手持式存储模块本身放在合成格中。
 
-continuum.auto_placer.name=Auto-Placer
-continuum.auto_placer.desc=The Auto-Placer will automatically place any blocks in its internal inventory in front of it.\n\nYou can toggle between if a redstone signal turns it off or turns it on by right clicking the Auto-Placer with a Redstone Torch.
+continuum.auto_placer.name=方块放置器
+continuum.auto_placer.desc=方块放置器可以自动将其内部物品缓存中的任何方块放在它的前面。\n\n如果红石信号将其关闭，或者通过右击红石火炬的自动布局器打开它，你可以通过手持红石火把右击方块放置器来在是否需要红石信号关闭或开启间进行切换。
 
-continuum.auto_breaker.name=Hit the Breaks
-continuum.auto_breaker.desc=The Auto-Breaker will automatically breakwhatever block is in front of it. Pretty simple.\n\nThe result of mining the block in front of it is placed inside of the Auto-Breakers's inventory, and can be piped out.\n\nYou can toggle if the Auto-Breaker works with a redstone signal on or off by right clicking it with a Redstone Torch.
+continuum.auto_breaker.name=打破常规
+continuum.auto_breaker.desc=方块破坏器可以自动破坏其前方的任何方块。就这么简单。\n\n挖掘其前方的方块得到的产物会被放入方块破坏器的物品缓存中，并且可以被抽出。\n\n你可以通过手持红石火把右击方块破坏器器来在是否需要红石信号关闭或开启间进行切换。
 
-continuum.beacon.name=Look at Me!
-continuum.beacon.desc=The Beacon is a multiblock that uses no RF. The Beacon, when placed on a discovered planet, allows all other players to see that planet without having to discover it themselves. They will still need the artifact to fly there however.\n\nYou can install the Beacon Finder upgrade to your Space Suit Helmet and it will add a GUI element to the top of the screen pointing you towards and Beacon on the planet you are on.
+continuum.beacon.name=看着我！
+continuum.beacon.desc=信标是一种不使用 RF 的多方块结构。当信标被放置在一个被发现的星球上时，可以让所有其他玩家看到那个星球，而无需他们自己发现它。然而，他们仍然需要神器飞往那里。\n\n你可以将信标定位器升级安装到你的太空服头盔，这样它就会在屏幕顶部添加一个 GUI 元素，上面会标注你和你所在星球上的信标。
 
 continuum.device_frame.name=结构技巧
 continuum.device_frame.desc=与机器相反，设备不需要 RF 就能够运行并且不能升级。它们操作起来往往比机器简单得多。
@@ -292,8 +292,8 @@ continuum.arcane_ensorellator.desc=附魔机能够使用知识精华和物品对
 continuum.glacial_precipitator.name=打开恒温器
 continuum.glacial_precipitator.desc=冷冻机能将流体冻结成物品。它能够制作原版的任意一种冰或雪。
 
-continuum.questing_tutorial.name=Questing Tutorial
-continuum.questing_tutorial.desc=Flashing §c§c§r§cred quests§r are unlocked, and you can click on them to see how to complete §rthem. \n\nCompleted quests flash §9§s§bblue§r if they have a reward that hasn't been collected, and are §agreen§r if they don't.\n\n§8Gray quests §rhave not been unlocked and cannot be completed. You can hover over locked quests to see what quests they require to be completed to unlock them.\n\n§4Red lines§r between quests connect locked quests with the quests that they require. Flashing §eyellow lines§r connect unlocked quests to the quests that they require. §2Green lines§r connect completed quests to the quests that they required.\n\nLines are not the best way to see quest connections; the you do not need to complete all quests that are connected in a line in order. If the quest is §cred§r, it is unlocked, even if there's a §4red line§r connecting to them. \n\nIf you're playing with friends, you can use the Party menu in the main screen when opening the quests.
+continuum.questing_tutorial.name=任务教程
+continuum.questing_tutorial.desc=闪烁着的§c§c§r§c红色任务§r是尚未解锁的，你可以点击以查看如何完成§r这些任务。\n\n已完成的任务如果尚有奖励未被领取则会闪烁§9§s§b蓝色§r，而没有未领取的奖励的任务则闪烁§a绿色§r。\n\n§8灰色任务§r则尚未解锁且尚未完成。你可以将鼠标悬停在锁定的任务上，查看它们所需要完成的任务才能解锁。\n\n任务之间的§4红线§r将锁定的任务与解锁它们所需要完成的任务连接在一起。闪烁的§e黄线§r将尚未解锁的任务与它们所需要的任务连接在一起。§2绿色的线§r将已完成的任务与它们所需要的任务连接在一起。\n\n查看连线并不是查看任务关系的最佳方式；你不需要按顺序完成一行连接的所有任务。如果任务是§c红色§r的，即使有§4红线§r连接到它们，它也会被解锁。\n\n如果你和朋友一起游玩，你可以使用打开任务书时主屏幕上的队伍（Party）菜单。
 
 continuum.mob_crusher.name=踩碎在你的脚下
 continuum.mob_crusher.desc=屠宰机能够击杀其面前的任何生物。但是击杀的生物不会掉落物品或经验；取而代之的是屠宰机内部的储罐将会充满精华液。
@@ -316,14 +316,14 @@ continuum.wither_builder.desc=凋灵生成器能够生成凋灵。给它 4 个�
 continuum.alchemical_chest.name=炼金术存储
 continuum.alchemical_chest.desc=炼金术箱子有 104 个存储槽，并且能为特定物品提供特殊功能。
 
-continuum.item_repairer.name=I Can Fix It!
-continuum.item_repairer.desc=The Item Repairer repairs items with RF, including Tinkers' Construct tools!
+continuum.item_repairer.name=我能修好它！
+continuum.item_repairer.desc=物品修理机能够使用 RF 来修理物品，包括匠魂（Tinkers' Construct）的工具。
 
 continuum.extractor.name=提取机
 continuum.extractor.desc=提取机可以从物品和方块中提取出某些物品。
 
-continuum.industrial_centrifuge.name=Round and Round
-continuum.industrial_centrifuge.desc=工业离心机能够将物品从其他物品里分离出来
+continuum.industrial_centrifuge.name=转啊转
+continuum.industrial_centrifuge.desc=工业离心机能够将物品从其他物品里分离出来。
 
 continuum.repair_talisman.name=马符咒
 continuum.repair_talisman.desc=修复护符能够自动修理你的物品栏中的物品。它也能够在炼金术箱子内工作来修理箱子里面的所有物品。\n\n修护符咒不能够修理匠魂（Tinkers' Construct）的工具。
@@ -331,8 +331,8 @@ continuum.repair_talisman.desc=修复护符能够自动修理你的物品栏中�
 continuum.distillation_tower.name=精炼设备
 continuum.distillation_tower.desc=精馏塔是一种能将原油分馏成润滑油、汽油和柴油的多方块机器。三种流体的输出都在同一个方块的同一面上，所以你应该使用过滤装置来限制哪种流体输送到哪里。
 
-continuum.vacuum_freezer.name=Chill It Dude!
-continuum.vacuum_freezer.desc=真空冷凝器是一个多方块机器可以用来使某些物品陷入极低温的冻结，并将它们转换为其它物品\n\n真空冷冻机位于由进阶机器外壳组成的3x3正方形的中心上。
+continuum.vacuum_freezer.name=没事的，伙计！
+continuum.vacuum_freezer.desc=真空冷冻器是一种被用来将特定的物品放入低温环境使其转化为其它物品的多方块机器。\n\n真空冷冻器方块位于由强化机器外壳组成的 3x3 正方形结构的中心上。
 
 continuum.automated_engineers_workbench.name=自动工程师装配台
 continuum.automated_engineers_workbench.desc=自动装配台是一种能够自动合成工程师装配台配方的多方块机器。\n\n将想要使用的蓝图放入到 GUI 的右下方的槽位中，然后选择要自动合成的物品，然后将所需物品和 RF 传送给它即可。\n\n自动装配台为 3x2x3 的多方块结构。
@@ -352,23 +352,23 @@ continuum.diesel_generator.desc=柴油发电机是一种能够使用生物柴油
 continuum.arc_furnace.name=电弧炉
 continuum.arc_furnace.desc=电弧炉是一种能够快速冶炼矿物和制作合金的多方块机器。\n\n要使其能运行，其上方的槽位中需要 3 个石墨电极，并且能够从顶部中心的方块进行输入。石墨电极有耐久度，并且在损坏时必须更换。石墨电极也可以被附上耐久附魔，使其能工作更长时间。\n\n待加工的原材料（矿石或合金的主要部分）需放入左侧的 12 个槽中，并且能够从电极左侧的蓝色圆点一面进行输入。\n\n辅料，例如合金的其余部分则放入右侧的 4 个槽中，并且能够从电极右侧的蓝色圆点一面进行输入。\n\n底部的 7 个槽位为输出槽，并且能够从正前方底部的方块自动输出（矿渣则会从后方的底部输出）。\n\n电弧炉为 7x7x7 的多方块结构。
 
-continuum.fusion.name=Fuuuuusion, Ha!
-continuum.fusion.desc=聚变控制计算机是多方块机器的核心，它会消耗或产出大量RF，并通过两个装满的单元来创造新的物品。在聚变合成开始前就必须提供足够的RF。RF可以从4个水平方向的侧面输入，并从垂直面提取。\n\n聚变控制计算机位于可变尺寸的多方块结构的中心。最小尺寸是7x1x7，最大尺寸是55x5x55。反应堆越大，RF输出就越高。你可以在GUI的左下角看到倍数。\n\n你可以通过在聚变控制计算机上单击右键来自动放置核聚变线圈。
+continuum.fusion.name=聚~变，哈！
+continuum.fusion.desc=聚变控制计算机是该方块机器的主要部分，它通过融合两个充满的单元来创造新的东西，从而消耗或生成 RF。在聚变合成开始前必须提供 RF 才可启动。RF 可以通过任何水平方向的面输入，并从垂直方向的面输出。\n\n聚变控制计算机位于具有可变大小的多方块结构的中心位置。最小的尺寸是 7x1x7，最大的尺寸是 55x5x55。反应堆越大，RF 输出功率越高。你可以在 GUI 的左下角看到倍数。\n\n你可以通过在聚变控制计算机上右击来自动放置核聚变线圈。
 
 continuum.me_controller.name=ME! ME! ME!
-continuum.me_controller.desc=§rME 系统是最为强大的存储系统。有了它，你可以像RS系统一样存储你的物品，而且，你可以进行可请求的自动合成。\n\nME 系统通过 ME 控制器供电。ME 控制器可以是一个最大7x7x7的多方块结构。但是每个ME网络最多只能有一个ME控制器结构。最好把重点放在最大化面的数量上，而不是增加更多的控制器\n\nME 系统独特的地方在于它有频道系统。ME系统的每个总线，接口和其它 AE2 设备都会占用一个频道。一个普通的ME线缆最多可以传输 8 个频道。智能电缆允许你查看有多少个频道正在使用。
+continuum.me_controller.desc=§rME 系统是最为强大的存储系统。有了它，你可以像使用 RS 系统一样存储你的物品，但是现在你可以进行可请求的自动合成。\n\nME 系统通过 ME 控制器供电。ME 控制器可以是一个最大为 7x7x7 的多方块结构。但是每个 ME 网络最多只能有一个 ME 控制器结构。最好把重点放在增大可用面的数量上，而不只是增加更多的控制器。\n\nME 系统独特的地方在于它有频道系统。ME 系统的每个总线、接口和其它 AE2 设备都会占用一个频道。普通的 ME 线缆最多可以传输 8 个频道。智能线缆可以让你看到有多少个频道已被使用。
 
-continuum.engineers_workbench.name=Certified Crafting
-continuum.engineers_workbench.desc=The Engineer's Workbench is a kind of crafting bench. It crafts items based on the Engineer's Blueprint inside. Different Engineer's Blueprints allow you to craft different things. \n\nPlace the Engineer's Blueprint in the far left slot, and then hover over the item you wish to craft on the right to see the ingredients. Place the ingredients in the center slots, and then you can pull out the item you wish to craft.\n\nThe Engineer's Workbench also allows cheaper but more complex ways to craft certain items.
+continuum.engineers_workbench.name=已经认证的合成
+continuum.engineers_workbench.desc=工程师装配台是一种工作台。它会根据内部的工程师蓝图来制作物品。不同的工程师蓝图可以让你制作不同的物品。\n\n将工程师蓝图放在最左侧的槽位中，然后将鼠标悬停在你想要合成的右侧的物品上以查看所需材料。将材料放入中间的槽位中，然后就可以取出你想要制作的物品。\n\n工程师装配台还可以以更便宜但更复杂的方式来制作某些物品。
 
 continuum.mixer.name=混合机
 continuum.mixer.desc=混合机是一种可以将固体溶解在流体里，并将它们混合在一起的多方块机器。它可以制造液态混凝土、凝固汽油和药水。\n\n液态混凝土的有趣之处在于无论它是否是源头，在它凝固之前它都会缓缓地流动。这意味着如果你把它倒在一个平坦的开放区域，它的边缘会比在中心处平坦得多。\n\n混合机为 3x3x3 的多方块结构。
 
-continuum.excavate_modifier.name=Did You Know We Had OreExcavation?
-continuum.excavate_modifier.desc=使用挖掘强化，只需挖掘一个矿石，即可挖掘出整个矿脉。在较低的等级时，该工具只有一个打破一个额外的接触被你挖掘的矿石的矿石的机会。随着你提高强化的等级，它将会有更大的几率成功开采相邻的矿石，并且挖掘更大的范围。增加强化等级不会使用更多的强化槽，它只会使用一个。\n\n你只能用它来开采矿石和粘土，对其他任何东西都没有效果。\n\n这个效果也可以作为一个附魔用于其它的工具
+continuum.excavate_modifier.name=你知道我们装了矿石开采（Ore Excavation））吗？
+continuum.excavate_modifier.desc=使用挖掘强化后，只需挖掘一个矿石，即可挖掘出整个矿脉。在其等级较低时，该工具只会有几率额外破坏一个与被你挖掘的矿石相接触的矿石。随着强化等级的提高，它将会有更大的几率成功开采相邻的矿石，并且可以挖掘更大的范围。增加强化等级不会使用更多的强化槽，它只会使用一个。\n\n你只能用它来开采矿石和粘土，对其他任何东西都没有效果。\n\n这个效果也可以作为一个附魔用于其它的工具上。
 
-continuum.crafting_grid.name=Crafting Grid
-continuum.crafting_grid.desc=The Crafting Grid acts like the regular Grid but includes a 3x3 crafting grid for you to use.
+continuum.crafting_grid.name=合成终端
+continuum.crafting_grid.desc=合成终端的功能与普通的终端相似，但它有一个 3x3 合成格供你使用。
 
 continuum.void_ore_miner_6.name=于虚空中诞生的金属 VI
 continuum.void_ore_miner_6.desc=六级虚空资源采掘机是最高级别，会生成所有能生成的资源，大小为 13x13x8。
@@ -382,20 +382,20 @@ continuum.void_resource_miner_2.desc=二级虚空资源采掘机可以生成更�
 continuum.void_resource_miner_3.name=于虚空中诞生的石头 III
 continuum.void_resource_miner_3.desc=三级虚空资源采掘机是最高级别，会生成更多种类的资源，大小为 11x11x6。
 
-continuum.garden_cloche.name=Not Your Garden Variety Garden
-continuum.garden_cloche.desc=The Garden Cloche is a quick and simple way to automate most crops at the cost of Water and RF. You can put most seeds in the top center slot and the soil (Dirt or Sand depending on the crop). Water can be input from the very bottom, the bottom front, and the bottom back. RF can be input from the very top or the bottom sides.\n\nOnce all the requirements are met, the Garden Cloche will start to grow the crop (you can speed it up by putting fertilizers like Bone Meal or Fertilizer in the bottom left slot via the GUI or any of the bottom ports) and put the product in the right slots. If there's room, the items will be automatically output to the front second-from-the-bottom face.
+continuum.garden_cloche.name=并不是你那普通的花园
+continuum.garden_cloche.desc=园艺玻璃罩是一种以水和 RF 为代价实现大部分作物的自动化的快速而简单的方法。你可以将大部分种子放在位于中间的上面的槽位并将土壤（泥土或沙子取决于作物）放入其下面。水可以从底面、底部正面和底部背面输入。RF 可以从顶面或底面输入。\n\n一旦满足所有要求，园艺玻璃罩将开始种植作物（可以通过在左下方的槽位中经 GUI 或任意底部的端口输入诸如骨粉或肥料这样的肥料来加速作物），并将产物输出到右侧的槽位。如果有空间的话，这些产物会自动输出到从底部数第二个格的正面。
 
-continuum.importer.name=Innie
-continuum.importer.desc=The Importer pulls items from the inventory it is placed on into the RS system it is connected to.
+continuum.importer.name=进去
+continuum.importer.desc=输入总线可以将物品从摆放它的物品缓存中抽出并输入到其所连接的RS系统中。
 
-continuum.external_storage.name=Here and Not Here
-continuum.external_storage.desc=The External Storage connects whatever inventory it is touching to the RS System it is connected to. The contents will not be stored in the RS System - they will stay in the inventory - but you will be able to access them from Grids.
+continuum.external_storage.name=在这里又不在这里
+continuum.external_storage.desc=外部存储总线可以将其所链接的所有物品缓存连接到与其连接的 RS 系统。其内部的物品将不会存储在 RS 系统中——它们将保留在物品缓存内——但你仍然可以从终端访问它们。
 
-continuum.industrial_grinder.name=Grinder II: Electric Boogaloo
-continuum.industrial_grinder.desc=工业磨粉机是一个多方块机器，它可以从矿石中获得更多的材料，但会消耗额外的流体。\n\n工业磨粉机方块在3x3多方块的正前方中心。
+continuum.industrial_grinder.name=II 级磨粉机：机械舞
+continuum.industrial_grinder.desc=工业磨粉机是一种可以从矿石中获得更多的材料多方块机器，但它会额外消耗特定的流体。\n\n工业磨粉机方块位于 3x3 多方块结构的正前方的中央。
 
-continuum.hardened_jetpack.name=Movin' On Up
-continuum.hardened_jetpack.desc=硬化飞行背包有着三倍铅石能量单元的RF容量。它也能稍微飞快一点点。
+continuum.hardened_jetpack.name=继续前进
+continuum.hardened_jetpack.desc=硬化飞行背包有着三倍于铅石飞行背包的 RF 容量。它也能飞得快一点点。
 
 continuum.digital_upgrade.name=嘀嘟
 continuum.digital_upgrade.desc=数字化升级会解锁更多的 EFab 合成。
@@ -404,46 +404,46 @@ continuum.flux_infused_jetplate.name=钢铁侠
 continuum.flux_infused_jetplate.desc=红石充能胸甲是飞行速度最快的的背包并且它是唯一一个能真正悬浮的。它的存储量也是谐振背包的2倍。
 
 continuum.rf_storage.name=更多能量！
-continuum.rf_storage.desc=RF 存储器能储存100,100RF并能每个能为EFab合成提供250RF/t。不过仍然是需要一个一个RF Control与Power Upgrade的。EFab中的的RF Storage不能互相连接，你需要分别为他们供能。\n\n建议使用RF Storages来提升RF输入速率，而不是使用大量RF Control。
+continuum.rf_storage.desc=RF 存储器能储存 100,000RF 并且每个 RF 存储器能令 EFab 使用 250RF/t。但你仍然需要一个 RF 控制器和能量升级。EFab 中的的 RF 存储器不能互相连接，你需要分别为它们提供能量。\n\n建议使用 RF 存储器而不是大量的 RF 控制器来提升 RF/t 的消耗。
 
-continuum.me_dense_cable.name=Cable TV
-continuum.me_dense_cable.desc=ME致密线缆可以传输32个频道，是普通ME线缆的4倍。不过，它们不能连接上总线与面板。\n\n同时也有ME智能致密线缆，可以显示有多少个通道通过它们。
+continuum.me_dense_cable.name=有线电视
+continuum.me_dense_cable.desc=ME 致密包层线缆可以传输 32 个频道，它是普通 ME 线缆的 4 倍。不过，它们不能与总线或面板相连。\n\n而 ME 致密线缆可以显示有多少个频道通过它们。
 
-continuum.inscriber.name=Inscriber
-continuum.inscriber.desc=The Inscriber is where you craft the three Processors.
+continuum.inscriber.name=压印器
+continuum.inscriber.desc=压印器可以合成三种处理器。
 
-continuum.me_drive.name=Digitaler Storage
-continuum.me_drive.desc=Each ME Drive can store up to 10 Storage Cells and takes up a single channel.\n\nStorage Cells can hold up to 63 unique items each, and higher tiers can store more total of those 63 items.
+continuum.me_drive.name=更为数字化的存储
+continuum.me_drive.desc=每个 ME 驱动器最多可以存储 10 个存储元件并占用一个频道。\n\n存储元件最多可容纳 63 种不同的物品，而更高级的存储元件可存储更多的 63 种物品。
 
 continuum.me_16384k_storage_cell.name=4^12
-continuum.me_16384k_storage_cell.desc=The ME 16384k Storage Cell is the highest tier Storage Cell.
+continuum.me_16384k_storage_cell.desc=16384k-ME 存储元件是最高级的存储元件。
 
 continuum.me_terminal.name=Link Start
-continuum.me_terminal.desc=The ME Terminal takes up a channel and allows you to access all the items in your ME System.
+continuum.me_terminal.desc=ME 终端会占用一个频道，并可以让你访问 ME 系统中的所有物品。
 
-continuum.me_crafting_terminal.name=Making Things
-continuum.me_crafting_terminal.desc=The ME Crafting Terminal acts like the regular ME Terminal but includes a 3x3 crafting grid.
+continuum.me_crafting_terminal.name=搞个大新闻
+continuum.me_crafting_terminal.desc=ME 合成终端的功能与普通的 ME 终端相似，但它有一个 3x3 合成格供你使用。
 
-continuum.crystal_growth_accelerator.name=Aqua Pura
-continuum.crystal_growth_accelerator.desc=Certus Quartz, Nether Quartz, and Fluid Seeds can be grown into Pure versions of their respective material by throwing them in water. This takes a long time, but you can speed it up by throwing them into water that is touching Crystal Growth Accelerators that are being powered by an ME system. The more Crystal Growth Accelerators whose sides are touching the water block, the faster the Seeds grow.
+continuum.crystal_growth_accelerator.name=纯净水
+continuum.crystal_growth_accelerator.desc=赛特斯石英、下界石英和福鲁伊克斯种子可以通过投掷到水中使其成长为各自材料的高纯版本。这需要很长时间，但是你可以通过将它们投入与由 ME 系统供电的晶体催生器接触的水中来加快速度。晶体催生器侧面与水方块接触的晶体催生器越多，种子生长越快。
 
-continuum.crystal_growth_chamber.name=Crystal Chamber
-continuum.crystal_growth_chamber.desc=The Crystal Growth Chamber grows Crystal Seeds inside its inventory instead of requiring the Seeds be thrown into water. You can install Acceleration Cards to increase the speed at which Seeds grow.
+continuum.crystal_growth_chamber.name=晶体催生仓
+continuum.crystal_growth_chamber.desc=晶体催生仓可以使在其物品缓存内的水晶种子生长，而不需要将种子投入水中。你可以安装加速卡以提高种子生长的速度。
 
 continuum.energizer.name=再充能
 continuum.energizer.desc=充能站能够用自己的内部的 RF 来为使用 RF 物品充能。
 
-continuum.molecular_assembler.name=Automation Station
-continuum.molecular_assembler.desc=The ME Interface is the most important component of autocrafting, \n\nYou can connect the ME Interface to Molecular Assemblers and insert crafting Patterns, or you can connect them to machines and give insert processing Patterns. If you connect them to machines, don't forget to also add a way to transfer the item back into the ME System.\n\nYou can have up to 6 Molecular Assemblers to a single ME Interface, and you can also insert Acceleration Cards into the Molecular Assemblers to speed them up.\n\nYou can make flat ME Interfaces that connect to only one face but function otherwise identically.\n\nEach ME Interface takes up a channel, though Molecular Assemblers do not.
+continuum.molecular_assembler.name=自动化工作站
+continuum.molecular_assembler.desc=ME 接口是自动化合成中最重要的组成部分。\n\n你可以将 ME 接口与分子装配室相连并将编码样板放入 ME 接口，也可以将 ME 接口与机器相连并将编码样板放入 ME 接口。如果将其连接到机器上，不要忘记也要添加一种方法将该物品传回 ME 系统。\n\n你可以将多达 6 个分子装配室连接到一个 ME 接口，并且你还可以将加速卡插入到分子装配室中来加速它们。\n\n你可以制作平的 ME 接口，它只连接到一个面上，但功能完全相同。\n\n每个 ME 接口都占用一个频道，而分子装配室不占用频道。
 
-continuum.me_interface_terminal.name=Remote Access
-continuum.me_interface_terminal.desc=The ME Interface Terminal allows you to insert Patterns into any ME Interfaces remotely. This Terminal takes up a channel.
+continuum.me_interface_terminal.name=远程访问
+continuum.me_interface_terminal.desc=ME 接口终端可以让你将编码样板插入到任何 ME 接口中。该终端会占用一个频道。
 
-continuum.me_pattern_terminal.name=Writing Recipes
-continuum.me_pattern_terminal.desc=The ME Pattern Terminal allows you to assign patterns to Blank Patterns to use in ME Interfaces. On the far right you can toggle between Crafting Patterns for use with Molecular Assemblers to make regular crafting recipes and Processing Patterns for use in machines (for instance, Iron Ore input to Iron Ingot output on a Furnace). You can also toggle if that recipe can use Ore Dictionary or not.\n\nThe ME Pattern Terminal takes up a channel.
+continuum.me_pattern_terminal.name=书写配方
+continuum.me_pattern_terminal.desc=ME 样板终端可以让你书写空白样板以用于 ME 接口。在最右侧，你可以在使用分子装配室来制作传统合成配方的合成样板与使用机器（例如，将铁矿石输入到熔炉中上并输出铁锭）的处理样板之间进行切换。 如果该配方可以使用矿物辞典（Ore Dictionary），也可以进行切换。\n\nME 样板终端会占用一个频道。
 
 continuum.p2p.name=Pay to Play
-continuum.p2p.desc=P2P Tunnels are very useful because they can essentially teleport information from one end of the Tunnel to the other. This can be used to transfer items and fluids by moving Pipes to and from the Tunnels (if they are of the right type), but they can also be used to transfer ME channels.\n\nPlace one end of the P2P Tunnel at the source (near the Controller if it's channels you are after), and the other P2P Tunnel where you want them to go. You can have as many outputs as you want.\n\nBy default P2P Tunnels only can transfer channels but you can right click certain items on them to transfer other things instead (Hoppers to make Item Tunnels, Buckets for Fluid Tunnels, etc).\n\nTo connect P2P Tunnels, sneak use a Memory Card on the input then use use it on any outputs you want to connect them to.\n\nEach P2P Tunnel takes up a channel.
+continuum.p2p.desc=P2P 通道非常有用，因为它们可以将信息从通道的一端传输到另一端。它可以被用来传输物品和流体通过传输管道输入到通道并从通道输出（如果它们属于正确的类型的话），然而它们也可以用于传输 ME 频道。\n\n将 P2P 通道的一端放在源头处（如果它是频道类型的则需要靠近控制器），另一端放在你希望它们输出的地方。你可以拥有任意数量的输出端。\n\n默认情况下，P2P 通道只能传输频道，但你可以用特定物品右击它们来使其能传送其他物品（漏斗使其切换为物品通道，桶使其切换为流体通道等）。\n\n要连接 P2P 通道，潜行状态下在输入端上使用内存卡，然后在要连接的任意输出端上右键使用它。\n\n每个 P2P 通道会占用一个频道。
 
 continuum.holoprojector.name=我该如何建造东西？
 continuum.holoprojector.desc=全息投影器能让你简单精确地看到如何搭建高级火箭的多方块结构。潜行时右键开启 GUI 来选择你想搭建的多方块结构，然后右击地上以放下全息投影指南。潜行时滚动中键可改变指南的层数。\n\n在 GUI 中按住鼠标左键并拖动可以滚动页面。
@@ -485,7 +485,7 @@ continuum.moon.name=带我飞向月球
 continuum.moon.desc=月球（Luna）是地球唯一的卫星，它称得上是一个贫瘠的荒地。它的表面由月面土组成，往下数格则会有石头及正常的矿物生成。\n\n经过足够的探索后，或许你能发现阿波罗 11 号的登陆地点！
 
 continuum.space_station.name=太空基地
-continuum.space_station.desc=现在的你已经有方法前往太空，可以开始建造一个太空站了。建造另一个由发射台组成的平台，在其上方盖上你想往太空发射的建筑。它不会像火箭那样发射升空，而是会被以物品的形式储存及将在稍后建造。\n\n当你觉得你的太空站已天衣无缝（之后当它在轨道上时你也可以对其进行改建），像火箭组装机一样，放置一个太空站组装机。在里面放置一个卫星仓和一个未编写的空间站 id 芯片，然后点击“扫描”按钮。如果太空站被正确地建造，你将可“建造”太空站，所有方块会被移除并存储在太空站组装机中空间站容器里面，且新的太空站会被编写进空间站 id 芯片。\n\n非常建议你在卫星建造机中复制一份空间站 id 芯片。你需将已编写的芯片放置于中心上方的槽位，然后把未编写的芯片放于其右边的槽位，然后点击“写入辅助芯片”按钮，以将第一个芯片的资料编写进第二个芯片。将第二个芯片存起来以防止无法航行至太空站的情况发生。\n\n在你的火箭上放置另外一个卫星仓，并在里面放入空间站容器，然后将已编写的空间站id芯片放入导航电脑。你可以坐在火箭上发射到轨道上，火箭将会降落在你所造太空站的上方。 拥有已编写空间站id芯片的火箭只会在太空站和其所处星球中航行。
+continuum.space_station.desc=现在的你已经有方法前往太空，可以开始建造一个太空站了。建造另一个由发射台组成的平台，在其上方盖上你想往太空发射的建筑。它不会像火箭那样发射升空，而是会被以物品的形式储存及将在稍后建造。\n\n当你觉得你的太空站已天衣无缝（之后当它在轨道上时你也可以对其进行改建），像火箭组装机一样，放置一个太空站组装机。在里面放置一个卫星仓和一个未编写的空间站 id 芯片，然后点击“扫描”按钮。如果太空站被正确地建造，你将可“建造”太空站，所有方块会被移除并存储在太空站组装机中空间站容器里面，且新的太空站会被编写进空间站 id 芯片。\n\n非常建议你在卫星建造机中复制一份空间站 id 芯片。你需将已编写的芯片放置于中心上方的槽位，然后把未编写的芯片放于其右边的槽位，然后点击“写入辅助芯片”按钮，以将第一个芯片的资料编写进第二个芯片。将第二个芯片存起来以防止无法航行至太空站的情况发生。\n\n在你的火箭上放置另外一个卫星仓，并在里面放入空间站容器，然后将已编写的空间站 id 芯片放入导航电脑。你可以坐在火箭上发射到轨道上，火箭将会降落在你所造太空站的上方。 拥有已编写空间站 id 芯片的火箭只会在太空站和其所处星球中航行。
 
 continuum.co2_scrubber.name=令人窒息的操作
 continuum.co2_scrubber.desc=你注意到了吗，太空上没有空气。你需要穿上你的太空服，但也会随时用光氧气。你可以使用二氧化碳净化器和氧气排放口令你的太空站中充满可呼吸的空气。\n\n将二氧化碳净化器放于氧气排放口的两旁，在里面各放入碳收集器，然后为氧气排放口提供 RF。给予氧气排放口红石信号（也可修改红石模式），然后空气就可以被你所呼吸。碳收集器会有耐久损耗但是最少也能维持越 24 小时（现实时间）。\n\n或许你会想造一个小型气闸舱，建造一个有两扇小气密门的房间，使得在同一时间只会有一扇门会开始，一扇门在太空站里面，而另一扇门则正对着真空。
@@ -509,7 +509,7 @@ continuum.warp.name=以超高速准备飞船
 continuum.warp.desc=若想到达其他星球或行星系统，你需要通过跃迁核心与跃迁控制器将你的太空站变成一艘星舰。\n\n首先建造一个跃迁核心并在输入口输入双锂，然后放置跃迁控制器。在跃迁控制器中你可以选择你想到达的星球或行星系统。距离越远的跃迁消耗越多的双锂。\n\n跃迁时的方向取决于跃迁控制器的方向。若你将跃迁控制器放于某一侧，你的星舰就会该方向航行。\n\n星球需要被发现后你才能跃迁到该星球。你最少需要每种数据各100单位才能扫描星球，而你只有 1/2 的几率会成功扫描。扫描时，你可以在跃迁控制器中放入一个未编写的星球 id 芯片，它会编入你所成功发现的星球。你可将其拿走并存起来。若你想分享已编写的星球id芯片，你可以将其放进跃迁控制器中，然后点击“来自芯片的程序”按钮以在无需搜索的情况下发现星球。你所发现的星球会在你所有未发现且有效的星球中随机选取。\n\n你需在跃迁控制器中放入“工件”以传输到某些特定星球。你可以在“行星追踪”页面中放入工件。
 
 continuum.satellite.name=数据分析
-continuum.satellite.desc=在卫星建造机下方放上能量输入口为其供能。\n\n所有卫星都需要一个卫星 id 芯片及太阳能板，基础或大型皆可。卫星有几种不同的种类。有些收集数据，有些产生能量，有些则有其他的效用。\n\n你可以收集三种数据：光学、成分和质量。\n\n将空机箱的卫星放入卫星建造机 GUI 中左上方的槽位，卫星 id 芯片放于往右一格的槽位，然后在 IO 槽位中放上数据存储单位，在其上方的槽位放上太阳能板或电池。\n\n想决定卫星的类型，你需将该类型相应的物品放入右上方的槽位。光学传感器会收集关于距离的数据，成分传感器会收集关于星球成分的数据，而质量检测器则会收集关于星球质量的数据。一个卫星只能安装其中一种。\n\n从卫星建造机里拿走已完成的卫星及已编写的卫星 id 芯片，将卫星放到火箭的卫星仓里，在下次火箭发射后，卫星就会被放到轨道上。\n\n你可以通过将已编写的id芯片放到卫星建造机的上方中央槽位，再把未编写的 id 芯片放于其右面的槽位，点击“写入辅助芯片”以复制任意已编写的 id 芯片。\n\n将已编写的卫星id芯片放入卫星终端右上角的插槽以无线连接卫星，显示已收集的数据数量。你可以点击“连接”按钮，放入数据存储单元后点击往下指的箭头便可将收集到的数据取出。
+continuum.satellite.desc=在卫星建造机下方放上能量输入口为其供能。\n\n所有卫星都需要一个卫星 id 芯片及太阳能板，基础或大型皆可。卫星有几种不同的种类。有些收集数据，有些产生能量，有些则有其他的效用。\n\n你可以收集三种数据：光学、成分和质量。\n\n将空机箱的卫星放入卫星建造机 GUI 中左上方的槽位，卫星 id 芯片放于往右一格的槽位，然后在 IO 槽位中放上数据存储单位，在其上方的槽位放上太阳能板或电池。\n\n想决定卫星的类型，你需将该类型相应的物品放入右上方的槽位。光学传感器会收集关于距离的数据，成分传感器会收集关于星球成分的数据，而质量检测器则会收集关于星球质量的数据。一个卫星只能安装其中一种。\n\n从卫星建造机里拿走已完成的卫星及已编写的卫星 id 芯片，将卫星放到火箭的卫星仓里，在下次火箭发射后，卫星就会被放到轨道上。\n\n你可以通过将已编写的 id 芯片放到卫星建造机的上方中央槽位，再把未编写的 id 芯片放于其右面的槽位，点击“写入辅助芯片”以复制任意已编写的 id 芯片。\n\n将已编写的卫星 id 芯片放入卫星终端右上角的槽位以无线连接卫星，显示已收集的数据数量。你可以点击“连接”按钮，放入数据存储单元后点击往下指的箭头便可将收集到的数据取出。
 
 continuum.astrobody_data_process.name=天体
 continuum.astrobody_data_process.desc=天体数据处理器允许你将收集到的数据创造一个小行星 id 芯片以执行小行星采掘任务。
@@ -524,16 +524,16 @@ continuum.asteroid_mining.name=刺破天堂
 continuum.asteroid_mining.desc=现在你的小行星 id 芯片已被注满数据，我们可以开始执行小行星采掘任务了。这需要一艘特殊的火箭。\n\n这个火箭需要有一般火箭的结构外。还需要在任意处有箱子和钻头。安装越多钻头使得采掘任务越快。\n\n在导航电脑里放入卫星 id 芯片然后使用火箭监测站发射火箭（请勿坐上火箭），它就会开始执行任务。在火箭监测站中你可以看到任务执行的进度。一旦完成工作，火箭会回到发射台上准备好下一次的任务。\n\n使用火箭卸载器连接火箭后可以自动抽取火箭内的物品。
 
 continuum.common_planet.name=普通矿物星球
-continuum.common_planet.desc=这个星球位于 Resources 星系。在此星球中有煤、铁、金、铜、锡、银、铅、铝及铝土矿石。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
+continuum.common_planet.desc=这个星球位于 Resources 星系。在此星球中有煤、铁、金、铜、锡、银、铅、铝及铝土矿石。这里的矿物比地球更为常见。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
-continuum.dustsngems.name=蒙尘宝石星
-continuum.dustsngems.desc=这个星球位于 Resources 星系。在此星球中有焦黑石英、红石、绿宝石、钻石、青金石、赛特斯石英、红宝石、蓝宝石、磷灰石及橄榄石矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
+continuum.dustsngems.name=覆雪宝石星
+continuum.dustsngems.desc=这个星球位于 Resources 星系。在此星球中有焦黑石英、红石、绿宝石、钻石、青金石、赛特斯石英、红宝石、蓝宝石、磷灰石及橄榄石矿。这里的矿物比地球更为常见。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
 continuum.precious_planet.name=珍宝星
-continuum.precious_planet.desc=这个星球位于 Resources 星系。在此星球中有铀、钛、镍、铂、铱及方钠石矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
+continuum.precious_planet.desc=这个星球位于 Resources 星系。在此星球中有铀、钛、镍、铂、铱及方钠石矿。这里的矿物比地球更为常见。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
 continuum.hellish.name=炼狱星
-continuum.hellish.desc=这个星球位于 Resources 星系。在此星球中有黄铁、朱砂、闪锌、石英、阿迪特及钴矿。这里的矿物比地球更为常见。\n\n要到达此星球，需先在跃迁控制器工件插槽中放上右边所示的物品，每种各一。
+continuum.hellish.desc=这个星球位于 Resources 星系。在此星球中有黄铁、朱砂、闪锌、石英、阿迪特及钴矿。这里的矿物比地球更为常见。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
 continuum.gravity_machine.name=你变蓝了!
 continuum.gravity_machine.desc=重力控制器是一个允许你在选定区域改变重力大小与方向的多方块结构。\n\在 GUI 的底部，你可以设置受影响的范围和重力。地球上正常的引力是"1.00/100"。\n\n在 GUI 的右边你可以设置重力开始运行的方向、增加重力或是设定重力。如在地球上你"添加"一个 .50/50 的向上的力，重力则会减半因为向上增加了一个强度为地球百分之五十的重力。若你“设置”一个 2.00/200 的向下的力，相同的情况将会发生。
@@ -548,16 +548,16 @@ continuum.dark_matter_furnace.name=宇宙热寂理论
 continuum.dark_matter_furnace.desc=暗物质熔炉能用 EMC 作为燃料（通常燃料亦可）。它能同时烧制两个物品，并且有几率双倍产出矿物。同时暗物质熔炉使用燃料的效率也会更高。
 
 continuum.energy_collector_mk1.name=光能量
-continuum.energy_collector_mk1.desc=能量收集器 MK1 能被动收集 EMC。光亮等级越高，EMC 就收集得越快，最快 4EMC/秒。\n\n你可以在底部的格子里放入卡莱恩之星，能量收集器会直接把 EMC 存入其内部储存。
+continuum.energy_collector_mk1.desc=能量收集器 MK1 能被动收集 EMC。光亮等级越高，EMC 就收集得越快，最快 4EMC/s。\n\n你可以在底部的格子里放入卡莱恩之星，能量收集器会直接把 EMC 存入其内部储存。
 
 continuum.energy_collector_mk2.name=更强的光能量
-continuum.energy_collector_mk2.desc=能量收集器 MK2 能以最快 12EMC/秒 的速度收集 EMC。
+continuum.energy_collector_mk2.desc=能量收集器 MK2 能以最快 12EMC/s 的速度收集 EMC。
 
 continuum.relay_mk1.name=EMC 传输
-continuum.relay_mk1.desc=反物质继电器 MK1 可以操纵 EMC。你可以反物质在继电器中直接燃烧物品，将其含有的 EMC 传输到继电器里的卡莱恩之星中。你也可以将反物质继电器贴着能量收集器摆放，反物质继电器会以 1EMC/秒 的速度抽入 EMC。\n\n反物质继电器传输 EMC 的最高速度 64EMC/秒。
+continuum.relay_mk1.desc=反物质继电器 MK1 可以操纵 EMC。你可以反物质在继电器中直接燃烧物品，将其含有的 EMC 传输到继电器里的卡莱恩之星中。你也可以将反物质继电器贴着能量收集器摆放，反物质继电器会以 1EMC/s 的速度抽入 EMC。\n\n反物质继电器传输 EMC 的最高速度 64EMC/秒。
 
 continuum.relay_mk2.name=EMC 传输 MK2
-continuum.relay_mk2.desc=反物质继电器 MK2 传输速率可达 192EMC/秒。
+continuum.relay_mk2.desc=反物质继电器 MK2 传输速率可达 192EMC/s。
 
 continuum.klein_star_1.name=4^0
 continuum.klein_star_1.desc=卡莱恩之星相当于储存 EMC 的电池。卡莱恩之星可在能量收集器或反物质继电器中装填 EMC，之后可在暗/红物质熔炉或其他反物质继电器中放空。\n\n将四个同等级卡莱恩之星合成，能得到可储存四倍 EMC 的更高级卡莱恩之星。第一级卡莱恩之星仅能储存 50000EMC。
@@ -581,10 +581,10 @@ continuum.dark_matter_pedestal.name=功能性展示
 continuum.dark_matter_pedestal.desc=暗物质台座为你提供了优秀的方式来展示物品，同时它能给特定的 ProjectE 物品带来额外的功能。在这些特定物品的提示文本里你能看到上文提到的额外功能。
 
 continuum.energy_collector_mk3.name=最强的光能量
-continuum.energy_collector_mk3.desc=能量收集器 MK3 可以最高 40EMC/秒 的速率生成 EMC。
+continuum.energy_collector_mk3.desc=能量收集器 MK3 可以最高 40EMC/s 的速率生成 EMC。
 
 continuum.relay_mk3.name=EMC 传输 MK3
-continuum.relay_mk3.desc=反物质继电器 MK3 能以最高 640EMC/秒 的速率传输 EMC。
+continuum.relay_mk3.desc=反物质继电器 MK3 能以最高 640EMC/s 的速率传输 EMC。
 
 continuum.mercurial_eye.name=就在那里，这个，变成那个
 continuum.mercurial_eye.desc=墨丘利之眼是一个强大的建筑工具。使用它你可以筑起高墙或替换方块。\n\n首先，按下“其他功能”键打开墨丘利之眼的 GUI，放入一个卡莱恩之星并设置你想要制造/转化的的方块。\n\n按下“转换模式”键切换到普通模式或转化模式。普通模式下，墨丘利之眼将会放置一面墙，并消耗制造所有方块所需的 EMC。在转化模式下，墨丘利之眼会将你点击的方块替换成之前设置的方块。\n\n影响范围（会改变墙的大小和替换方块的范围）可通过按下“充能”键扩大，按住 shift 时再按键可令其放能使影响范围缩小。
@@ -602,7 +602,7 @@ continuum.condenser_mk2.name=MK Ultra
 continuum.condenser_mk2.desc=能量凝聚器 MK2 是能量凝聚器 MK1 的升级版。除了工作速度快得多之外，MK2 的输入和输出栏是分开的，这样一来你提取产物时就不需要加过滤了。
 
 continuum.creative_modifier.name=请尽情强化
-continuum.creative_modifier.desc=创造模式强化槽，当被作为升级打在任意 Tinkers' Construct 的工具上时，会解锁该工具的一个强化槽。这个操作能进行的次数并没有限制。\n\n当然的，这不会消耗强化槽。
+continuum.creative_modifier.desc=创造模式强化槽，当被作为升级打在任意匠魂（Tinkers' Construct）的工具上时，会解锁该工具的一个强化槽。这个操作能进行的次数并没有限制。\n\n当然的，这不会消耗强化槽。
 
 continuum.creative_watering_can.name=创造模式浇灌
 continuum.creative_watering_can.desc=洒水壶（创造）加速作物生长时的耗水量基本为零。
@@ -614,7 +614,7 @@ continuum.creative_mill.name=免费 GP
 continuum.creative_mill.desc=每个创造模式发电机可提供 1,000GP，并且没有损耗。只要你够富，想做多少做多少。
 
 continuum.creative_energy.name=「终靈全·End∞神典·寰宇聚能」
-continuum.creative_energy.desc=创造模式能量源能创造无限量的 RF。
+continuum.creative_energy.desc=创造模式能量源能产生无限量的 RF。
 
 continuum.creative_drum.name=单方块里的海洋
 continuum.creative_drum.desc=创造筒存储了无限量的选定液体。用想要的液体右击创造筒来设置选定液体。将创造筒放入合成格可进行重置。
@@ -623,40 +623,40 @@ continuum.advanced_tank.name=节省空间
 continuum.advanced_tank.desc=高级储罐能够容纳 64 桶流体，是普通储罐的 4 倍。
 
 continuum.pipe.name=SCP-015
-continuum.pipe.desc=Pipes can be used to decrease the time it takes for a fluid crafting recipe to complete.\n\nThe EFab takes the highest time decrease available; If there are 4 Gear Boxes and no Pipes on a fluid + Gear Box recipe, it will run at max speed.
+continuum.pipe.desc=管道可以用来减少用到流体的合成配方完成所需的时间。\n\nEFab 有其可以达到最短时间的极限；如果制作需要流体+齿轮箱的配方的 EFab 中有 4 个齿轮箱且没有管道，它将以最大速度运行。
 
-continuum.recycler.name=Reduce, Reuse, Recycler
-continuum.recycler.desc=回收机能将你放入的任何物品转换为废料。每个物品有1/6的几率变成废料\n\n你可以用9个废料来制作一个打开时会变成随机物品的废料盒。
+continuum.recycler.name=减少、再利用、再循环机
+continuum.recycler.desc=回收机能将你放入的任何物品转换为废料。每个物品有 1/6 的几率变成废料。\n\n你可以用 9 个废料来制作一个打开时会变成随机物品的废料盒。
 
-continuum.matter_fabricator.name=Nothing's the Matter, Now That I Have the Matter Fabricator!
-continuum.matter_fabricator.desc=The Matter Fabricator creates UU Matter, which can be used to craft many items. The Matter Fabricator uses a large amount of RF, but also requires Scrap to run.
+continuum.matter_fabricator.name=没关系，现在我有了物质机！
+continuum.matter_fabricator.desc=物质机可以产生 UU 物质，它可用于制作多种物品。物质机会使用大量 RF，同时也需要废料运行。
 
-continuum.security_station.name=Firewall
-continuum.security_station.desc=The ME Security Terminal allows you to decide who can use your ME System and what they can do with it.\n\nYou can insert a Biometric Card to set the permissions of the player it is set to (use it on a player to set it to them). If unprogrammed, the settings become the new default for players that aren't a part of the ME System. \n\nArguably more important, the ME Security Terminal also allows you to link a Wireless Terminal to your ME System.
+continuum.security_station.name=防火墙
+continuum.security_station.desc=ME 安全终端可以让你决定谁可以使用你的 ME 系统以及他们可以用 ME 系统做什么。\n\n你可以插入一张身份卡来设置它所绑定的玩家的权限（对着玩家使用以将其绑定）。如果尚未编辑，则默认设置玩家不属于 ME 系统的一部分。\n\n而更重要的是，ME 安全终端还可以让你将无线终端连接到你的 ME 系统。
 
-continuum.wireless_terminal.name=WiFi Enabled
-continuum.wireless_terminal.desc=The Wireless Terminal allows you to open the contents of your ME System from anywhere in range of an ME Wireless Access Point connected to it. \n\nInsert the Wireless Terminal in the top right slot of the ME Security Terminal to program it to that ME System.\n\nPlace an ME Wireless Access Point on any ME Cables in the system to be able to use the Wireless Terminal. You can insert Wireless Boosters into the ME Wireless Access Point to increase its range.\n\nYou can have as many ME Wireless Access Points as you want within an ME System.
+continuum.wireless_terminal.name=WiFi 已开放
+continuum.wireless_terminal.desc=无线终端可以让你在与其连接的 ME 无线访问点范围内的任何地方打开 ME 系统的内容。\n\n将无线终端放入 ME 安全终端的右上角的槽位以将其绑定到该 ME 系统上。\n\n将 ME 无线访问点放置在系统中任意的 ME 线缆上，以便能够使用无线终端。你可以将无线信号增幅器插入 ME 无线访问点中以增加其范围。\n\n你可以在一个 ME 系统中放置任意数量的 ME 无线访问点。
 
-continuum.wireless_crafting_terminal.name=WCT, Easy As 123
-continuum.wireless_crafting_terminal.desc=The Wireless Crafting Terminal acts like the Wireless Terminal does, but it also has a 3x3 crafting GUI, visible armor slots, and a Trash slot.\n\nYou can also a Magnet Card, which will allow you to automatically insert certain items into your ME System instead of your inventory when picking them up. \n\nThe Wireless Crafting Terminal can be worn as a bauble in the head slot and opened with a keybind as well.
+continuum.wireless_crafting_terminal.name=无线合成终端，如 123 那样简单
+continuum.wireless_crafting_terminal.desc=无线合成终端的功能与无线终端相似，但它有一个 3x3 合成格、可视的装备栏以及一个垃圾桶供你使用。\n\n你也可以使用磁卡，它可以让你在拾取物品时自动将物品输入到 ME 系统中，而不是物品栏里。\n\n无线合成终端可以作为头部饰品，你也可以用快捷键打开。
 
-continuum.me_fluid_terminal.name=Waterproof
-continuum.me_fluid_terminal.desc=The ME Fluid Terminal allows you to access any fluids in your ME System, which are stored in ME Fluid Storage Cells and inserted into any ME Drives.
+continuum.me_fluid_terminal.name=防水材料
+continuum.me_fluid_terminal.desc=ME 流体终端可以让你访问 ME 系统中的任意流体，这些流体会被存储在 ME 流体存储元件中并且 ME 流体存储元件可以被插入到任意 ME 驱动器中。
 
-continuum.wireless_universal_table.name=All In One
-continuum.wireless_universal_table.desc=The Wireless Universal Table can be used as both a Wireless Crafting Terminal and a Wireless Fluid Terminal. Sneak right click on the Wireless Universal Table to toggle between the two.\n\nThe Wireless Universal Tabel cannot be charged in an Energizer; you must use an AE2 Charger or a TE Energetic Infuser to charge it.
+continuum.wireless_universal_table.name=多位一体
+continuum.wireless_universal_table.desc=无线通用终端既可用作无线合成终端又可用作无线流体终端。潜行状态下手持无线通用终端点击鼠标右键以在两者之间切换。\n\n无线通用终端不能在充能站中充电；你必须使用 AE2 的充能器或 TE 的能量灌注机充电。
 
-continuum.quantum_network_bridge.name=Quantum Leap
-continuum.quantum_network_bridge.desc=The ME Quantum Network Bridge is a multiblock machine that works in pairs and allows you to connect to your ME System across dimensions and long distances.\n\nFirst you need a set of Quantum Entangled Singularities. These are created by throwing a Singularity and an Ender Dust on the ground and exploding it. This will turn them into 2 Quantum Entangled Singularities. It is recommended to rename these so you don't confuse where they go.\n\nYou need a Quantum Network Bridge at the main ME System and another at the place you want to access it. The multiblock is formed by creating a hollow 3x3 of ME Quantum Rings with an ME Quantum Link Chamber in the center. Insert each of the paired Quantum Entangled Singularities to connect the two.\n\nThe Quantum Network Bridge at your main base gets powered by the Controller there. To power the Quantum Network Bridge at the other end, it is recommended to connect a Controller using Quartz Fiber, which transfer power but not storage data. That way, the second Controller won't be part of the ME System and so won't disable the Controller at your base, but will provide power. The Energy Acceptor does not convert power quickly enough to power the Quantum Network Bridge on it's own.
+continuum.quantum_network_bridge.name=量子跃迁
+continuum.quantum_network_bridge.desc=ME 量子网络桥是一种成对工作的多方块机器，它可以让你跨越维度和长距离的限制将 ME 系统进行连接。\n\n首先你需要一对量子缠绕态奇点。需要通过扔在地面上一个奇点和一个末影珍珠粉并将其爆炸来制作。这将使它们变成 2 个量子缠绕态奇点。建议重新命名它们，以免混淆他们的位置。\n\n你需要在主 ME 系统上有一个量子网络桥，而在你想要访问的地方需要有另一个。多方块结构是通过搭建一个 3x3 的空心 ME 量子环并在中间放置一个 ME 量子链接仓来形成的。插入一个配对的量子缠绕态奇点以连接两者。\n\n主系统的量子网络桥由控制器供电。为了给另一端的量子网络桥供电，建议使用石英纤维与控制器相连，石英光纤只会传输能量而不会传输存储数据。这样，第二个控制器将不会成为 ME 系统的一部分，因此不会禁用你的主系统的控制器，但能够提供能量。 能源接收器不能快速转换能量，因此无法为量子网络桥本身提供能量。
 
-continuum.matter_condenser.name=Squeezer 2.0
-continuum.matter_condenser.desc=The Matter Condensor allows you to turn massive amounts of items into Singularities and Matter Balls.\n\nPlace an ME Storage Component in the top slot (64k if you're trying to make Singularities) then hit the button to the right to swap between destroying items, creating Matter Balls, and creating Singularities. Place the items you wish to convert in the left slot, and the output will appear in the right slot.
+continuum.matter_condenser.name=挤压机 2.0
+continuum.matter_condenser.desc=物质聚合器可以让你将大量物品转化为奇点和物质球。\n\n将 ME 存储组件放置在顶部的槽位（如果你想要制作奇点时需要 64k 的），然后点击右边的按钮以在销毁物品、聚合物质球和聚合奇点之间进行切换。将想要转换的物品放在左侧的槽位中，输出的物品将出现在右侧的槽位中。
 
-continuum.infinity_booster_card.name=Base on the Go
-continuum.infinity_booster_card.desc=The Infinity Booster allows you to use your Wireless Crafting Table from anywhere in any dimension, as well as increasing the amount of RF that can be stored inside it. Simply insert the Infinity Boosters into their slot in the Wireless Crafting Table (under the crafting grid) for it to be put into effect.
+continuum.infinity_booster_card.name=基于 Go
+continuum.infinity_booster_card.desc=无限增幅卡可以让你在任何维度的任何地方使用无线合成终端，并可以增加可存储在其内部的 RF 的量。只需将无限增幅卡插入无线合成终端的槽位（在合成格下）中即可使其生效。
 
-continuum.slimesling.name=Parabolic
-continuum.slimesling.desc=The Slimesling sends you flinging through the air. Hold it down on a block to charge it and let go to go flying in the opposite direction. You must be on the ground and looking at a block for it to work.\n\nThe EFab crafting process takes 30 minutes, so it is highly recommended to have multiple Gear Boxes to reduce that time.
+continuum.slimesling.name=抛物线
+continuum.slimesling.desc=史莱姆弹弓可以把你投掷到空中。对准一个方块按住以蓄力，然后松开手，你就会朝相反的方向飞行。你必须站在地上并且看着方块它才能工作。
 
 continuum.ghast_trophy.name=最强排球大师
 continuum.ghast_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放恶魂音效。
@@ -709,7 +709,7 @@ continuum.wolf_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战�
 continuum.villager_golem_trophy.name=蔷薇的花苞
 continuum.villager_golem_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。
 
-continuum.magma_cube_trophy.name=Hellslime地狱史莱姆
+continuum.magma_cube_trophy.name=地狱史莱姆
 continuum.magma_cube_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。
 
 continuum.wither_skeleton_trophy.name=长长的拉里
@@ -767,7 +767,7 @@ continuum.creeper_trophy.name=你得到了一个很“屌”的奖杯…各种�
 continuum.creeper_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品制造爆炸效果和音效，然而并不会造成任何伤害。、
 
 continuum.compressed_cobblestone.name=176,319,369,216
-continuum.compressed_cobblestone.desc=每个八重压缩圆石包含了 43,046,721 个圆石，重量约为 2,300kg ，也就是差不多 2.5吨 。\n\n完成这个任务需要64组八重压缩圆石。
+continuum.compressed_cobblestone.desc=每个八重压缩圆石包含了 43,046,721 个圆石，重量约为 2,300kg ，也就是差不多 2.5吨 。\n\n完成这个任务需要 64 组八重压缩圆石。
 
 continuum.oss.name=HMS OSS
 continuum.oss.desc=OSS（The Object Submission Station），即物品提交站，允许你自动化完成提交任务。将 OSS 摆放出来，使用上面的箭头按钮选择任务，下面的箭头按钮选择要提交的项目，选好后按下确认标记按钮进行锁定。按下 X 按钮断开 OSS 和当前项目的链接，随后可更换目标项目。\n\n你可以在 OSS 上使用管道及其他自动化设备。
@@ -775,7 +775,7 @@ continuum.oss.desc=OSS（The Object Submission Station），即物品提交站�
 continuum.lava.name=热门玩意
 continuum.lava.desc=这个任务要求提交 131,072 桶熔岩，相当于两个满的恶魔筒那么多。
 
-continuum.water.name=Revelation 21:6
+continuum.water.name=启示录 21:6
 continuum.water.desc=这个任务要求提交 131,072 桶水，相当于两个满的恶魔筒这么多。
 
 continuum.pyrotheum.name=熊熊燃烧的爱
@@ -794,7 +794,7 @@ continuum.redstone.name=红石海洋
 continuum.redstone.desc=这个任务要求提交 131,072 桶不稳定熔融红石，相当于两个满的恶魔筒或者 1,310,720 个红石。
 
 continuum.ender.name=极致末影
-continuum.ender.desc=这个任务要求提交 131,072 桶谐振末影珍珠，相当于两个满的恶魔筒或者 524288 个末影珍珠。
+continuum.ender.desc=这个任务要求提交 131,072 桶谐振末影珍珠，相当于两个满的恶魔筒或者 524,288 个末影珍珠。
 
 continuum.refined_fuel.name=精炼燃料
 continuum.refined_fuel.desc=这个任务要求提交 131,072 桶精炼燃料，相当于两个满的恶魔筒这么多。
@@ -811,89 +811,89 @@ continuum.ender_dragon.desc=将四个末影水晶放在末地传送门的基岩�
 continuum.shape_card.name=世界坑
 continuum.shape_card.desc=使用采掘卡能通过 RFtools 建造机来挖掘方块。手持卡右键建造机然后选定两个顶点然后挖掘。提供 RF 后，建造机会把挖到的方块方块它上方的储存设备中。\n\n你可以将卡升级为精准采集或时运卡。默认配置下，泥土会替代被挖掉的方块放在原来的位置。如果升级为清空卡，该位置的方块就会被整个移除。清空采掘卡也可以拥有时运或精准采集效果。
 
-continuum.eye_of_storm.name=Eye of the Storm
-continuum.eye_of_storm.desc=This planet has no special ores, but is the only source of Charcoal Logs in the known universe. It's also a good source of Lava.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.eye_of_storm.name=风暴之眼
+continuum.eye_of_storm.desc=这个星球没有特殊的矿石，但它是已知宇宙中碳化树的唯一来源。它也是熔岩的一个很好的来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
-continuum.fusionarium.name=Fusionarium
-continuum.fusionarium.desc=This planet is in the Resources system. It is a gas giant that has Tritrium, Deuterium, and Heliumplasma.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.
+continuum.fusionarium.name=聚变物质
+continuum.fusionarium.desc=这个星球位于 Resources 星系。在此气态巨行星中有氚、氘和等离子氦。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
-continuum.gas_collection.name=Gassy
+continuum.gas_collection.name=气态
 continuum.gas_collection.desc=Gas giants cannot be landed on as they have no land to do so on. Instead, you can send out gas collection missions to collect certain gasses from their atmospheres. \n\nGas collection rockets should be built on the Space Station, as that's where they launch from and return to. Build a room or wing for it and place down an Unmanned Vehicle Assembler. On the left and right sides of it, place down Structure Towers to decide how wide you want it to be, and on the top place more to decide how tall it should be. From the top go forward (to behind the UVA) to decide how long the rocket should be. There should be nothing underneath, the rocket needs to have full access to hard vacuum.\n\nInside the area defined by the Structure Towers you can build the rocket. These rockets will be horizontal, not vertical. For gas collection rockets, make sure to include plenty of Pressurized Tanks and some Gas Intakes on as well. Place the Engines on the back of the rocket, and in the UVA you can scan and then build the rocket. Make sure it isn't pointed at the station itself - it might get stuck if it is!\n\nLink a Fuelling Station to the UVA to fuel the rocket, and link a Rocket Monitoring Station so you will be able to see how much time left until the rocket returns from its mission. Sneak right click on the built rocket and in the bottom right corner you can choose which gas to collect. If you aren't orbitting a gas giant there will be nothing to collect, so there's no purpose in sending one out there.\n\nOnce you've chosen the gas you want to collect, go to the Rocket Monitoring Station and click the launch button! The rocket will begin to lower out of the station before launching, flying off into the distance.\n\nOnce the gas collection mission is completed the rocket will return to the space station, no matter if you've moved away from the planet you deployed from. You can automatically extract the collected gases via a Rocket Fluid Unloader that's linked to the rocket or the UVA.
 
-continuum.litherite.name=Litherite
-continuum.litherite.desc=This planet is in the ETech system. It is the only source of Litherite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Structure Panels.
+continuum.litherite.name=莱泽尔石
+continuum.litherite.desc=这个星球位于 ETch 星系。它是已知宇宙中莱泽尔石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组结构镶板。
 
-continuum.erodium.name=Erodium
-continuum.erodium.desc=This planet is in the ETech system. It is the only source of Erodium in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Litherite.
+continuum.erodium.name=艾洛蒂石
+continuum.erodium.desc=这个星球位于 ETch 星系。它是已知宇宙中艾洛蒂石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组莱泽尔石。
 
-continuum.kyronite.name=Kyronite
-continuum.kyronite.desc=This planet is in the ETech system. It is the only source of Kyronite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Erodium.
+continuum.kyronite.name=凯罗尼石
+continuum.kyronite.desc=这个星球位于 ETch 星系。它是已知宇宙中凯罗尼石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组艾洛蒂石。
 
-continuum.pladium.name=Pladium
-continuum.pladium.desc=This planet is in the ETech system. It is the only source of Litherite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Kyronite.
+continuum.pladium.name=普雷蒂石
+continuum.pladium.desc=这个星球位于 ETch 星系。它是已知宇宙中普雷蒂石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组凯罗尼石。
 
-continuum.ionite.name=Ionite
-continuum.ionite.desc=This planet is in the ETech system. It is the only source of Ionite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Pladium.
+continuum.ionite.name=艾恩尼石
+continuum.ionite.desc=这个星球位于 ETch 星系。它是已知宇宙中艾恩尼石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组普雷蒂石。
 
-continuum.aethium.name=Aethium
-continuum.aethium.desc=This planet is in the ETech system. It is the only source of Litherite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Ionite.
+continuum.aethium.name=以太石
+continuum.aethium.desc=这个星球位于 ETch 星系。它是已知宇宙中以太石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组艾恩尼石。
 
-continuum.lonsdaleite.name=Lonsdaleite
-continuum.lonsdaleite.desc=This planet is in the ETech system. It is the only source of Litherite in the known universe.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with a stack of Aethium
+continuum.lonsdaleite.name=蓝丝黛尔石
+continuum.lonsdaleite.desc=这个星球位于 ETch 星系。它是已知宇宙中蓝丝黛尔石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组以太石。
 
 continuum.opinium.name=真知灼见
-continuum.opinium.desc=这个任务要求 2048 个 Opinium 核心。重生的末影龙被击杀后会掉落龙鳞，你可以将龙鳞与鞘翅合成来进行翅鞘的复制，原本的鞘翅会保留，同时得到一个新的翅鞘。
+continuum.opinium.desc=这个任务要求 2048 个 Opinium 核心（简直完美的）。重生的末影龙被击杀后会掉落龙鳞，你可以将龙鳞与鞘翅合成来进行翅鞘的复制，原本的鞘翅会保留，同时得到一个新的翅鞘。
 
-continuum.oil_planet.name=Black Gold Ahoy
-continuum.oil_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Crude Oil.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.oil_planet.name=喂，黑色的金子
+continuum.oil_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由石油构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.honey_planet.name=Sweet Sweet Honey
-continuum.honey_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Honey.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.honey_planet.name=甜甜的蜂蜜
+continuum.honey_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由蜂蜜构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.dna_planet.name=Swimming in Liquid DNA
-continuum.dna_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Liquid DNA.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.dna_planet.name=在液态基因中畅游
+continuum.dna_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由液态基因构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.redstone_planet.name=Land of the Red Blood
-continuum.redstone_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Destabilized Redstone.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.redstone_planet.name=红血之地
+continuum.redstone_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由不稳定红石构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.cryotheum_planet.name=Frozen but not Solid
-continuum.cryotheum_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Gelid Cryotheum.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.cryotheum_planet.name=冰冻但不凝固
+continuum.cryotheum_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由极寒之凛冰构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.ender_planet.name=Fluid of the Enderman
-continuum.ender_planet.desc=This planet is in the Fluid system. It is an ocean planet made almost entirely of Resonant Ender.\n\nTo fly to this planet, the Warp Controller Artifact slots must be filled with one of each item on the right.\n\nIt is highly recommended to place a waypoint at the rocket landing site, as it will probably be under the surface of the ocean.
+continuum.ender_planet.name=末影人的流体
+continuum.ender_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由谐振末影珍珠构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.red_katar.name=[Thunderfury, Blessed Blade of the Windseeker]
-continuum.red_katar.desc=The Red Katar is an omnitool that serves as a Sword, Hoe, Axe, and Shears all in one, and has infinite durability.\n\nIt has 4 levels which can be switched between with the charge button. With the Extra Function button, it will kill all hostiles in a radius around the player dependant on the charge level. You can toggle between killing only hostiles and killing all mobs with the Change Mode key.
+continuum.red_katar.name=「雷霆之怒，逐风者的祝福之剑」
+continuum.red_katar.desc=红物质拳剑是一种多功能工具，它可以当做剑、锄头、斧头和剪刀，并且具有无限耐久。\n\n它有 4 个级别，可以使用“充能”键进行切换。使用“其他功能”键，它将根据充能等级杀死玩家周围一定半径内的所有敌对生物。你可以使用“转换模式”键在“虐杀敌对生物”与“虐杀一切生物”模式之间进行切换。
 
 continuum.red_morningstar.name=早上好！
-continuum.red_morningstar.desc=红物质钉头锤是一个多功能工具，可同时用做锤子、镐子和铲子。\n\n右击矿脉将会一下挖掉整个矿脉。右击任意方块将会挖掘一个横向区域，区域大小取决于充能等级。
+continuum.red_morningstar.desc=红物质钉头锤是一种多功能工具，可同时用做锤子、镐子和铲子。\n\n右击矿脉将会一下挖掉整个矿脉。右击任意方块将会挖掘一个横向区域，区域大小取决于充能等级。
 
 continuum.fusion_coil.name=巨型强子对撞机
 continuum.fusion_coil.desc=最大号的聚变反应堆需要巨量的方块来搭建，据统计，共需 3172 个聚变线圈，而产生的 RF 总量非常滑稽。由于这个数量远高于你的物品栏所能携带的，所以这个任务要求一个装有 3172 个聚变线圈的无升级 YABBA 桶。
 
-continuum.plasma_generator.name=Please Sir, I Want Some More
-continuum.plasma_generator.desc=The Plasma Generator allows you to use Heliumplasma to generate very large amounts of RF, in addition to the RF that was created making it.
+continuum.plasma_generator.name=对不起先生,我还要一点
+continuum.plasma_generator.desc=除了制造等离子氦时产生的 RF，等离子体发电机还可以让你使用等离子氦来产生巨大量的 RF。
 
 continuum.mob_souls.name=生物之魂
 continuum.mob_souls.desc=刷怪箱控制器能够让你改变刷怪箱所能生成的生物。手持刷怪箱控制器右键一个生物可以在杀死该生物的同时将刷怪箱控制器设置为该种生物。然后，你可以右键点击一个刷怪箱，它会改变刷怪箱所产生的生物。而刷怪箱控制器在此过程中会被销毁。\n\n你也可以对准任意刷怪箱使用一个邪恶点滴右键来将它变成一个重构的刷怪箱。重构的刷怪箱可以被完整地破坏和拾取，并会不断生成它所设置的任何生物。这些生物比正常情况下更强大，类似于诅咒之土上产生的生物。你也可以插入速度升级以缩短怪物生成的间隔时间。
 
-continuum.solar_lunar_panels.name=Clean Energy
-continuum.solar_lunar_panels.desc=太阳能与月光面板都只能产出少量GP。分别只能在白天或晚上工作，我相信你可以搞清楚哪个是哪个。
+continuum.solar_lunar_panels.name=清洁能源
+continuum.solar_lunar_panels.desc=太阳能面板和月光面板都只能提供少量 GP。分别只能在白天和晚上工作，我相信你可以搞清楚哪个是哪个。
 
-continuum.water_mill.name=Hydroelectric
-continuum.water_mill.desc=水力发电机每个接触水流的侧面都会产出4GP，也就是说每个水力发电机最多可以产出16GP。水源是不会流动的，所以不会发电。
+continuum.water_mill.name=水电
+continuum.water_mill.desc=水力发电机每个接触水流的侧面都能提供 4GP，也就是说每个水力发电机最多可以产出 16GP。水源是不会流动的，所以不会发电。
 
-continuum.lava_mill.name=Thermoelectric
-continuum.lava_mill.desc=当岩浆发电机在任何面上接触岩浆时会产出2GP。岩浆的数量并不会影响什么，每个岩浆发电机的最大发电只有2GP
+continuum.lava_mill.name=热电
+continuum.lava_mill.desc=当岩浆发电机在任何面上接触岩浆时能提供 2GP。岩浆的数量并不会影响什么，每个岩浆发电机的最大发电只有 2GP。
 
-continuum.fire_mill.name=Smoky Power
-continuum.fire_mill.desc=当火力发电机在火焰上方时会产出4GP
+continuum.fire_mill.name=烟雾的能量
+continuum.fire_mill.desc=当火力发电机在火焰上方时能提供 4GP。
 
-continuum.dummy_quest.name=Rolling Machine / Implosion Compressor
-continuum.dummy_quest.desc=This is a dummy quest that completes when either the Implosion Compressor or the Rolling Machine are completed.
+continuum.dummy_quest.name=辊压机/聚爆压缩机
+continuum.dummy_quest.desc=这是一个虚拟的任务，当聚爆压缩机或辊压机任务完成时它就会完成。
 
-continuum.tr_sawmill.name=Woody
-continuum.tr_sawmill.desc=Tech Reborn 的锯木机是一个多方块机器，你可以从每个原木中获得6个木板\n\n锯木机方块位于机械外壳组成的3x3x3立方体的正面中间
+continuum.tr_sawmill.name=木质
+continuum.tr_sawmill.desc=科技复兴（Tech Reborn）的工业锯木机是一个可以从一个原木中获得 6 个木板的多方块机器。\n\n锯木机方块位于由机械外壳组成的 3x3x3 的立方体结构的正面的中央。
 
 #Quest Line
 continuum.new_game.name=这是你没玩过的全新版本
