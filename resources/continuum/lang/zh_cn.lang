@@ -5,13 +5,13 @@ continuum.logs.name=我是个伐木工，我现在很好
 continuum.logs.desc=像几乎所有的整合包一样，你首先要砍树。现在，通过合成制作木板只会给你 2 块木板而不是 4 块，而且你只能制作原版的木板。要获得更多的木板或来自模组的木板，你必须使用锯木机。\n\n任何原木都可完成该任务。
 
 continuum.efab.name=极好的 EFab
-continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n按下“显示物品用途”的按键（默认为 U），同时将鼠标悬停在 EFab 合成终端上查看需要使用 EFab 合成的配方。注意其中一些配方需要特定的升级。要获得石制工具或更高级的工具，你需要兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级槽位中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入机器的 GUI 中。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱来减少这个时间（最多 4 个，这会将合成时间减少到原来的 25％）。
+continuum.efab.desc=EFab 是一种新型的模块化多功能机器，其工作原理类似于高级工作台。有些物品只能通过 EFab 制作。首先，你需要 EFab 合成终端。\n\n要获得石头工具（指燧石而不是圆石）或更高级的工具，你需要安装兵工厂升级。制作好兵工厂升级后，将其放置在 EFab 的 GUI 中合成格下的 9 个升级槽位中。其他配方可能需要像齿轮箱这样的方块添加到多方块结构中，而不是将升级放入 EFab 合成终端里。\n\n多方块结构可以用 EFab 框架来延伸。多方块结构中的方块不必直接与 EFab 合成终端接触，它们只需要与另一个 §o属于§o§r§r EFab 的方块即可。\n\n另外需要注意的是，有些配方在需要材料的同时还需要时间来制作。你可以通过增加更多的齿轮箱、管道、蒸汽引擎或 RF 控制器来减少这个时间，这将取决于你想要提速的配方。如果在多方块结构中，一个配方用到了以上方块超过一种，它将永远以最高的速度倍率运行。
 
 continuum.tinkering.name=工匠之路
 continuum.tinkering.desc=现在 EFab 已经搭建好了，我们可以开始使用匠魂（Tinkers' Construct）了。虽然理论上讲只需要 6 个空白模具就可以制作所有的方块和一把能够使用的镐子，但你应该多做几个。
 
 continuum.smeltery.name=熔化器
-continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。一个矿物只会熔出与 1 锭等值的熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。每种工具部件以及锭、粒、宝石和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的流体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 10 分钟的时间。
+continuum.smeltery.desc=冶炼炉是一个多方块结构，你可以以熔岩为燃料，制造合金，金属工具部件和齿轮。\n\n将金属放入冶炼炉中，无论是矿石还是金属锭，它们都会慢慢熔化成熔融金属。一个矿物只会熔出与 1 锭等值的熔融金属。有些熔融金属会相互融合形成合金，所以如果你不需要这种合金，请注意不要同时熔炼它们。为了将熔融金属从冶炼炉中取出，你需要将其浇注到浇铸台上的铸模上，将与 9 个锭等值的熔融金属倒入铸造盆中以获得该金属的块。\n\n每种工具部件以及锭、粒、宝石和齿轮都有其铸模。要制作一个铸模，请将 2 个锭的熔融金或 1 个锭的熔融黄铜或 1 个锭的熔融铝黄铜浇注到您想要制作的这种铸模相应的部件上。这个过程将破坏该部件。\n\n这个任务所需要的方块可以让你制造一个内部为 3x3x1 的冶炼炉。冶炼厂的内部最高可以达到 7x7x7。内部空间的每增加一个方块都可以额外增加一个可以放入冶炼炉的物品或方块，以及额外 8 个锭的流体存储空间。\n\n建议尽早开始合成冶炼炉控制器，因为如果只使用一个齿轮箱的话，在 EFab 中合成它将会花费 10 分钟的时间。
 
 continuum.lunch_box.name=多样化就是生活调味料
 continuum.lunch_box.desc=多亏了“生活调味料（The Spice of Life）”这个 mod，经常食用同样的食物会使食物提供的回复减少，迫使你多样化饮食。\n\n一个午餐盒可以存储多达 6 种不同的食物，每种食物最多可容纳 2 组，共计 6 组食物。当午餐盒关闭时，右键使用它来打开它的 GUI 并放入食物。潜行时右键使用来开启午餐盒。通过使用开启的午餐盒，你可以直接吃到里面的食物。
@@ -53,7 +53,7 @@ continuum.engineers_workbench.name=工程师工作台
 continuum.engineers_workbench.desc=Engineer's Workshop 的工作台拥有 4 个槽位，可以放入工作台或熔炉，这意味着你可以同时使用它们。在“升级（Upgrades）”标签页中，你可以设置哪个区域为熔炉或工作台。当你关闭它时，物品会保留在工作台中。\n\n你可以将一个存储升级应用到每个工作台槽，并为其提供 6 种物品供其使用。在安装存储升级的工作台合成物品时，将消耗 6 个槽位中的物品，而不是合成格中的。
 
 continuum.coal_generator.name=老国王煤炭
-continuum.coal_generator.desc=现在我们有了木工机，也就有了电路板，我们可以制作更好的 RF 发电机了。这些发电机能够使用煤炭和其他可燃物而不是手动上发条，所以他们可以在你离开时产生 RF。\n\n煤炭发电机所能产生的 RF 要比生存者发电机少，但它具有更高的 RF 产生速率。生存发电机产生的 RF 要比煤炭发电机多 1.5 倍，但速度要慢得多。
+continuum.coal_generator.desc=现在我们有了木工机，也就有了电路板，我们可以制作更好的 RF 发电机了。这些发电机能够使用煤炭和其他可燃物而不是手动上发条，所以他们可以在你离开时产生 RF。\n\n煤炭发电机所能产生的 RF 要比生存者发电机少，但它具有更高的 RF 产生速率。生存发电机产生的 RF 要比煤炭发电机多 1.5 倍，但速度要慢得多。\n\n上述的这些发电机在被破坏时都会保留其内部的 RF。
 
 continuum.fluxduct.name=流动的能量
 continuum.fluxduct.desc=铅石能量管道是你能够将能量从 RF 的来源传输到机器的第一种方式。用管道将两者连接，RF 将通过管道进行传输。\n\n铅石能量管道每个连接的传输量只有 1,000RF/t，而硬化能量管道能够达到 4,000RF/t。
@@ -77,7 +77,7 @@ continuum.schematic.name=全息投影
 continuum.schematic.desc=多方块结构投影仪可以让你在世界上看到多方块结构的蓝图。将你的工程师手册翻到你想要查看的多方块结构的页面然后退出。将已经翻到多方块结构页面的工程师手册与多方块结构投影仪进行合成会将相应的多方块结构设置到投影仪中。\n\n手持投影仪时即可看到你所设置的多方块结构，你可以决定你想要摆放的位置。点击滚轮可以旋转蓝图，右键可以放下蓝图，这会放下一些并不存在的“幽灵”方块且能在正常摆放的时候被真正的方块所替代。在多方块结构搭建完成后，潜行时右键投影仪使幽灵方块消失。
 
 continuum.metal_press.name=世间万物压为先
-continuum.metal_press.desc=金属冲压机是一种能够让你自动将金属锭变成齿轮、板、线和杆的多方块机器。有关如何搭建该多方块结构的说明，请参阅工程师手册或投影仪。\n\n从其顶部输入 RF，从相应的传送带输入和输出物品。右键将模具放入金属冲压机中。\n\n物品处理过程十分缓慢，所以建议使用漏斗输入物品而不是传送带。\n\n金属冲压机为 3x3x1 的多方块结构。
+continuum.metal_press.desc=金属冲压机是一种能够让你自动将金属锭变成齿轮、板、线和杆的多方块机器。有关如何搭建该多方块结构的说明，请参阅工程师手册或投影仪。\n\n从其顶部输入 RF，从相应的传送带输入和输出物品。右键将模具放入金属冲压机中。\n\n金属冲压模具：板材有合成表，你不必在工程师装配台中合成。\n\n物品处理过程十分缓慢，所以建议使用漏斗输入物品而不是传送带。\n\n金属冲压机为 3x3x1 的多方块结构。
 
 continuum.crusher.name=碾碎他们
 continuum.crusher.desc=粉碎机是一种能够双倍产出矿物且能杀死生物的多方块机器。有关如何搭建该多方块结构的说明，请参阅工程师手册或投影仪。\n\n从其顶部输入物品（和生物），且必须要以实体的形式将其投入其中。它会从其前面的底部的方块输出物品；如果没有物品缓存供其输出的话，它会将物品以实体的形式扔出。能量要从其右边的顶部输入，你也可以在机器的左边关闭掉机器。\n\n粉碎机为 3x3x5 的多方块结构。
@@ -158,10 +158,10 @@ continuum.ranged_pump.name=远程泵
 continuum.ranged_pump.desc=Ranged Pump 的泵可以使用 RF 把它下方的流体泵到任意相邻的储罐中。它的范围是每个方向 64 格并且被泵走的流体会被替换为石头。
 
 continuum.void_ore_miner_3.name=于虚空中诞生的金属 III
-continuum.void_ore_miner_3.desc=三级虚空矿物采掘机可以生成更多种矿物，大小为 11x11x6。
+continuum.void_ore_miner_3.desc=三级虚空矿物采掘机可以生成更多种矿物，大小为 11x11x6。\n\n该多方块结构还需要 8 个任意种类的环境科技的强化部件。
 
 continuum.void_ore_miner_5.name=于虚空中诞生的金属 V
-continuum.void_ore_miner_5.desc=五级虚空矿物采掘机可以生成更多种矿物，大小为 11x11x8。
+continuum.void_ore_miner_5.desc=五级虚空矿物采掘机可以生成更多种矿物，大小为 11x11x8。\n\n该多方块结构还需要 16 个任意种类的环境科技的强化部件。
 
 continuum.shipping_bin.name=农业综合企业
 continuum.shipping_bin.desc=出货箱可以将一组任意的 Harvestcraft 或原版的作物卖出换取一个绿宝石。
@@ -203,10 +203,10 @@ continuum.autofarming.name=自动耕作
 continuum.autofarming.desc=利用播种机和收割机，你可以轻松地完成自动耕作。\n\n将播种机摆放在你希望的农场的中间的下面一格。在 GUI 中，你可以点击一个按钮切换是否显示工作区域。中间的 9 个槽用于设置工作区域的哪个部分种植哪种作物，它还可以存储该区域的种子或树苗。你也可以锁定或解锁存储槽，这样的话只有其中有的物品才能输入到该槽位。\n\n收割机能够收获成熟的作物并能砍掉工作区域内的树。所收获或收集的物品都在收割机的物品缓存中，并可以通过管道输出。收割机在工作过程中也会产生污泥。\n\n你可以将范围升级插件安装到几乎所有的 Industrial Foregoing 机器上，以成等级地增大其范围。
 
 continuum.void_ore_miner_4.name=于虚空中诞生的金属 IV
-continuum.void_ore_miner_4.desc=四级虚空矿物采掘机除了主世界的矿物外，还可以生成更多种类的霞姐矿石，大小为 11x11x7。
+continuum.void_ore_miner_4.desc=四级虚空矿物采掘机除了主世界的矿物外，还可以生成更多种类的霞姐矿石，大小为 11x11x7。\n\n该多方块结构还需要 12 个任意种类的环境科技的强化部件。
 
 continuum.low_powercell.name=来，来，存储能量！
-continuum.low_powercell.desc=能量单元能用来存储 RF。能量单元可以是单独一个方块也可以是任意形状的多方块结构。每个能量单元（低级）能够存储 250,000 RF。使用扳手在 RF 的输入、RF 的输出与无交互之间进行切换。能量单元（低级）的每个面只能以 100 RF/t 的速率输入和输出。当能量单元被破坏时，其内部的 RF 会被保存下来。\n\n一个能量单元的多方块结构可以由 729 个方块组成（如果它是一个立方体，则最大尺寸为 9x9x9）。
+continuum.low_powercell.desc=能量单元能用来存储 RF。能量单元可以是单独一个方块也可以是任意形状的多方块结构。每个能量单元（低级）能够存储 250,000RF。使用扳手在 RF 的输入、RF 的输出与无交互之间进行切换。能量单元（低级）的每个面只能以 100RF/t 的速率输入和输出。当能量单元被破坏时，其内部的 RF 会被保存下来。\n\n一个能量单元的多方块结构可以由 729 个方块组成（如果它是一个立方体，则最大尺寸为 9x9x9）。
 
 continuum.medium_powercell.name=压缩能量
 continuum.medium_powercell.desc=第二级别的能量单元每个可以存储 10,000,000RF，并且有着 500RF/t 的传输速度。升级能量单元时会保留 RF，因此你可以安全地使用以前的能量单元来制作更高级的能量单元而不会损失内部的 RF。
@@ -347,7 +347,7 @@ continuum.refinery.name=炼油厂
 continuum.refinery.desc=炼油厂是一种能够将植物油与乙醇混合产生生物柴油的多方块机器。\n\n炼油厂为 3x3x5 的多方块结构。
 
 continuum.diesel_generator.name=柴油发电机
-continuum.diesel_generator.desc=柴油发电机是一种能够使用生物柴油产生 RF 的多方块机器。\n\n柴油发电机为 5x3x3 的多方块结构。
+continuum.diesel_generator.desc=柴油发电机是一种能够使用生物柴油产生 RF 的多方块机器。\n\n柴油发电机能产生 1024RF/t 的能量。\n\n柴油发电机为 5x3x3 的多方块结构。
 
 continuum.arc_furnace.name=电弧炉
 continuum.arc_furnace.desc=电弧炉是一种能够快速冶炼矿物和制作合金的多方块机器。\n\n要使其能运行，其上方的槽位中需要 3 个石墨电极，并且能够从顶部中心的方块进行输入。石墨电极有耐久度，并且在损坏时必须更换。石墨电极也可以被附上耐久附魔，使其能工作更长时间。\n\n待加工的原材料（矿石或合金的主要部分）需放入左侧的 12 个槽中，并且能够从电极左侧的蓝色圆点一面进行输入。\n\n辅料，例如合金的其余部分则放入右侧的 4 个槽中，并且能够从电极右侧的蓝色圆点一面进行输入。\n\n底部的 7 个槽位为输出槽，并且能够从正前方底部的方块自动输出（矿渣则会从后方的底部输出）。\n\n电弧炉为 7x7x7 的多方块结构。
@@ -371,7 +371,7 @@ continuum.crafting_grid.name=合成终端
 continuum.crafting_grid.desc=合成终端的功能与普通的终端相似，但它有一个 3x3 合成格供你使用。
 
 continuum.void_ore_miner_6.name=于虚空中诞生的金属 VI
-continuum.void_ore_miner_6.desc=六级虚空资源采掘机是最高级别，会生成所有能生成的资源，大小为 13x13x8。
+continuum.void_ore_miner_6.desc=六级虚空资源采掘机是最高级别，会生成所有能生成的资源，大小为 13x13x8。该多方块结构还需要 20 个任意种类的环境科技的强化部件。
 
 continuum.void_resource_miner.name=于虚空中诞生的石头
 continuum.void_resource_miner.desc=虚空资源采掘机是一种通过 RF 来生成泥土、石头等资源的多方块机器。它一共有三个级别，每升一级都将会消耗更多的 RF 以更快的速度给你提供更多的资源。你可以通过把澄清透镜替换为彩色透镜来进一步影响你获得的资源种类。\n\n第一级的多方块结构大小是 7x7x4，控制器在最高一层的中心位置。放下控制器后，你就可以对着它按住右键使用装配杆，它会把其余部件放置在相应的位置。\n\n当虚空资源采掘机摆放完毕后，给控制器提供 RF，它就会开始生成资源并将资源放置在任意与控制器接触的容器中。为了使虚空资源采掘机能够工作，从透镜向下看必须能够清晰地看到基岩。
@@ -380,7 +380,7 @@ continuum.void_resource_miner_2.name=于虚空中诞生的石头 II
 continuum.void_resource_miner_2.desc=二级虚空资源采掘机可以生成更多种资源。为了升级机器，你需要把所有部件都拆下来并使用它们来制作下一级的部件。\n\n第二级的多方块结构大小是 7x7x5，控制器在最高一层的中心位置。从第二级开始，你就可以将机器中的无效果强化部件替换为其他的强化部件。
 
 continuum.void_resource_miner_3.name=于虚空中诞生的石头 III
-continuum.void_resource_miner_3.desc=三级虚空资源采掘机是最高级别，会生成更多种类的资源，大小为 11x11x6。
+continuum.void_resource_miner_3.desc=三级虚空资源采掘机是最高级别，会生成更多种类的资源，大小为 11x11x6。该多方块结构还需要 8 个任意种类的环境科技的强化部件。
 
 continuum.garden_cloche.name=并不是你那普通的花园
 continuum.garden_cloche.desc=园艺玻璃罩是一种以水和 RF 为代价实现大部分作物的自动化的快速而简单的方法。你可以将大部分种子放在位于中间的上面的槽位并将土壤（泥土或沙子取决于作物）放入其下面。水可以从底面、底部正面和底部背面输入。RF 可以从顶面或底面输入。\n\n一旦满足所有要求，园艺玻璃罩将开始种植作物（可以通过在左下方的槽位中经 GUI 或任意底部的端口输入诸如骨粉或肥料这样的肥料来加速作物），并将产物输出到右侧的槽位。如果有空间的话，这些产物会自动输出到从底部数第二个格的正面。
@@ -437,7 +437,7 @@ continuum.molecular_assembler.name=自动化工作站
 continuum.molecular_assembler.desc=ME 接口是自动化合成中最重要的组成部分。\n\n你可以将 ME 接口与分子装配室相连并将编码样板放入 ME 接口，也可以将 ME 接口与机器相连并将编码样板放入 ME 接口。如果将其连接到机器上，不要忘记也要添加一种方法将该物品传回 ME 系统。\n\n你可以将多达 6 个分子装配室连接到一个 ME 接口，并且你还可以将加速卡插入到分子装配室中来加速它们。\n\n你可以制作平的 ME 接口，它只连接到一个面上，但功能完全相同。\n\n每个 ME 接口都占用一个频道，而分子装配室不占用频道。
 
 continuum.me_interface_terminal.name=远程访问
-continuum.me_interface_terminal.desc=ME 接口终端可以让你将编码样板插入到任何 ME 接口中。该终端会占用一个频道。
+continuum.me_interface_terminal.desc=ME 接口终端可以让你将编码样板插入到任何 ME 接口中。该终端会占用一个频道。\n\n每个接口都标有它所贴附的机器的名称。你可以在铁砧中为接口重命名它就会标记为你所取的名字。
 
 continuum.me_pattern_terminal.name=书写配方
 continuum.me_pattern_terminal.desc=ME 样板终端可以让你书写空白样板以用于 ME 接口。在最右侧，你可以在使用分子装配室来制作传统合成配方的合成样板与使用机器（例如，将铁矿石输入到熔炉中上并输出铁锭）的处理样板之间进行切换。 如果该配方可以使用矿物辞典（Ore Dictionary），也可以进行切换。\n\nME 样板终端会占用一个频道。
@@ -604,7 +604,7 @@ continuum.condenser_mk2.desc=能量凝聚器 MK2 是能量凝聚器 MK1 的升�
 continuum.creative_modifier.name=请尽情强化
 continuum.creative_modifier.desc=创造模式强化槽，当被作为升级打在任意匠魂（Tinkers' Construct）的工具上时，会解锁该工具的一个强化槽。这个操作能进行的次数并没有限制。\n\n当然的，这不会消耗强化槽。
 
-continuum.creative_watering_can.name=创造模式浇灌
+continuum.creative_watering_can.name=无限浇灌
 continuum.creative_watering_can.desc=洒水壶（创造）加速作物生长时的耗水量基本为零。
 
 continuum.creative_capacitor.name=创造模式通量电容
@@ -656,7 +656,7 @@ continuum.infinity_booster_card.name=基于 Go
 continuum.infinity_booster_card.desc=无限增幅卡可以让你在任何维度的任何地方使用无线合成终端，并可以增加可存储在其内部的 RF 的量。只需将无限增幅卡插入无线合成终端的槽位（在合成格下）中即可使其生效。
 
 continuum.slimesling.name=抛物线
-continuum.slimesling.desc=史莱姆弹弓可以把你投掷到空中。对准一个方块按住以蓄力，然后松开手，你就会朝相反的方向飞行。你必须站在地上并且看着方块它才能工作。
+continuum.slimesling.desc=史莱姆弹弓可以把你投掷到空中。对准一个方块按住以蓄力，然后松开手，你就会朝相反的方向飞行。你必须站在地上并且看着方块它才能工作。\n\n虽然史莱姆靴被禁用掉了，但你在发射前可能需要附有摔落保护附魔的靴子或者一个滑翔翼！
 
 continuum.ghast_trophy.name=最强排球大师
 continuum.ghast_trophy.desc=杀死任意原版生物有 0.1% 的几率掉落战利品。右击这个战利品播放恶魂音效。
@@ -770,7 +770,7 @@ continuum.compressed_cobblestone.name=176,319,369,216
 continuum.compressed_cobblestone.desc=每个八重压缩圆石包含了 43,046,721 个圆石，重量约为 2,300kg ，也就是差不多 2.5吨 。\n\n完成这个任务需要 64 组八重压缩圆石。
 
 continuum.oss.name=HMS OSS
-continuum.oss.desc=OSS（The Object Submission Station），即物品提交站，允许你自动化完成提交任务。将 OSS 摆放出来，使用上面的箭头按钮选择任务，下面的箭头按钮选择要提交的项目，选好后按下确认标记按钮进行锁定。按下 X 按钮断开 OSS 和当前项目的链接，随后可更换目标项目。\n\n你可以在 OSS 上使用管道及其他自动化设备。
+continuum.oss.desc=任务提交站（OSS）可以让你自动化完成提交任务。将 OSS 摆放出来，使用上面的箭头按钮选择任务，下面的箭头按钮选择要提交的项目，选好后按下确认标记按钮进行锁定。按下 X 按钮断开 OSS 和当前项目的链接，随后可更换目标项目。\n\n你可以在 OSS 上使用管道及其他自动化设备。
 
 continuum.lava.name=热门玩意
 continuum.lava.desc=这个任务要求提交 131,072 桶熔岩，相当于两个满的恶魔筒那么多。
@@ -818,7 +818,7 @@ continuum.fusionarium.name=聚变物质
 continuum.fusionarium.desc=这个星球位于 Resources 星系。在此气态巨行星中有氚、氘和等离子氦。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
 continuum.gas_collection.name=气态
-continuum.gas_collection.desc=Gas giants cannot be landed on as they have no land to do so on. Instead, you can send out gas collection missions to collect certain gasses from their atmospheres. \n\nGas collection rockets should be built on the Space Station, as that's where they launch from and return to. Build a room or wing for it and place down an Unmanned Vehicle Assembler. On the left and right sides of it, place down Structure Towers to decide how wide you want it to be, and on the top place more to decide how tall it should be. From the top go forward (to behind the UVA) to decide how long the rocket should be. There should be nothing underneath, the rocket needs to have full access to hard vacuum.\n\nInside the area defined by the Structure Towers you can build the rocket. These rockets will be horizontal, not vertical. For gas collection rockets, make sure to include plenty of Pressurized Tanks and some Gas Intakes on as well. Place the Engines on the back of the rocket, and in the UVA you can scan and then build the rocket. Make sure it isn't pointed at the station itself - it might get stuck if it is!\n\nLink a Fuelling Station to the UVA to fuel the rocket, and link a Rocket Monitoring Station so you will be able to see how much time left until the rocket returns from its mission. Sneak right click on the built rocket and in the bottom right corner you can choose which gas to collect. If you aren't orbitting a gas giant there will be nothing to collect, so there's no purpose in sending one out there.\n\nOnce you've chosen the gas you want to collect, go to the Rocket Monitoring Station and click the launch button! The rocket will begin to lower out of the station before launching, flying off into the distance.\n\nOnce the gas collection mission is completed the rocket will return to the space station, no matter if you've moved away from the planet you deployed from. You can automatically extract the collected gases via a Rocket Fluid Unloader that's linked to the rocket or the UVA.
+continuum.gas_collection.desc=你不能着陆在气态巨行星上，因为它们没有土地可供着陆。 相反，你可以发送气体收集任务，从其大气中收集特定的气体。\n\n气体收集火箭应该建立在空间站上，因为这是它们发射及返回的地方。为其建在一个房间或是机翼，然后放下一个无人飞船组装器。在其左右两侧搭建结构塔以决定它的宽度，在上方搭建更多以决定其高度。.从最上方往前搭建（往无人飞船组装器的后方）以决定火箭的长度。不可有任何东西，火箭需完全接触到真空。\n\n在结构塔规划的区域内，你可以建造你的火箭。这些火箭将会使横的而非垂直的。对于气体收集火箭而言，请确保其包含充足的压槽及若干气体收集器。将发动机放到火箭的后面，在无人飞船组装器里你可以扫描并建造火箭。确保火箭并非对着太空站本身——它会被卡住。\n\n将燃油站及无人飞船组装器连接以填充燃料，然后连接到火箭监测站，则你可以查看火箭任务后返回的剩余时间。潜行右击建造好的火箭，然后在其右下角选择所欲收集的气体。如果你不是在气态巨行星的轨道上，你将不会收集到任何东西，因此也没有原因会你会在该处发射火箭。\n\n当你选择好想收集的气体后，到火箭检测站里点击发射按钮！火箭会在发射前先往下移离太空站，飞向无尽的天际。\n\n一旦气体收集任务完成，不管你是否已离开发射的星球，火箭都会返回到太空站。你可以透过已与无人飞船组装器连接的火箭液体卸载器自动抽出收集到的气体。
 
 continuum.litherite.name=莱泽尔石
 continuum.litherite.desc=这个星球位于 ETch 星系。它是已知宇宙中莱泽尔石的唯一来源。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上一组结构镶板。
@@ -850,8 +850,8 @@ continuum.oil_planet.desc=这个星球位于 Fluid 星系。这是一个几乎�
 continuum.honey_planet.name=甜甜的蜂蜜
 continuum.honey_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由蜂蜜构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
 
-continuum.dna_planet.name=在液态基因中畅游
-continuum.dna_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由液态基因构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
+continuum.dna_planet.name=在液态 DNA 中畅游
+continuum.dna_planet.desc=这个星球位于 Fluid 星系。这是一个由原生 DNA 构成的气态巨行星。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。
 
 continuum.redstone_planet.name=红血之地
 continuum.redstone_planet.desc=这个星球位于 Fluid 星系。这是一个几乎被完全由不稳定红石构成的海洋所覆盖的星球。\n\n要飞往此星球，需先在跃迁控制器工件槽位中放上右边所示的物品，每种各一个。\n\n强烈建议在火箭着陆点标记一个坐标点，因为它可能位于海洋表面之下。
